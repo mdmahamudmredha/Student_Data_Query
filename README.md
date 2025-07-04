@@ -442,3 +442,37 @@ See Full Dataset [Click Here](https://github.com/mdmahamudmredha/Student_Data_Qu
 ---
 
 
+## Visualization Part
+
+```Problem Statemanet
+	1. Day-wise Exam Attendance Trend				
+	2. Stacked Bar Chart: Daily Attempts by Exam				
+	3. Top 5 Students in Each Exam				
+	4. Performance Trend Categories (Improved / Declined / Same)				
+					
+Optional:					
+	5. Who improved the most in their second attempt?				
+	6. In which exams are students most likely to decline in performance?				
+	7. Is there any correlation between exam date and pass rate over time?				
+```
+#### Power BI Dashboard [Link](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/image.png)
+#### Video Explanation [Click Here]()
+
+### 1. Day-wise Exam Attendance Trend
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/image.png" width="1000"/>
+</p>
+
+### 2. Stacked Bar Chart: Daily Attempts by Exam
+
+### 3. Top 5 Students in Each Exam		
+
+### 4. Performance Trend Categories (Improved / Declined / Same)				
+					
+#### Optional:					
+### 5. Who improved the most in their second attempt?	
+
+### 6. In which exams are students most likely to decline in performance?	
+
+### 7. Is there any correlation between exam date and pass rate over time?	
