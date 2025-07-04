@@ -23,8 +23,7 @@ HAVING
 ```
 
  **Output:**
-
-<!-- There is no data to display. -->
+ - There is no data to display. 
 
 ---
 
@@ -37,8 +36,9 @@ FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
 
  **Output:**
 
-<!-- Row	total_rows
-     1	   1823	 -->
+ | Row |	total_rows |
+ |-----|-------------|
+ | 1	 |   1823	     |
 
 ---
 
@@ -72,8 +72,9 @@ FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
 ```
 
  **Output:**
-
-<!-- Insert output table or screenshot here -->
+| Row | null_user_id | null_exam_id | null_session_id | null_start_time | null_end_time |
+|-----|-------------|-------------|----------------|----------------|--------------|
+| 1   | 0           | 0           | 0              | 0              | 0            |
 
 ---
 
@@ -87,8 +88,9 @@ FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
 ```
 
  **Output:**
-
-<!-- Insert output table or screenshot here -->
+| Row | earliest_attempt                  | latest_attempt                    |
+|-----|----------------------------------|----------------------------------|
+| 1   | 2025-01-25 12:30:20.312000 UTC   | 2025-04-29 13:44:52.785000 UTC   |
 
 ---
 
@@ -107,8 +109,9 @@ FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
 ```
 
  **Output:**
-
-<!-- Insert output table or screenshot here -->
+| Row | min_correct | max_correct | avg_correct           | min_false | max_false | avg_false            |
+|-----|-------------|-------------|-----------------------|-----------|-----------|----------------------|
+| 1   | 0           | 30          | 14.83708173340648     | 0         | 25        | 6.3263850795392278   |
 
 ---
 
@@ -126,8 +129,20 @@ ORDER BY total_attempts DESC;
 ```
 
  **Output:**
-
-<!-- Insert output table or screenshot here -->
+| Row | exam_name                                      | total_attempts |
+|-----|-----------------------------------------------|----------------|
+| 1   | সাপ্তাহিক পরীক্ষা - ১                         | 351            |
+| 2   | Monthly Exam 1 (MCQ)                          | 257            |
+| 3   | Class 10 - Weekly MCQ Exam - February 1       | 158            |
+| 4   | Class 10 - Weekly MCQ Exam - February 2       | 155            |
+| 5   | Class 10 - Monthly MCQ Exam - February        | 131            |
+| 6   | Class 10 - Weekly MCQ Exam - February 3       | 127            |
+| 7   | Class 10 - Weekly MCQ Exam - April 1         | 114            |
+| 8   | Class 10 - Weekly MCQ Exam - April Week 2     | 113            |
+| 9   | Class 10 - Weekly MCQ Exam - March 1         | 111            |
+| 10  | Class 10 - Weekly MCQ Exam - March 2         | 107            |
+| 11  | Class 10 - Monthly MCQ Exam - March          | 103            |
+| 12  | Class 10 - Weekly MCQ Exam - April Week 3    | 96             |
 
 ---
 
@@ -144,7 +159,12 @@ LIMIT 5;
 ```
 
  **Output:**
-
-<!-- Insert output table or screenshot here -->
+| Row | user_id                     | total_attempts |
+|-----|-----------------------------|----------------|
+| 1   | 623ad09bfb492fa5df2dc9d4   | 46             |
+| 2   | 623a4e7cfb492fa5df1515a9   | 34             |
+| 3   | 623aa09afb492fa5df262d0e   | 23             |
+| 4   | 623a42b2fb492fa5df11c4b7   | 21             |
+| 5   | 623acd24fb492fa5df2d4517   | 21             |
 
 
