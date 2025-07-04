@@ -1,0 +1,61 @@
+exam_name,auth_user_id,actual_mark,exam_duration_seconds,rank
+Class 10 - Monthly MCQ Exam - February,623ad09bfb492fa5df2dc9d4,30.0,782,1
+Class 10 - Monthly MCQ Exam - February,623a3c91fb492fa5df0fe5fc,30.0,1310,2
+Class 10 - Monthly MCQ Exam - February,623a318efb492fa5df0c24df,30.0,1783,3
+Class 10 - Monthly MCQ Exam - February,623a8a95fb492fa5df224248,28.75,737,4
+Class 10 - Monthly MCQ Exam - February,623a710ffb492fa5df1d401d,27.5,500,5
+Class 10 - Monthly MCQ Exam - March,623a318efb492fa5df0c24df,30.0,894,1
+Class 10 - Monthly MCQ Exam - March,623acd24fb492fa5df2d4517,28.75,597,2
+Class 10 - Monthly MCQ Exam - March,623a3c91fb492fa5df0fe5fc,28.75,598,3
+Class 10 - Monthly MCQ Exam - March,623a7385fb492fa5df1dc1c8,27.5,396,4
+Class 10 - Monthly MCQ Exam - March,623abbadfb492fa5df2a98e7,27.5,813,5
+Class 10 - Weekly MCQ Exam - April 1,623ac5abfb492fa5df2c2367,28.75,947,1
+Class 10 - Weekly MCQ Exam - April 1,623a318cfb492fa5df0c2456,28.75,1610,2
+Class 10 - Weekly MCQ Exam - April 1,623a7385fb492fa5df1dc1c8,27.5,460,3
+Class 10 - Weekly MCQ Exam - April 1,623ac942fb492fa5df2caf3e,27.5,825,4
+Class 10 - Weekly MCQ Exam - April 1,623ad1befb492fa5df2df54d,26.25,435,5
+Class 10 - Weekly MCQ Exam - April Week 2,623a97dcfb492fa5df24a781,15.0,142,1
+Class 10 - Weekly MCQ Exam - April Week 2,623a4e17fb492fa5df14fa5b,15.0,185,2
+Class 10 - Weekly MCQ Exam - April Week 2,623a7385fb492fa5df1dc1c8,15.0,223,3
+Class 10 - Weekly MCQ Exam - April Week 2,623a51f3fb492fa5df160079,13.75,143,4
+Class 10 - Weekly MCQ Exam - April Week 2,623acd24fb492fa5df2d4517,13.75,299,5
+Class 10 - Weekly MCQ Exam - April Week 3,623aa09afb492fa5df262d0e,15.0,107,1
+Class 10 - Weekly MCQ Exam - April Week 3,623a7385fb492fa5df1dc1c8,15.0,149,2
+Class 10 - Weekly MCQ Exam - April Week 3,623ab2d8fb492fa5df2931b1,15.0,169,3
+Class 10 - Weekly MCQ Exam - April Week 3,623aa54ffb492fa5df26f883,15.0,278,4
+Class 10 - Weekly MCQ Exam - April Week 3,623a318efb492fa5df0c24df,15.0,293,5
+Class 10 - Weekly MCQ Exam - February 1,623a5e57fb492fa5df1918bc,25.0,208,1
+Class 10 - Weekly MCQ Exam - February 1,623a7385fb492fa5df1dc1c8,25.0,261,2
+Class 10 - Weekly MCQ Exam - February 1,623acd24fb492fa5df2d4517,25.0,376,3
+Class 10 - Weekly MCQ Exam - February 1,623a614afb492fa5df19ca21,23.75,617,4
+Class 10 - Weekly MCQ Exam - February 1,623ab72dfb492fa5df29e41b,23.75,619,5
+Class 10 - Weekly MCQ Exam - February 2,623a7025fb492fa5df1d0ebc,27.5,326,1
+Class 10 - Weekly MCQ Exam - February 2,623ac8e1fb492fa5df2ca08e,27.5,563,2
+Class 10 - Weekly MCQ Exam - February 2,623ad09bfb492fa5df2dc9d4,26.25,486,3
+Class 10 - Weekly MCQ Exam - February 2,623a4e50fb492fa5df1509dc,26.25,839,4
+Class 10 - Weekly MCQ Exam - February 2,623ad1befb492fa5df2df54d,26.25,846,5
+Class 10 - Weekly MCQ Exam - February 3,623ad1befb492fa5df2df54d,25.0,1048,1
+Class 10 - Weekly MCQ Exam - February 3,623a7385fb492fa5df1dc1c8,23.75,330,2
+Class 10 - Weekly MCQ Exam - February 3,623ad09bfb492fa5df2dc9d4,23.75,578,3
+Class 10 - Weekly MCQ Exam - February 3,623acd24fb492fa5df2d4517,22.5,360,4
+Class 10 - Weekly MCQ Exam - February 3,623aada9fb492fa5df285b20,22.5,451,5
+Class 10 - Weekly MCQ Exam - March 1,623aa797fb492fa5df2759dd,25.0,662,1
+Class 10 - Weekly MCQ Exam - March 1,623ab72dfb492fa5df29e41b,25.0,750,2
+Class 10 - Weekly MCQ Exam - March 1,623a4e7cfb492fa5df1515a9,23.75,180,3
+Class 10 - Weekly MCQ Exam - March 1,623acd24fb492fa5df2d4517,23.75,401,4
+Class 10 - Weekly MCQ Exam - March 1,623a473bfb492fa5df1315ad,23.75,510,5
+Class 10 - Weekly MCQ Exam - March 2,623a3c91fb492fa5df0fe5fc,25.0,984,1
+Class 10 - Weekly MCQ Exam - March 2,623aac8dfb492fa5df282c3d,23.75,134,2
+Class 10 - Weekly MCQ Exam - March 2,623acd24fb492fa5df2d4517,23.75,480,3
+Class 10 - Weekly MCQ Exam - March 2,623a318efb492fa5df0c24df,23.75,935,4
+Class 10 - Weekly MCQ Exam - March 2,623a8a95fb492fa5df224248,23.75,985,5
+Monthly Exam 1 (MCQ),623acd24fb492fa5df2d4517,28.75,162,1
+Monthly Exam 1 (MCQ),623a4e17fb492fa5df14fa5b,28.75,265,2
+Monthly Exam 1 (MCQ),623a7385fb492fa5df1dc1c8,28.75,312,3
+Monthly Exam 1 (MCQ),623a67b6fb492fa5df1b3bcc,28.75,559,4
+Monthly Exam 1 (MCQ),623ab9f2fb492fa5df2a539f,28.75,1130,5
+সাপ্তাহিক পরীক্ষা - ১,623a4e17fb492fa5df14fa5b,20.0,154,1
+সাপ্তাহিক পরীক্ষা - ১,623a4aadfb492fa5df140b79,20.0,170,2
+সাপ্তাহিক পরীক্ষা - ১,623ac8e1fb492fa5df2ca08e,20.0,352,3
+সাপ্তাহিক পরীক্ষা - ১,623ac694fb492fa5df2c46e3,20.0,472,4
+সাপ্তাহিক পরীক্ষা - ১,623a318efb492fa5df0c24df,20.0,519,5
