@@ -202,7 +202,7 @@ ORDER BY
 | 4   | 623a318cfb492fa5df0c2456   | Monthly Exam 1 (MCQ)                          | 2025-02-10 16:16:13.987000 UTC    | 0.0         |
 | 5   | 623a318cfb492fa5df0c2456   | Class 10 - Weekly MCQ Exam - February 2       | 2025-02-16 10:48:33.639000 UTC    | 18.75       |
 
-See Full Dataset [Click Here](https://www.google.com/search?q=data.csv)।
+See Full Dataset [Click Here](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/SQL%20Query/Actual%20Mark%20Calculation%20-%202.csv)
 
 
 
