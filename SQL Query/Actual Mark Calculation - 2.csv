@@ -1,0 +1,1824 @@
+user_id,exam_name,user_exam_starts_at,actual_mark
+623a318cfb492fa5df0c2456,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:30:59.666000 UTC,15.0
+623a318cfb492fa5df0c2456,Monthly Exam 1 (MCQ),2025-02-02 10:10:20.022000 UTC,18.75
+623a318cfb492fa5df0c2456,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:02:34.054000 UTC,11.25
+623a318cfb492fa5df0c2456,Monthly Exam 1 (MCQ),2025-02-10 16:16:13.987000 UTC,0.0
+623a318cfb492fa5df0c2456,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 10:48:33.639000 UTC,18.75
+623a318cfb492fa5df0c2456,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 11:07:53.646000 UTC,16.25
+623a318cfb492fa5df0c2456,Class 10 - Monthly MCQ Exam - February,2025-03-02 06:01:23.916000 UTC,25.0
+623a318cfb492fa5df0c2456,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 10:29:52.936000 UTC,20.0
+623a318cfb492fa5df0c2456,Class 10 - Weekly MCQ Exam - March 2,2025-03-24 22:46:46.670000 UTC,16.25
+623a318cfb492fa5df0c2456,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 16:00:43.505000 UTC,28.75
+623a318cfb492fa5df0c2456,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 05:10:33.384000 UTC,12.5
+623a318cfb492fa5df0c2456,Class 10 - Weekly MCQ Exam - April 1,2025-04-25 08:45:50.292000 UTC,0.0
+623a318cfb492fa5df0c2456,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 03:14:06.838000 UTC,15.0
+623a318efb492fa5df0c24df,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 10:04:40.525000 UTC,20.0
+623a318efb492fa5df0c24df,Monthly Exam 1 (MCQ),2025-02-01 13:36:31.019000 UTC,25.0
+623a318efb492fa5df0c24df,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 10:44:28.344000 UTC,23.75
+623a318efb492fa5df0c24df,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 07:57:18.899000 UTC,25.25
+623a318efb492fa5df0c24df,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 10:34:35.079000 UTC,21.25
+623a318efb492fa5df0c24df,Class 10 - Monthly MCQ Exam - February,2025-03-02 11:53:16.336000 UTC,30.0
+623a318efb492fa5df0c24df,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 11:55:23.270000 UTC,23.75
+623a318efb492fa5df0c24df,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 12:06:01.905000 UTC,23.75
+623a318efb492fa5df0c24df,Class 10 - Monthly MCQ Exam - March,2025-03-23 12:03:24.115000 UTC,30.0
+623a318efb492fa5df0c24df,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 11:10:48.683000 UTC,25.0
+623a318efb492fa5df0c24df,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 12:06:43.848000 UTC,13.75
+623a318efb492fa5df0c24df,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 11:12:12.309000 UTC,15.0
+623a3243fb492fa5df0c6751,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 10:10:17.373000 UTC,10.0
+623a3243fb492fa5df0c6751,Monthly Exam 1 (MCQ),2025-02-01 12:57:23.194000 UTC,19.5
+623a3243fb492fa5df0c6751,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:00:14.753000 UTC,15.5
+623a3243fb492fa5df0c6751,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 06:46:22.187000 UTC,10.75
+623a3243fb492fa5df0c6751,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 05:44:13.218000 UTC,18.0
+623a3243fb492fa5df0c6751,Class 10 - Weekly MCQ Exam - March 2,2025-03-23 06:21:35.870000 UTC,12.75
+623a3243fb492fa5df0c6751,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:20:40.900000 UTC,16.5
+623a3243fb492fa5df0c6751,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 06:19:49.100000 UTC,3.5
+623a3243fb492fa5df0c6751,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 06:30:06.333000 UTC,11.25
+623a3313fb492fa5df0cb1a2,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 15:13:24.286000 UTC,0.0
+623a3313fb492fa5df0cb1a2,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 15:42:48.831000 UTC,0.0
+623a3313fb492fa5df0cb1a2,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 04:46:01.504000 UTC,5.25
+623a3313fb492fa5df0cb1a2,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 07:07:39.309000 UTC,1.75
+623a3313fb492fa5df0cb1a2,Monthly Exam 1 (MCQ),2025-02-01 15:20:44.910000 UTC,14.75
+623a3313fb492fa5df0cb1a2,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 06:09:16.046000 UTC,7.75
+623a3313fb492fa5df0cb1a2,Class 10 - Monthly MCQ Exam - February,2025-03-02 05:45:54.577000 UTC,0.0
+623a3313fb492fa5df0cb1a2,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:00:53.605000 UTC,2.5
+623a338ffb492fa5df0cde2b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:30:43.828000 UTC,0.0
+623a338ffb492fa5df0cde2b,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 13:06:33.916000 UTC,5.0
+623a338ffb492fa5df0cde2b,Monthly Exam 1 (MCQ),2025-02-01 13:30:30.062000 UTC,0.0
+623a338ffb492fa5df0cde2b,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:17:32.143000 UTC,0.0
+623a338ffb492fa5df0cde2b,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 17:05:16.151000 UTC,0.0
+623a338ffb492fa5df0cde2b,Class 10 - Monthly MCQ Exam - March,2025-03-22 15:27:30.683000 UTC,25.0
+623a338ffb492fa5df0cde2b,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 15:09:08.469000 UTC,25.0
+623a338ffb492fa5df0cde2b,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:56:36.092000 UTC,12.5
+623a338ffb492fa5df0cde2b,Class 10 - Weekly MCQ Exam - February 3,2025-04-26 13:08:58.464000 UTC,11.5
+623a338ffb492fa5df0cde2b,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-26 13:43:13.732000 UTC,0.0
+623a338ffb492fa5df0cde2b,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-26 13:47:50.951000 UTC,0.0
+623a343ffb492fa5df0d1d44,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 15:36:41.324000 UTC,6.25
+623a343ffb492fa5df0d1d44,Monthly Exam 1 (MCQ),2025-02-01 13:11:34.815000 UTC,16.25
+623a343ffb492fa5df0d1d44,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 14:18:42.651000 UTC,11.5
+623a343ffb492fa5df0d1d44,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 09:13:43.236000 UTC,0.0
+623a343ffb492fa5df0d1d44,Class 10 - Monthly MCQ Exam - February,2025-03-02 08:28:37.743000 UTC,8.25
+623a3486fb492fa5df0d370d,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:05:11.400000 UTC,11.25
+623a3486fb492fa5df0d370d,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:51:39.854000 UTC,1.25
+623a3486fb492fa5df0d370d,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:59:17.831000 UTC,5.0
+623a3486fb492fa5df0d370d,সাপ্তাহিক পরীক্ষা - ১,2025-02-27 15:06:40.193000 UTC,0.0
+623a3486fb492fa5df0d370d,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:43:05.867000 UTC,10.0
+623a3486fb492fa5df0d370d,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:17:18.876000 UTC,11.25
+623a3486fb492fa5df0d370d,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:40:18.517000 UTC,0.0
+623a3486fb492fa5df0d370d,Class 10 - Monthly MCQ Exam - February,2025-04-05 12:49:52.833000 UTC,0.0
+623a3486fb492fa5df0d370d,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:52:12.675000 UTC,13.75
+623a3486fb492fa5df0d370d,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:40:42.201000 UTC,3.75
+623a3486fb492fa5df0d370d,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:03:18.546000 UTC,10.0
+623a35c5fb492fa5df0da820,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 10:30:53.501000 UTC,10.0
+623a35c5fb492fa5df0da820,Monthly Exam 1 (MCQ),2025-02-02 05:54:28.143000 UTC,10.0
+623a35c5fb492fa5df0da820,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 12:21:58.747000 UTC,3.75
+623a35c5fb492fa5df0da820,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 12:31:01.192000 UTC,10.0
+623a360cfb492fa5df0dc049,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:44.936000 UTC,13.75
+623a360cfb492fa5df0dc049,Monthly Exam 1 (MCQ),2025-02-01 12:36:26.028000 UTC,16.25
+623a360cfb492fa5df0dc049,Class 10 - Monthly MCQ Exam - February,2025-03-02 08:00:01.279000 UTC,19.25
+623a360cfb492fa5df0dc049,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:39:14.006000 UTC,12.5
+623a360cfb492fa5df0dc049,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:38:18.731000 UTC,0.0
+623a360cfb492fa5df0dc049,Class 10 - Monthly MCQ Exam - February,2025-03-16 03:58:06.089000 UTC,6.25
+623a3724fb492fa5df0e2163,Monthly Exam 1 (MCQ),2025-03-16 14:33:40.569000 UTC,1.75
+623a3724fb492fa5df0e2163,সাপ্তাহিক পরীক্ষা - ১,2025-04-15 14:43:13.945000 UTC,12.5
+623a3724fb492fa5df0e2163,সাপ্তাহিক পরীক্ষা - ১,2025-04-15 15:04:56.421000 UTC,0.0
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:33:05.684000 UTC,7.5
+623a3724fb492fa5df0e2163,সাপ্তাহিক পরীক্ষা - ১,2025-04-20 05:58:41.406000 UTC,0.0
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - February 1,2025-04-20 05:59:05.685000 UTC,10.0
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - February 2,2025-04-20 06:32:18.981000 UTC,8.0
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - April 1,2025-04-20 09:51:59.255000 UTC,4.75
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - February 3,2025-04-21 08:55:46.849000 UTC,0.0
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - February 3,2025-04-21 15:13:02.597000 UTC,3.0
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - March 1,2025-04-23 17:04:28.438000 UTC,0.0
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - March 2,2025-04-23 17:12:13.287000 UTC,0.0
+623a3724fb492fa5df0e2163,সাপ্তাহিক পরীক্ষা - ১,2025-04-25 13:23:19.537000 UTC,0.0
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:36:57.507000 UTC,3.75
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - March 1,2025-04-26 16:35:20.801000 UTC,0.0
+623a3724fb492fa5df0e2163,Class 10 - Weekly MCQ Exam - March 2,2025-04-27 07:09:38.764000 UTC,0.0
+623a3979fb492fa5df0ee826,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:42:12.949000 UTC,16.5
+623a3979fb492fa5df0ee826,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:00:14.941000 UTC,15.5
+623a3979fb492fa5df0ee826,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:42:47.148000 UTC,11.0
+623a3979fb492fa5df0ee826,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:23:04.305000 UTC,19.25
+623a3979fb492fa5df0ee826,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:48:54.949000 UTC,0.0
+623a3979fb492fa5df0ee826,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:38:44.241000 UTC,8.25
+623a3979fb492fa5df0ee826,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 15:39:24.017000 UTC,10.5
+623a3989fb492fa5df0eed47,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:41:08.355000 UTC,16.25
+623a3989fb492fa5df0eed47,Monthly Exam 1 (MCQ),2025-02-01 14:14:44.326000 UTC,25.0
+623a3989fb492fa5df0eed47,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:25:41.451000 UTC,18.75
+623a3a1efb492fa5df0f1d9e,Monthly Exam 1 (MCQ),2025-02-01 12:37:58.722000 UTC,17.5
+623a3a1efb492fa5df0f1d9e,Monthly Exam 1 (MCQ),2025-02-03 13:29:53.762000 UTC,0.0
+623a3a1efb492fa5df0f1d9e,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:54:40.259000 UTC,18.75
+623a3a1efb492fa5df0f1d9e,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:44:01.356000 UTC,8.25
+623a3a1efb492fa5df0f1d9e,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:30:34.178000 UTC,17.5
+623a3a1efb492fa5df0f1d9e,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:53:29.161000 UTC,7.5
+623a3a1efb492fa5df0f1d9e,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:39:11.021000 UTC,7.75
+623a3a1efb492fa5df0f1d9e,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:39:01.328000 UTC,10.0
+623a3a1efb492fa5df0f1d9e,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:54:55.599000 UTC,6.25
+623a3a98fb492fa5df0f44cf,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 10:32:40.784000 UTC,12.5
+623a3a98fb492fa5df0f44cf,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:06:01.580000 UTC,25.0
+623a3a98fb492fa5df0f44cf,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:22:54.925000 UTC,21.25
+623a3b20fb492fa5df0f7063,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:54:02.893000 UTC,16.25
+623a3b3afb492fa5df0f7885,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 11:07:00.650000 UTC,9.25
+623a3b3afb492fa5df0f7885,Monthly Exam 1 (MCQ),2025-02-02 12:25:58.824000 UTC,5.0
+623a3b3afb492fa5df0f7885,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 19:01:19.419000 UTC,17.5
+623a3b3afb492fa5df0f7885,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 19:08:03.972000 UTC,12.5
+623a3b3afb492fa5df0f7885,Class 10 - Monthly MCQ Exam - February,2025-03-02 10:31:53.241000 UTC,20.0
+623a3b3afb492fa5df0f7885,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 13:26:05.769000 UTC,2.25
+623a3b3afb492fa5df0f7885,Class 10 - Monthly MCQ Exam - March,2025-03-23 10:28:43.801000 UTC,23.75
+623a3b3afb492fa5df0f7885,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 08:27:54.655000 UTC,23.75
+623a3c81fb492fa5df0fe0dd,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:39:51.282000 UTC,17.5
+623a3c81fb492fa5df0fe0dd,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:46:18.165000 UTC,13.75
+623a3c81fb492fa5df0fe0dd,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:40:54.962000 UTC,26.25
+623a3c81fb492fa5df0fe0dd,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 01:40:32.047000 UTC,18.75
+623a3c81fb492fa5df0fe0dd,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 06:24:13.075000 UTC,11.25
+623a3c81fb492fa5df0fe0dd,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:41:39.353000 UTC,27.5
+623a3c81fb492fa5df0fe0dd,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:02:11.782000 UTC,17.5
+623a3c81fb492fa5df0fe0dd,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:09:47.571000 UTC,13.75
+623a3c81fb492fa5df0fe0dd,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:57:45.877000 UTC,15.0
+623a3c91fb492fa5df0fe5fc,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:08:05.502000 UTC,16.25
+623a3c91fb492fa5df0fe5fc,Monthly Exam 1 (MCQ),2025-02-02 10:11:33.558000 UTC,27.75
+623a3c91fb492fa5df0fe5fc,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:35:13.804000 UTC,16.25
+623a3c91fb492fa5df0fe5fc,Class 10 - Weekly MCQ Exam - February 2,2025-02-17 06:32:15.412000 UTC,23.0
+623a3c91fb492fa5df0fe5fc,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 14:13:54.559000 UTC,13.75
+623a3c91fb492fa5df0fe5fc,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:47:16.708000 UTC,30.0
+623a3c91fb492fa5df0fe5fc,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:46:05.419000 UTC,21.5
+623a3c91fb492fa5df0fe5fc,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:49:00.178000 UTC,25.0
+623a3c91fb492fa5df0fe5fc,Class 10 - Monthly MCQ Exam - March,2025-03-23 05:27:25.193000 UTC,28.75
+623a3c91fb492fa5df0fe5fc,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:57:43.139000 UTC,10.5
+623a3c91fb492fa5df0fe5fc,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:08:02.373000 UTC,10.25
+623a3c92fb492fa5df0fe640,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:22:23.477000 UTC,11.5
+623a3c92fb492fa5df0fe640,Monthly Exam 1 (MCQ),2025-02-01 14:29:25.292000 UTC,10.5
+623a3c92fb492fa5df0fe640,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 19:51:25.346000 UTC,17.25
+623a3f1bfb492fa5df10b0de,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:47:34.964000 UTC,6.25
+623a3f1bfb492fa5df10b0de,Monthly Exam 1 (MCQ),2025-02-01 13:01:09.616000 UTC,16.25
+623a3f1bfb492fa5df10b0de,Monthly Exam 1 (MCQ),2025-02-12 14:17:54.474000 UTC,10.25
+623a3f1bfb492fa5df10b0de,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 14:40:54.658000 UTC,7.5
+623a3f1bfb492fa5df10b0de,Class 10 - Monthly MCQ Exam - March,2025-03-22 15:11:42.231000 UTC,12.75
+623a3f1bfb492fa5df10b0de,Class 10 - Monthly MCQ Exam - March,2025-04-11 08:54:38.809000 UTC,5.25
+623a3fc4fb492fa5df10e509,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 13:22:49.410000 UTC,10.75
+623a4076fb492fa5df111aae,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 16:04:27.906000 UTC,12.5
+623a4076fb492fa5df111aae,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:57:50.403000 UTC,16.25
+623a4076fb492fa5df111aae,Class 10 - Monthly MCQ Exam - February,2025-03-01 14:06:16.074000 UTC,22.5
+623a4076fb492fa5df111aae,Monthly Exam 1 (MCQ),2025-03-04 08:45:57.724000 UTC,0.0
+623a4076fb492fa5df111aae,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 10:11:08.463000 UTC,14.0
+623a4076fb492fa5df111aae,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 08:53:34.998000 UTC,13.75
+623a4076fb492fa5df111aae,Class 10 - Monthly MCQ Exam - March,2025-03-23 07:02:25.104000 UTC,22.5
+623a4076fb492fa5df111aae,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 11:42:54.724000 UTC,22.5
+623a4076fb492fa5df111aae,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:57:22.452000 UTC,11.5
+623a4076fb492fa5df111aae,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:50:07.684000 UTC,0.0
+623a41cffb492fa5df1181bd,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:56:27.424000 UTC,7.75
+623a41cffb492fa5df1181bd,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 14:02:45.120000 UTC,9.5
+623a41cffb492fa5df1181bd,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 07:47:44.616000 UTC,6.25
+623a41cffb492fa5df1181bd,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 07:55:15.924000 UTC,16.25
+623a41cffb492fa5df1181bd,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 08:05:50.703000 UTC,0.0
+623a41cffb492fa5df1181bd,Monthly Exam 1 (MCQ),2025-02-01 12:36:52.781000 UTC,8.75
+623a41cffb492fa5df1181bd,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 01:58:22.358000 UTC,21.25
+623a41cffb492fa5df1181bd,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:40:42.690000 UTC,12.5
+623a41cffb492fa5df1181bd,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 09:29:11.980000 UTC,1.25
+623a41cffb492fa5df1181bd,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:38:26.839000 UTC,13.75
+623a41cffb492fa5df1181bd,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 06:29:36.740000 UTC,22.5
+623a41cffb492fa5df1181bd,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 06:03:11.937000 UTC,13.75
+623a41f5fb492fa5df118d02,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:38.215000 UTC,20.0
+623a41f5fb492fa5df118d02,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 17:29:24.755000 UTC,22.5
+623a42b2fb492fa5df11c4b7,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:36.851000 UTC,13.25
+623a42b2fb492fa5df11c4b7,Monthly Exam 1 (MCQ),2025-02-07 07:27:27.025000 UTC,11.5
+623a42b2fb492fa5df11c4b7,Monthly Exam 1 (MCQ),2025-02-07 08:20:49.550000 UTC,0.0
+623a42b2fb492fa5df11c4b7,Class 10 - Weekly MCQ Exam - February 1,2025-02-13 10:45:17.779000 UTC,0.5
+623a42b2fb492fa5df11c4b7,Monthly Exam 1 (MCQ),2025-02-14 05:59:26.299000 UTC,0.0
+623a42b2fb492fa5df11c4b7,Monthly Exam 1 (MCQ),2025-02-14 12:14:11.955000 UTC,0.0
+623a42b2fb492fa5df11c4b7,Monthly Exam 1 (MCQ),2025-02-15 00:59:49.597000 UTC,15.0
+623a42b2fb492fa5df11c4b7,Class 10 - Weekly MCQ Exam - February 1,2025-02-15 01:09:36.352000 UTC,8.75
+623a42b2fb492fa5df11c4b7,Class 10 - Weekly MCQ Exam - February 1,2025-02-15 01:21:13.054000 UTC,4.0
+623a42b2fb492fa5df11c4b7,Class 10 - Monthly MCQ Exam - February,2025-03-02 11:41:49.574000 UTC,6.25
+623a42b2fb492fa5df11c4b7,সাপ্তাহিক পরীক্ষা - ১,2025-03-03 11:21:30.407000 UTC,11.25
+623a42b2fb492fa5df11c4b7,Class 10 - Weekly MCQ Exam - February 3,2025-03-05 07:18:46.246000 UTC,0.0
+623a42b2fb492fa5df11c4b7,Class 10 - Weekly MCQ Exam - February 2,2025-03-05 07:19:39.236000 UTC,0.0
+623a42b2fb492fa5df11c4b7,Class 10 - Monthly MCQ Exam - March,2025-03-23 07:36:41.092000 UTC,0.75
+623a42b2fb492fa5df11c4b7,সাপ্তাহিক পরীক্ষা - ১,2025-03-23 07:56:44.264000 UTC,15.0
+623a42b2fb492fa5df11c4b7,সাপ্তাহিক পরীক্ষা - ১,2025-03-23 08:06:03.912000 UTC,17.5
+623a42b2fb492fa5df11c4b7,সাপ্তাহিক পরীক্ষা - ১,2025-03-23 08:18:30.694000 UTC,16.25
+623a42b2fb492fa5df11c4b7,Class 10 - Weekly MCQ Exam - February 1,2025-03-23 08:22:13.583000 UTC,1.0
+623a42b2fb492fa5df11c4b7,Class 10 - Weekly MCQ Exam - February 2,2025-03-23 08:23:11.367000 UTC,1.5
+623a42b2fb492fa5df11c4b7,Class 10 - Weekly MCQ Exam - February 3,2025-03-23 08:26:11.001000 UTC,1.25
+623a42b2fb492fa5df11c4b7,Class 10 - Monthly MCQ Exam - February,2025-03-23 08:29:51.714000 UTC,10.5
+623a4337fb492fa5df11ec48,Monthly Exam 1 (MCQ),2025-02-02 08:37:45.729000 UTC,10.0
+623a4337fb492fa5df11ec48,Monthly Exam 1 (MCQ),2025-02-05 08:33:45.147000 UTC,0.0
+623a4337fb492fa5df11ec48,সাপ্তাহিক পরীক্ষা - ১,2025-02-05 08:34:43.237000 UTC,11.25
+623a4337fb492fa5df11ec48,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:37:03.949000 UTC,15.0
+623a4337fb492fa5df11ec48,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:57:03.481000 UTC,19.75
+623a4337fb492fa5df11ec48,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:50:39.352000 UTC,9.25
+623a4337fb492fa5df11ec48,Class 10 - Weekly MCQ Exam - March 2,2025-03-18 16:59:29.139000 UTC,7.5
+623a4337fb492fa5df11ec48,সাপ্তাহিক পরীক্ষা - ১,2025-03-21 06:45:00.351000 UTC,3.0
+623a4337fb492fa5df11ec48,Class 10 - Monthly MCQ Exam - March,2025-03-22 14:24:51.663000 UTC,22.75
+623a4337fb492fa5df11ec48,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 18:15:30.184000 UTC,11.5
+623a44c3fb492fa5df126066,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 03:58:05.908000 UTC,7.5
+623a454efb492fa5df1288bb,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:27:53.318000 UTC,8.75
+623a454efb492fa5df1288bb,Monthly Exam 1 (MCQ),2025-02-02 04:09:35.679000 UTC,12.75
+623a454efb492fa5df1288bb,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 14:34:10.999000 UTC,1.0
+623a454efb492fa5df1288bb,Class 10 - Weekly MCQ Exam - February 1,2025-02-19 02:03:59.161000 UTC,0.0
+623a454efb492fa5df1288bb,Class 10 - Monthly MCQ Exam - February,2025-03-02 10:31:37.738000 UTC,11.5
+623a454efb492fa5df1288bb,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:28:28.964000 UTC,12.5
+623a454efb492fa5df1288bb,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 06:04:12.697000 UTC,11.5
+623a454efb492fa5df1288bb,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:00:02.778000 UTC,0.0
+623a4567fb492fa5df129054,সাপ্তাহিক পরীক্ষা - ১,2025-04-16 05:18:55.503000 UTC,0.0
+623a4567fb492fa5df129054,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:05:03.899000 UTC,11.25
+623a46ccfb492fa5df12f732,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:31:26.030000 UTC,17.5
+623a46ccfb492fa5df12f732,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:31:48.124000 UTC,0.0
+623a46ccfb492fa5df12f732,Monthly Exam 1 (MCQ),2025-02-01 12:48:07.324000 UTC,27.5
+623a46ccfb492fa5df12f732,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:38:17.249000 UTC,20.0
+623a46ccfb492fa5df12f732,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:41:55.775000 UTC,23.75
+623a46d7fb492fa5df12fa61,Class 10 - Weekly MCQ Exam - February 2,2025-02-27 06:48:48.105000 UTC,1.25
+623a46d7fb492fa5df12fa61,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:49:02.774000 UTC,25.0
+623a46d7fb492fa5df12fa61,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:45:28.319000 UTC,18.75
+623a46d7fb492fa5df12fa61,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:29:14.017000 UTC,18.75
+623a46d7fb492fa5df12fa61,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:48:36.377000 UTC,23.75
+623a46d7fb492fa5df12fa61,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 15:52:43.297000 UTC,6.25
+623a46d7fb492fa5df12fa61,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:15:47.949000 UTC,6.25
+623a473bfb492fa5df1315ad,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 06:10:13.761000 UTC,15.0
+623a473bfb492fa5df1315ad,Monthly Exam 1 (MCQ),2025-02-01 12:41:13.613000 UTC,21.25
+623a473bfb492fa5df1315ad,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:29:02.350000 UTC,22.5
+623a473bfb492fa5df1315ad,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:32:01.370000 UTC,26.25
+623a473bfb492fa5df1315ad,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:56:14.185000 UTC,17.5
+623a473bfb492fa5df1315ad,Class 10 - Monthly MCQ Exam - February,2025-03-02 06:44:09.327000 UTC,27.5
+623a473bfb492fa5df1315ad,Class 10 - Weekly MCQ Exam - March 1,2025-03-10 05:55:37.624000 UTC,18.75
+623a473bfb492fa5df1315ad,Class 10 - Weekly MCQ Exam - March 1,2025-03-10 06:13:06.983000 UTC,23.75
+623a473bfb492fa5df1315ad,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 07:04:21.138000 UTC,22.5
+623a473bfb492fa5df1315ad,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 10:26:03.810000 UTC,12.5
+623a47cbfb492fa5df133d9c,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 07:02:20.703000 UTC,21.25
+623a47cbfb492fa5df133d9c,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 06:52:15.556000 UTC,21.25
+623a48d2fb492fa5df138705,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:31:15.031000 UTC,7.5
+623a48d2fb492fa5df138705,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 16:42:45.270000 UTC,8.75
+623a48d2fb492fa5df138705,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 09:53:23.279000 UTC,7.5
+623a48d2fb492fa5df138705,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 09:56:47.267000 UTC,1.25
+623a48d2fb492fa5df138705,Monthly Exam 1 (MCQ),2025-02-01 12:39:10.136000 UTC,17.5
+623a48d2fb492fa5df138705,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 12:55:34.613000 UTC,0.0
+623a48d2fb492fa5df138705,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:01:53.723000 UTC,18.75
+623a48d2fb492fa5df138705,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:38:05.185000 UTC,16.25
+623a48d2fb492fa5df138705,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 17:00:22.927000 UTC,0.0
+623a48d2fb492fa5df138705,Class 10 - Weekly MCQ Exam - February 1,2025-03-13 15:19:58.613000 UTC,17.5
+623a48d2fb492fa5df138705,Class 10 - Weekly MCQ Exam - February 3,2025-03-13 15:34:55.437000 UTC,1.25
+623a48d2fb492fa5df138705,Class 10 - Weekly MCQ Exam - February 3,2025-03-13 15:40:13.381000 UTC,0.0
+623a48f5fb492fa5df1390e1,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:56:09.592000 UTC,5.0
+623a48f5fb492fa5df1390e1,Monthly Exam 1 (MCQ),2025-02-01 12:38:40.249000 UTC,1.25
+623a48f5fb492fa5df1390e1,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:22:55.600000 UTC,10.0
+623a48f5fb492fa5df1390e1,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:43:15.281000 UTC,1.5
+623a48f5fb492fa5df1390e1,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:40:40.236000 UTC,2.5
+623a48f5fb492fa5df1390e1,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 15:34:37.919000 UTC,0.0
+623a48f5fb492fa5df1390e1,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 14:16:27.998000 UTC,6.25
+623a48f5fb492fa5df1390e1,Class 10 - Weekly MCQ Exam - March 2,2025-04-12 14:56:26.261000 UTC,0.0
+623a48f5fb492fa5df1390e1,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 16:23:09.868000 UTC,2.5
+623a48fcfb492fa5df1392d7,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 11:50:17.401000 UTC,10.0
+623a48fcfb492fa5df1392d7,Monthly Exam 1 (MCQ),2025-02-01 12:39:44.827000 UTC,11.5
+623a48fcfb492fa5df1392d7,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 09:54:38.946000 UTC,12.0
+623a48fcfb492fa5df1392d7,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:57:03.755000 UTC,11.75
+623a48fcfb492fa5df1392d7,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 09:18:49.140000 UTC,1.0
+623a48fcfb492fa5df1392d7,Class 10 - Monthly MCQ Exam - February,2025-03-02 02:52:13.924000 UTC,7.75
+623a48fcfb492fa5df1392d7,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 04:53:09.481000 UTC,11.5
+623a48fcfb492fa5df1392d7,Class 10 - Monthly MCQ Exam - March,2025-03-23 02:33:50.187000 UTC,8.25
+623a48fcfb492fa5df1392d7,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:57:05.780000 UTC,10.75
+623a4a30fb492fa5df13e85e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:19:35.717000 UTC,20.0
+623a4a30fb492fa5df13e85e,Monthly Exam 1 (MCQ),2025-02-01 12:39:39.422000 UTC,18.75
+623a4a30fb492fa5df13e85e,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 06:26:17.545000 UTC,12.5
+623a4a30fb492fa5df13e85e,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 06:18:13.900000 UTC,18.75
+623a4a30fb492fa5df13e85e,Class 10 - Monthly MCQ Exam - February,2025-03-02 06:36:04.240000 UTC,12.5
+623a4a30fb492fa5df13e85e,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 10:37:06.552000 UTC,16.25
+623a4a30fb492fa5df13e85e,Class 10 - Monthly MCQ Exam - March,2025-03-23 07:58:54.630000 UTC,17.5
+623a4a30fb492fa5df13e85e,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 08:35:58.192000 UTC,23.75
+623a4a30fb492fa5df13e85e,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 11:55:06.694000 UTC,8.75
+623a4a56fb492fa5df13f319,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:37:42.267000 UTC,5.25
+623a4a56fb492fa5df13f319,Monthly Exam 1 (MCQ),2025-02-01 13:31:26.385000 UTC,0.0
+623a4a56fb492fa5df13f319,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:01:30.672000 UTC,0.0
+623a4a56fb492fa5df13f319,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:50:35.038000 UTC,7.5
+623a4a56fb492fa5df13f319,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 13:23:22.033000 UTC,5.0
+623a4a56fb492fa5df13f319,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:07:40.905000 UTC,1.5
+623a4aadfb492fa5df140b79,সাপ্তাহিক পরীক্ষা - ১,2025-04-07 15:06:32.549000 UTC,10.0
+623a4aadfb492fa5df140b79,সাপ্তাহিক পরীক্ষা - ১,2025-04-19 09:15:56.947000 UTC,15.0
+623a4aadfb492fa5df140b79,সাপ্তাহিক পরীক্ষা - ১,2025-04-28 05:32:14.860000 UTC,16.25
+623a4aadfb492fa5df140b79,সাপ্তাহিক পরীক্ষা - ১,2025-04-28 05:37:35.632000 UTC,20.0
+623a4bedfb492fa5df14639d,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:08:16.463000 UTC,7.5
+623a4bedfb492fa5df14639d,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:47:18.651000 UTC,5.0
+623a4c11fb492fa5df146d79,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:40:01.429000 UTC,15.0
+623a4c11fb492fa5df146d79,Monthly Exam 1 (MCQ),2025-02-01 13:18:18.622000 UTC,15.0
+623a4c11fb492fa5df146d79,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:17:26.751000 UTC,17.5
+623a4c11fb492fa5df146d79,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 15:49:18.885000 UTC,11.25
+623a4c11fb492fa5df146d79,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 07:41:57.126000 UTC,8.75
+623a4c11fb492fa5df146d79,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:12:40.435000 UTC,16.25
+623a4c11fb492fa5df146d79,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:48:42.244000 UTC,18.75
+623a4c11fb492fa5df146d79,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:59:02.351000 UTC,20.0
+623a4c11fb492fa5df146d79,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:27:20.422000 UTC,0.0
+623a4c11fb492fa5df146d79,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:33:55.097000 UTC,12.5
+623a4c37fb492fa5df1477c3,Monthly Exam 1 (MCQ),2025-02-01 13:19:49.895000 UTC,18.75
+623a4c37fb492fa5df1477c3,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:26:32.458000 UTC,0.0
+623a4d1afb492fa5df14b55d,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:38:30.315000 UTC,18.75
+623a4d1afb492fa5df14b55d,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:55:23.804000 UTC,18.5
+623a4d1afb492fa5df14b55d,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:06:11.481000 UTC,20.0
+623a4d1afb492fa5df14b55d,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:12:04.064000 UTC,9.5
+623a4d1afb492fa5df14b55d,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:21:18.446000 UTC,15.0
+623a4da1fb492fa5df14da68,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 17:30:11.462000 UTC,16.25
+623a4daffb492fa5df14de4a,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:37:31.400000 UTC,8.75
+623a4daffb492fa5df14de4a,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 06:02:33.834000 UTC,12.5
+623a4daffb492fa5df14de4a,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 06:08:55.673000 UTC,11.25
+623a4daffb492fa5df14de4a,Monthly Exam 1 (MCQ),2025-02-01 12:38:33.623000 UTC,15.0
+623a4daffb492fa5df14de4a,Monthly Exam 1 (MCQ),2025-02-06 17:02:35.350000 UTC,11.0
+623a4daffb492fa5df14de4a,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:56:25.771000 UTC,20.0
+623a4daffb492fa5df14de4a,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 16:21:07.012000 UTC,11.5
+623a4daffb492fa5df14de4a,সাপ্তাহিক পরীক্ষা - ১,2025-02-28 11:39:21.732000 UTC,15.5
+623a4daffb492fa5df14de4a,Class 10 - Weekly MCQ Exam - February 1,2025-02-28 11:45:05.026000 UTC,15.0
+623a4daffb492fa5df14de4a,Class 10 - Monthly MCQ Exam - February,2025-03-02 10:24:31.423000 UTC,17.75
+623a4daffb492fa5df14de4a,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 17:40:21.529000 UTC,11.25
+623a4daffb492fa5df14de4a,Class 10 - Monthly MCQ Exam - February,2025-03-15 10:47:48.481000 UTC,13.0
+623a4daffb492fa5df14de4a,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 16:13:57.515000 UTC,14.0
+623a4daffb492fa5df14de4a,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 14:31:34.645000 UTC,5.0
+623a4daffb492fa5df14de4a,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:55:16.180000 UTC,8.25
+623a4dc9fb492fa5df14e541,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:59:55.980000 UTC,10.0
+623a4dc9fb492fa5df14e541,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:55:41.457000 UTC,12.5
+623a4e07fb492fa5df14f604,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:59:26.464000 UTC,8.75
+623a4e07fb492fa5df14f604,Monthly Exam 1 (MCQ),2025-02-01 12:39:42.232000 UTC,23.75
+623a4e07fb492fa5df14f604,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:50:50.034000 UTC,23.75
+623a4e07fb492fa5df14f604,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:16:39.610000 UTC,13.75
+623a4e07fb492fa5df14f604,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:36:35.938000 UTC,15.0
+623a4e07fb492fa5df14f604,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 15:09:24.335000 UTC,9.25
+623a4e07fb492fa5df14f604,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 10:31:59.088000 UTC,14.0
+623a4e07fb492fa5df14f604,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:37:37.110000 UTC,15.25
+623a4e07fb492fa5df14f604,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 14:06:52.347000 UTC,9.0
+623a4e17fb492fa5df14fa5b,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:50:12.616000 UTC,17.5
+623a4e17fb492fa5df14fa5b,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 12:42:56.510000 UTC,15.0
+623a4e17fb492fa5df14fa5b,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 12:16:20.379000 UTC,20.0
+623a4e17fb492fa5df14fa5b,Monthly Exam 1 (MCQ),2025-02-01 14:39:39.509000 UTC,28.75
+623a4e17fb492fa5df14fa5b,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 12:24:41.490000 UTC,10.75
+623a4e17fb492fa5df14fa5b,Class 10 - Monthly MCQ Exam - February,2025-03-03 13:50:52.900000 UTC,26.25
+623a4e17fb492fa5df14fa5b,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 08:53:08.147000 UTC,22.5
+623a4e17fb492fa5df14fa5b,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 15:48:36.912000 UTC,21.25
+623a4e17fb492fa5df14fa5b,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 12:55:17.764000 UTC,25.0
+623a4e17fb492fa5df14fa5b,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 09:28:13.501000 UTC,15.0
+623a4e17fb492fa5df14fa5b,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 12:04:58.731000 UTC,12.5
+623a4e27fb492fa5df14feb0,Monthly Exam 1 (MCQ),2025-02-01 12:36:31.981000 UTC,25.0
+623a4e27fb492fa5df14feb0,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:38:20.255000 UTC,12.75
+623a4e27fb492fa5df14feb0,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:43:54.457000 UTC,17.75
+623a4e27fb492fa5df14feb0,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:46:38.035000 UTC,17.5
+623a4e27fb492fa5df14feb0,Class 10 - Monthly MCQ Exam - February,2025-03-17 09:23:17.073000 UTC,0.0
+623a4e27fb492fa5df14feb0,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:42:26.059000 UTC,21.25
+623a4e27fb492fa5df14feb0,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:57:35.959000 UTC,6.25
+623a4e27fb492fa5df14feb0,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:35:00.051000 UTC,6.25
+623a4e27fb492fa5df14feb0,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:41:01.916000 UTC,10.0
+623a4e50fb492fa5df1509dc,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:36:11.902000 UTC,15.0
+623a4e50fb492fa5df1509dc,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 02:30:37.262000 UTC,16.25
+623a4e50fb492fa5df1509dc,Monthly Exam 1 (MCQ),2025-02-01 12:38:56.899000 UTC,22.5
+623a4e50fb492fa5df1509dc,Monthly Exam 1 (MCQ),2025-02-04 14:11:06.314000 UTC,23.75
+623a4e50fb492fa5df1509dc,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:32:56.910000 UTC,16.25
+623a4e50fb492fa5df1509dc,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:01:03.454000 UTC,26.25
+623a4e50fb492fa5df1509dc,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:00:14.623000 UTC,13.0
+623a4e50fb492fa5df1509dc,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:45:55.955000 UTC,26.25
+623a4e50fb492fa5df1509dc,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 15:15:09.712000 UTC,22.5
+623a4e50fb492fa5df1509dc,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:57:04.159000 UTC,22.5
+623a4e50fb492fa5df1509dc,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:24:35.765000 UTC,26.25
+623a4e50fb492fa5df1509dc,Class 10 - Weekly MCQ Exam - April 1,2025-04-14 17:26:02.034000 UTC,9.5
+623a4e50fb492fa5df1509dc,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 15:53:16.818000 UTC,0.0
+623a4e6cfb492fa5df151173,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:41:15.359000 UTC,8.75
+623a4e6cfb492fa5df151173,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:57:55.988000 UTC,7.5
+623a4e6cfb492fa5df151173,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 14:00:44.008000 UTC,8.75
+623a4e6cfb492fa5df151173,Monthly Exam 1 (MCQ),2025-02-01 12:46:59.288000 UTC,22.5
+623a4e6cfb492fa5df151173,সাপ্তাহিক পরীক্ষা - ১,2025-02-05 06:30:58.998000 UTC,7.5
+623a4e6cfb492fa5df151173,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:07:07.167000 UTC,16.25
+623a4e6cfb492fa5df151173,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:35:35.254000 UTC,8.75
+623a4e6cfb492fa5df151173,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:51:00.841000 UTC,11.25
+623a4e6cfb492fa5df151173,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:45:02.752000 UTC,8.75
+623a4e6cfb492fa5df151173,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 05:29:07.429000 UTC,8.75
+623a4e76fb492fa5df1513f2,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:49:06.799000 UTC,8.25
+623a4e76fb492fa5df1513f2,Monthly Exam 1 (MCQ),2025-02-01 12:36:58.583000 UTC,14.5
+623a4e76fb492fa5df1513f2,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:49:05.673000 UTC,14.75
+623a4e76fb492fa5df1513f2,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 06:09:32.890000 UTC,14.25
+623a4e76fb492fa5df1513f2,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:17:01.486000 UTC,3.75
+623a4e76fb492fa5df1513f2,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 18:15:54.745000 UTC,9.0
+623a4e7cfb492fa5df1515a9,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:31:18.725000 UTC,4.25
+623a4e7cfb492fa5df1515a9,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 06:57:18.462000 UTC,0.0
+623a4e7cfb492fa5df1515a9,Monthly Exam 1 (MCQ),2025-02-01 12:34:29.918000 UTC,11.25
+623a4e7cfb492fa5df1515a9,Monthly Exam 1 (MCQ),2025-02-02 14:23:49.222000 UTC,1.25
+623a4e7cfb492fa5df1515a9,Monthly Exam 1 (MCQ),2025-02-02 16:20:07.705000 UTC,3.75
+623a4e7cfb492fa5df1515a9,Monthly Exam 1 (MCQ),2025-02-02 16:26:25.207000 UTC,16.25
+623a4e7cfb492fa5df1515a9,Monthly Exam 1 (MCQ),2025-02-03 04:14:14.257000 UTC,5.0
+623a4e7cfb492fa5df1515a9,সাপ্তাহিক পরীক্ষা - ১,2025-02-03 12:55:13.898000 UTC,7.5
+623a4e7cfb492fa5df1515a9,সাপ্তাহিক পরীক্ষা - ১,2025-02-03 13:01:03.517000 UTC,6.25
+623a4e7cfb492fa5df1515a9,সাপ্তাহিক পরীক্ষা - ১,2025-02-03 13:10:53.067000 UTC,7.5
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:34:11.706000 UTC,1.25
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:45:17.802000 UTC,1.25
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 15:03:43.140000 UTC,6.25
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - February 2,2025-02-25 14:04:21.756000 UTC,3.75
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - February 2,2025-02-25 14:08:07.491000 UTC,3.75
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - February 2,2025-02-25 14:13:16.755000 UTC,15.0
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - February 2,2025-02-25 14:22:45.073000 UTC,8.75
+623a4e7cfb492fa5df1515a9,Class 10 - Monthly MCQ Exam - February,2025-03-01 14:07:47.824000 UTC,1.25
+623a4e7cfb492fa5df1515a9,Class 10 - Monthly MCQ Exam - February,2025-03-03 14:13:45.173000 UTC,8.75
+623a4e7cfb492fa5df1515a9,Class 10 - Monthly MCQ Exam - February,2025-03-03 14:23:27.085000 UTC,13.75
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 16:23:48.433000 UTC,6.25
+623a4e7cfb492fa5df1515a9,Class 10 - Monthly MCQ Exam - February,2025-03-09 13:19:35.777000 UTC,6.25
+623a4e7cfb492fa5df1515a9,Class 10 - Monthly MCQ Exam - February,2025-03-09 13:34:51.164000 UTC,16.25
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 13:44:06.615000 UTC,18.75
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 13:53:36.358000 UTC,17.5
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 14:04:31.919000 UTC,18.75
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 14:12:08.854000 UTC,23.75
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 16:33:28.970000 UTC,0.0
+623a4e7cfb492fa5df1515a9,Class 10 - Monthly MCQ Exam - March,2025-03-22 16:18:34.016000 UTC,3.75
+623a4e7cfb492fa5df1515a9,Class 10 - Monthly MCQ Exam - March,2025-03-28 15:30:26.620000 UTC,0.0
+623a4e7cfb492fa5df1515a9,Class 10 - Monthly MCQ Exam - March,2025-04-01 14:21:41.362000 UTC,10.0
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 15:09:24.320000 UTC,11.25
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 15:36:17.782000 UTC,2.5
+623a4e7cfb492fa5df1515a9,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 16:14:49.927000 UTC,1.25
+623a4f0cfb492fa5df153bc4,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:37:02.435000 UTC,6.5
+623a4f0cfb492fa5df153bc4,Monthly Exam 1 (MCQ),2025-02-02 01:43:09.867000 UTC,21.25
+623a4f0cfb492fa5df153bc4,Class 10 - Weekly MCQ Exam - February 1,2025-02-10 02:31:37.249000 UTC,17.5
+623a4f0cfb492fa5df153bc4,Class 10 - Weekly MCQ Exam - February 1,2025-02-10 11:36:33.345000 UTC,0.0
+623a4f0cfb492fa5df153bc4,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 11:51:08.589000 UTC,23.75
+623a4f0cfb492fa5df153bc4,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:20:16.642000 UTC,22.5
+623a4f0cfb492fa5df153bc4,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:55:49.329000 UTC,12.5
+623a4f0cfb492fa5df153bc4,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:38:23.234000 UTC,13.75
+623a4f0cfb492fa5df153bc4,Class 10 - Monthly MCQ Exam - March,2025-03-23 08:17:57.153000 UTC,25.0
+623a4f0cfb492fa5df153bc4,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 16:11:25.902000 UTC,0.0
+623a4f0ffb492fa5df153cc2,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:34:32.591000 UTC,21.25
+623a4f0ffb492fa5df153cc2,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:39:57.821000 UTC,18.75
+623a4f38fb492fa5df1547ad,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 11:12:15.326000 UTC,7.5
+623a4f38fb492fa5df1547ad,Monthly Exam 1 (MCQ),2025-02-01 15:55:48.066000 UTC,11.25
+623a4f38fb492fa5df1547ad,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 06:39:57.342000 UTC,10.0
+623a4f38fb492fa5df1547ad,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:45:48.877000 UTC,6.25
+623a4fb2fb492fa5df156846,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:35:55.306000 UTC,0.0
+623a4fb2fb492fa5df156846,Class 10 - Weekly MCQ Exam - April 1,2025-04-14 15:57:51.981000 UTC,8.75
+623a4fb2fb492fa5df156846,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:01:29.388000 UTC,-1.25
+623a4fb2fb492fa5df156846,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:31:57.202000 UTC,3.75
+623a5100fb492fa5df15c10a,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:05:56.625000 UTC,10.0
+623a5100fb492fa5df15c10a,Monthly Exam 1 (MCQ),2025-02-01 16:16:35.214000 UTC,12.5
+623a51f3fb492fa5df160079,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:31:54.542000 UTC,0.0
+623a51f3fb492fa5df160079,Monthly Exam 1 (MCQ),2025-02-02 10:09:12.130000 UTC,18.75
+623a51f3fb492fa5df160079,সাপ্তাহিক পরীক্ষা - ১,2025-02-02 10:41:09.610000 UTC,11.25
+623a51f3fb492fa5df160079,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 13:17:37.443000 UTC,17.5
+623a51f3fb492fa5df160079,Class 10 - Weekly MCQ Exam - February 2,2025-02-25 13:15:00.636000 UTC,10.25
+623a51f3fb492fa5df160079,Class 10 - Monthly MCQ Exam - February,2025-03-02 11:20:08.378000 UTC,16.25
+623a51f3fb492fa5df160079,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 07:54:44.218000 UTC,23.75
+623a51f3fb492fa5df160079,Class 10 - Monthly MCQ Exam - March,2025-03-23 07:50:03.268000 UTC,17.5
+623a51f3fb492fa5df160079,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:20:27.835000 UTC,10.0
+623a51f3fb492fa5df160079,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-21 07:00:29.816000 UTC,13.75
+623a51f3fb492fa5df160079,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-21 07:03:15.710000 UTC,12.5
+623a5273fb492fa5df16218e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:32:50.754000 UTC,8.75
+623a5273fb492fa5df16218e,Monthly Exam 1 (MCQ),2025-02-01 12:48:19.024000 UTC,10.0
+623a5273fb492fa5df16218e,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 16:02:04.202000 UTC,1.5
+623a5273fb492fa5df16218e,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:49:15.079000 UTC,6.25
+623a5273fb492fa5df16218e,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 14:21:34.003000 UTC,-1.25
+623a5280fb492fa5df1624f7,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:28:50.125000 UTC,8.75
+623a5280fb492fa5df1624f7,Monthly Exam 1 (MCQ),2025-02-01 12:55:35.239000 UTC,22.5
+623a5280fb492fa5df1624f7,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:44:45.394000 UTC,22.5
+623a5280fb492fa5df1624f7,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 06:54:47.654000 UTC,15.0
+623a5280fb492fa5df1624f7,Class 10 - Weekly MCQ Exam - February 2,2025-02-18 06:31:22.309000 UTC,15.0
+623a5280fb492fa5df1624f7,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 15:53:43.373000 UTC,10.0
+623a52b1fb492fa5df1631fe,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 11:36:25.326000 UTC,15.0
+623a52b1fb492fa5df1631fe,Monthly Exam 1 (MCQ),2025-02-02 10:02:36.125000 UTC,22.5
+623a52b1fb492fa5df1631fe,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 12:09:57.734000 UTC,16.25
+623a52b1fb492fa5df1631fe,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 11:48:49.862000 UTC,8.75
+623a52b1fb492fa5df1631fe,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 11:15:10.456000 UTC,10.0
+623a52b1fb492fa5df1631fe,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 11:41:57.380000 UTC,15.0
+623a52b1fb492fa5df1631fe,Class 10 - Monthly MCQ Exam - March,2025-03-23 09:24:01.077000 UTC,25.0
+623a52b1fb492fa5df1631fe,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 12:00:30.284000 UTC,18.75
+623a52b1fb492fa5df1631fe,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 09:20:14.259000 UTC,10.0
+623a52b1fb492fa5df1631fe,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 12:05:37.474000 UTC,13.75
+623a52bafb492fa5df163464,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:56:24.152000 UTC,0.0
+623a52bafb492fa5df163464,Monthly Exam 1 (MCQ),2025-02-01 12:44:22.323000 UTC,5.0
+623a52bafb492fa5df163464,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:43:24.647000 UTC,1.75
+623a52bafb492fa5df163464,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:41:36.515000 UTC,-1.25
+623a52bafb492fa5df163464,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:17:13.855000 UTC,-2.0
+623a52bafb492fa5df163464,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:44:01.188000 UTC,1.25
+623a52bafb492fa5df163464,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:19:06.983000 UTC,6.25
+623a54f8fb492fa5df16c814,সাপ্তাহিক পরীক্ষা - ১,2025-02-02 12:46:07.609000 UTC,0.0
+623a54f8fb492fa5df16c814,Class 10 - Weekly MCQ Exam - February 1,2025-02-28 05:16:16.915000 UTC,10.0
+623a54f8fb492fa5df16c814,Class 10 - Weekly MCQ Exam - March 2,2025-03-21 04:18:56.117000 UTC,16.25
+623a54f8fb492fa5df16c814,সাপ্তাহিক পরীক্ষা - ১,2025-03-22 15:32:04.422000 UTC,6.25
+623a5501fb492fa5df16ca79,Monthly Exam 1 (MCQ),2025-02-01 13:42:31.622000 UTC,23.75
+623a5501fb492fa5df16ca79,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 14:14:07.452000 UTC,8.75
+623a5501fb492fa5df16ca79,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:14:11.347000 UTC,11.25
+623a5501fb492fa5df16ca79,Class 10 - Weekly MCQ Exam - February 2,2025-02-22 13:53:26.583000 UTC,16.25
+623a5501fb492fa5df16ca79,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:32:17.549000 UTC,3.75
+623a56affb492fa5df173709,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 00:20:52.102000 UTC,17.5
+623a56affb492fa5df173709,Monthly Exam 1 (MCQ),2025-02-02 11:09:30.932000 UTC,26.25
+623a56affb492fa5df173709,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 13:49:18.207000 UTC,21.25
+623a574ffb492fa5df175f7d,Class 10 - Monthly MCQ Exam - February,2025-03-19 10:19:56.716000 UTC,-0.25
+623a574ffb492fa5df175f7d,সাপ্তাহিক পরীক্ষা - ১,2025-03-19 10:21:12.327000 UTC,0.0
+623a574ffb492fa5df175f7d,Class 10 - Weekly MCQ Exam - March 2,2025-03-19 10:22:58.805000 UTC,0.0
+623a574ffb492fa5df175f7d,Monthly Exam 1 (MCQ),2025-03-21 10:28:26.124000 UTC,16.25
+623a574ffb492fa5df175f7d,সাপ্তাহিক পরীক্ষা - ১,2025-03-21 10:46:24.030000 UTC,0.0
+623a574ffb492fa5df175f7d,Monthly Exam 1 (MCQ),2025-03-21 10:47:10.269000 UTC,0.0
+623a574ffb492fa5df175f7d,সাপ্তাহিক পরীক্ষা - ১,2025-03-22 09:31:58.106000 UTC,0.0
+623a574ffb492fa5df175f7d,Class 10 - Weekly MCQ Exam - February 1,2025-03-22 09:33:28.006000 UTC,12.5
+623a574ffb492fa5df175f7d,সাপ্তাহিক পরীক্ষা - ১,2025-03-22 12:41:17.061000 UTC,-0.25
+623a574ffb492fa5df175f7d,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:06:50.274000 UTC,0.0
+623a574ffb492fa5df175f7d,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 15:27:32.295000 UTC,20.0
+623a574ffb492fa5df175f7d,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 15:03:37.462000 UTC,8.75
+623a574ffb492fa5df175f7d,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:09:46.908000 UTC,11.25
+623a5759fb492fa5df1761dc,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:47:07.187000 UTC,13.25
+623a5759fb492fa5df1761dc,Monthly Exam 1 (MCQ),2025-02-01 13:57:46.064000 UTC,16.25
+623a5759fb492fa5df1761dc,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 16:43:49.901000 UTC,26.25
+623a5759fb492fa5df1761dc,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:09:11.931000 UTC,0.0
+623a5825fb492fa5df17957d,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:32:49.457000 UTC,8.75
+623a5825fb492fa5df17957d,Monthly Exam 1 (MCQ),2025-02-01 12:47:51.719000 UTC,24.0
+623a5825fb492fa5df17957d,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 18:49:00.301000 UTC,21.5
+623a5825fb492fa5df17957d,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 02:14:39.553000 UTC,23.25
+623a5825fb492fa5df17957d,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 05:54:26.854000 UTC,11.5
+623a5825fb492fa5df17957d,Class 10 - Monthly MCQ Exam - February,2025-03-02 05:02:24.533000 UTC,17.5
+623a58bbfb492fa5df17bb36,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:36:52.003000 UTC,18.75
+623a58bbfb492fa5df17bb36,Monthly Exam 1 (MCQ),2025-02-01 13:30:25.820000 UTC,23.75
+623a58bbfb492fa5df17bb36,Class 10 - Weekly MCQ Exam - February 3,2025-03-03 17:40:50.627000 UTC,0.0
+623a58e1fb492fa5df17c4a8,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:42:55.734000 UTC,8.75
+623a58e1fb492fa5df17c4a8,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:23:17.710000 UTC,0.0
+623a58e1fb492fa5df17c4a8,Monthly Exam 1 (MCQ),2025-02-01 12:38:41.629000 UTC,20.0
+623a58e1fb492fa5df17c4a8,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:54:39.450000 UTC,18.75
+623a58e1fb492fa5df17c4a8,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 16:24:24.680000 UTC,11.25
+623a58e1fb492fa5df17c4a8,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:58:01.606000 UTC,12.5
+623a58e1fb492fa5df17c4a8,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:39:21.460000 UTC,11.25
+623a58e1fb492fa5df17c4a8,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:43:24.449000 UTC,18.75
+623a58e1fb492fa5df17c4a8,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 13:02:53.057000 UTC,11.25
+623a58e1fb492fa5df17c4a8,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 14:45:09.447000 UTC,8.75
+623a58e1fb492fa5df17c4a8,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:20:33.336000 UTC,11.25
+623a5ab2fb492fa5df1836b5,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 18:01:01.919000 UTC,11.25
+623a5ab2fb492fa5df1836b5,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 18:31:45.524000 UTC,16.5
+623a5ab2fb492fa5df1836b5,Monthly Exam 1 (MCQ),2025-02-02 11:12:04.668000 UTC,25.25
+623a5b71fb492fa5df18650d,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:14:39.606000 UTC,8.75
+623a5b71fb492fa5df18650d,Monthly Exam 1 (MCQ),2025-02-01 14:31:15.579000 UTC,23.75
+623a5e1efb492fa5df190b33,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:35:24.011000 UTC,9.5
+623a5e1efb492fa5df190b33,Class 10 - Monthly MCQ Exam - March,2025-03-22 14:49:29.663000 UTC,12.0
+623a5e1efb492fa5df190b33,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 15:12:08.052000 UTC,10.0
+623a5e1efb492fa5df190b33,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:59:02.785000 UTC,4.0
+623a5e1efb492fa5df190b33,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:55:02.567000 UTC,7.25
+623a5e57fb492fa5df1918bc,Monthly Exam 1 (MCQ),2025-02-01 15:33:51.379000 UTC,22.5
+623a5e57fb492fa5df1918bc,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:33:15.202000 UTC,25.0
+623a5e57fb492fa5df1918bc,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 15:09:19.712000 UTC,17.5
+623a5e57fb492fa5df1918bc,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 15:56:02.624000 UTC,7.5
+623a5fb3fb492fa5df196b63,Class 10 - Monthly MCQ Exam - February,2025-03-01 17:16:13.139000 UTC,18.75
+623a5fb3fb492fa5df196b63,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:43:12.437000 UTC,15.0
+623a5fc0fb492fa5df196e94,সাপ্তাহিক পরীক্ষা - ১,2025-03-01 10:02:51.744000 UTC,9.75
+623a5fc0fb492fa5df196e94,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:45:16.804000 UTC,0.0
+623a5fc0fb492fa5df196e94,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:45:17.368000 UTC,19.75
+623a5fc0fb492fa5df196e94,Monthly Exam 1 (MCQ),2025-03-02 13:27:28.825000 UTC,19.25
+623a5fc0fb492fa5df196e94,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 15:50:19.551000 UTC,15.0
+623a5fc0fb492fa5df196e94,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 16:29:54.119000 UTC,7.5
+623a5fc0fb492fa5df196e94,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:48:06.414000 UTC,20.5
+623a5fc0fb492fa5df196e94,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:42:28.328000 UTC,0.0
+623a5fc0fb492fa5df196e94,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 15:23:07.432000 UTC,10.25
+623a5fc0fb492fa5df196e94,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:17:17.233000 UTC,12.5
+623a5fddfb492fa5df197558,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:03:16.822000 UTC,15.0
+623a5fddfb492fa5df197558,Monthly Exam 1 (MCQ),2025-02-04 06:42:28.161000 UTC,15.0
+623a5fe0fb492fa5df197620,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 12:40:52.563000 UTC,6.75
+623a608cfb492fa5df199dfd,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:49:51.454000 UTC,15.0
+623a608cfb492fa5df199dfd,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 16:29:18.925000 UTC,15.0
+623a608cfb492fa5df199dfd,Monthly Exam 1 (MCQ),2025-02-01 12:43:34.926000 UTC,21.25
+623a608cfb492fa5df199dfd,Class 10 - Weekly MCQ Exam - February 1,2025-02-13 14:39:23.467000 UTC,16.25
+623a608cfb492fa5df199dfd,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:41:52.556000 UTC,23.75
+623a608cfb492fa5df199dfd,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:30:28.269000 UTC,5.0
+623a608cfb492fa5df199dfd,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:56:42.385000 UTC,5.0
+623a60e4fb492fa5df19b274,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:38.818000 UTC,15.0
+623a60e4fb492fa5df19b274,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 14:43:00.464000 UTC,10.0
+623a614afb492fa5df19ca21,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:58.522000 UTC,15.0
+623a614afb492fa5df19ca21,Monthly Exam 1 (MCQ),2025-02-01 12:36:10.514000 UTC,25.0
+623a614afb492fa5df19ca21,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:00:10.609000 UTC,0.0
+623a614afb492fa5df19ca21,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:00:16.097000 UTC,23.75
+623a614afb492fa5df19ca21,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:57:16.975000 UTC,20.0
+623a614afb492fa5df19ca21,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:39:03.253000 UTC,15.0
+623a6164fb492fa5df19d01a,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:52:01.380000 UTC,0.0
+623a6164fb492fa5df19d01a,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 08:06:19.899000 UTC,10.5
+623a6164fb492fa5df19d01a,Monthly Exam 1 (MCQ),2025-02-15 10:03:41.732000 UTC,0.0
+623a6164fb492fa5df19d01a,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:47:39.436000 UTC,15.25
+623a61f6fb492fa5df19f207,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:34:44.366000 UTC,13.75
+623a61f6fb492fa5df19f207,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:58:19.628000 UTC,8.75
+623a61f6fb492fa5df19f207,Monthly Exam 1 (MCQ),2025-02-02 08:28:09.018000 UTC,13.5
+623a61f6fb492fa5df19f207,সাপ্তাহিক পরীক্ষা - ১,2025-02-02 09:04:37.150000 UTC,16.25
+623a61f6fb492fa5df19f207,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 03:57:45.344000 UTC,16.25
+623a6229fb492fa5df19fdde,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 03:33:54.181000 UTC,12.5
+623a6229fb492fa5df19fdde,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:18:07.784000 UTC,25.0
+623a6229fb492fa5df19fdde,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 08:02:46.636000 UTC,11.25
+623a62a3fb492fa5df1a19f9,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:41:09.219000 UTC,15.0
+623a62a3fb492fa5df1a19f9,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:09:35.317000 UTC,17.5
+623a62a3fb492fa5df1a19f9,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 15:38:01.252000 UTC,10.75
+623a62affb492fa5df1a1ce2,Monthly Exam 1 (MCQ),2025-02-01 15:12:36.920000 UTC,15.0
+623a62b1fb492fa5df1a1d37,Class 10 - Monthly MCQ Exam - March,2025-03-22 15:32:56.426000 UTC,12.5
+623a62b1fb492fa5df1a1d37,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:04:11.014000 UTC,12.5
+623a632bfb492fa5df1a38df,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:38.267000 UTC,0.0
+623a632bfb492fa5df1a38df,Monthly Exam 1 (MCQ),2025-02-01 13:05:04.084000 UTC,10.5
+623a63c8fb492fa5df1a5bb2,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 08:14:39.223000 UTC,11.25
+623a675ffb492fa5df1b28a9,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:57:10.829000 UTC,11.5
+623a67b6fb492fa5df1b3bcc,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:02:53.637000 UTC,20.0
+623a67b6fb492fa5df1b3bcc,Monthly Exam 1 (MCQ),2025-02-01 12:37:20.225000 UTC,28.75
+623a67b6fb492fa5df1b3bcc,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:35:06.632000 UTC,21.25
+623a67b6fb492fa5df1b3bcc,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:02:54.824000 UTC,25.0
+623a67b6fb492fa5df1b3bcc,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:25:16.744000 UTC,17.5
+623a67b6fb492fa5df1b3bcc,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 15:59:25.811000 UTC,15.0
+623a67b6fb492fa5df1b3bcc,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 06:06:45.738000 UTC,13.75
+623a68a2fb492fa5df1b7010,সাপ্তাহিক পরীক্ষা - ১,2025-01-31 17:39:18.610000 UTC,18.75
+623a68a2fb492fa5df1b7010,Monthly Exam 1 (MCQ),2025-02-04 21:58:35.925000 UTC,0.0
+623a6992fb492fa5df1ba4f2,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:26:17.669000 UTC,0.0
+623a6992fb492fa5df1ba4f2,Monthly Exam 1 (MCQ),2025-02-02 07:49:47.638000 UTC,26.25
+623a6a64fb492fa5df1bd2c2,Monthly Exam 1 (MCQ),2025-02-01 18:26:44.412000 UTC,23.75
+623a6a64fb492fa5df1bd2c2,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 17:16:39.926000 UTC,18.75
+623a6aa0fb492fa5df1bdfa9,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:03:28.007000 UTC,12.5
+623a6aa0fb492fa5df1bdfa9,Monthly Exam 1 (MCQ),2025-02-01 18:34:21.070000 UTC,13.75
+623a6aa0fb492fa5df1bdfa9,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:29:59.354000 UTC,10.0
+623a6aa0fb492fa5df1bdfa9,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 19:28:23.530000 UTC,8.75
+623a6ae8fb492fa5df1beee1,সাপ্তাহিক পরীক্ষা - ১,2025-04-22 03:26:10.706000 UTC,16.5
+623a6ae8fb492fa5df1beee1,সাপ্তাহিক পরীক্ষা - ১,2025-04-22 03:30:48.467000 UTC,17.0
+623a6ae8fb492fa5df1beee1,Class 10 - Weekly MCQ Exam - April 1,2025-04-23 02:16:55.858000 UTC,0.0
+623a6ae8fb492fa5df1beee1,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-23 02:17:47.307000 UTC,5.5
+623a6ae8fb492fa5df1beee1,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-23 13:03:23.304000 UTC,0.0
+623a6ae8fb492fa5df1beee1,Class 10 - Weekly MCQ Exam - February 1,2025-04-23 23:31:10.377000 UTC,10.0
+623a6ae8fb492fa5df1beee1,Class 10 - Weekly MCQ Exam - February 1,2025-04-25 12:08:04.993000 UTC,16.5
+623a6ae8fb492fa5df1beee1,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:37:33.284000 UTC,10.0
+623a6c3efb492fa5df1c3926,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:31:06.649000 UTC,1.0
+623a6c3efb492fa5df1c3926,Class 10 - Weekly MCQ Exam - February 1,2025-02-13 02:34:44.662000 UTC,-0.75
+623a6c3efb492fa5df1c3926,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:28:54.524000 UTC,7.5
+623a6c3efb492fa5df1c3926,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:15:50.164000 UTC,9.25
+623a6c3efb492fa5df1c3926,Class 10 - Monthly MCQ Exam - February,2025-03-01 17:01:17.365000 UTC,9.0
+623a6c3efb492fa5df1c3926,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 14:02:22.641000 UTC,6.25
+623a6c3efb492fa5df1c3926,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 15:15:14.918000 UTC,8.75
+623a6c3efb492fa5df1c3926,Class 10 - Monthly MCQ Exam - March,2025-03-22 16:34:39.546000 UTC,11.5
+623a6c3efb492fa5df1c3926,Class 10 - Monthly MCQ Exam - March,2025-03-23 17:56:03.394000 UTC,0.25
+623a6c3efb492fa5df1c3926,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 14:42:05.600000 UTC,5.0
+623a6c3efb492fa5df1c3926,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 15:58:25.658000 UTC,3.75
+623a6c3efb492fa5df1c3926,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-21 11:41:44.850000 UTC,0.0
+623a6c3efb492fa5df1c3926,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:26:16.171000 UTC,0.0
+623a6d59fb492fa5df1c764b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 16:17:46.925000 UTC,14.5
+623a6d59fb492fa5df1c764b,Monthly Exam 1 (MCQ),2025-02-01 13:53:27.903000 UTC,19.5
+623a6d59fb492fa5df1c764b,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:50:01.207000 UTC,21.25
+623a6d59fb492fa5df1c764b,সাপ্তাহিক পরীক্ষা - ১,2025-02-11 15:48:14.756000 UTC,0.0
+623a6d59fb492fa5df1c764b,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:55:08.332000 UTC,24.0
+623a6d59fb492fa5df1c764b,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:59:21.479000 UTC,21.25
+623a6d59fb492fa5df1c764b,Class 10 - Monthly MCQ Exam - February,2025-03-02 11:09:35.338000 UTC,24.25
+623a6d59fb492fa5df1c764b,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:49:55.509000 UTC,14.5
+623a6d59fb492fa5df1c764b,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 14:09:02.810000 UTC,16.75
+623a6d59fb492fa5df1c764b,Class 10 - Monthly MCQ Exam - March,2025-03-23 08:30:22.463000 UTC,20.0
+623a6d59fb492fa5df1c764b,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 11:30:29.420000 UTC,18.0
+623a6d59fb492fa5df1c764b,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 03:08:01.284000 UTC,12.75
+623a6d59fb492fa5df1c764b,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 14:58:47.923000 UTC,6.25
+623a6edbfb492fa5df1cc87f,Monthly Exam 1 (MCQ),2025-02-28 14:40:45.977000 UTC,26.25
+623a6edbfb492fa5df1cc87f,Monthly Exam 1 (MCQ),2025-02-28 14:50:03.664000 UTC,1.0
+623a6f07fb492fa5df1cd1cb,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:38:41.832000 UTC,16.25
+623a6f07fb492fa5df1cd1cb,Monthly Exam 1 (MCQ),2025-02-01 13:13:06.220000 UTC,20.25
+623a6f07fb492fa5df1cd1cb,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 17:13:01.721000 UTC,18.75
+623a6f07fb492fa5df1cd1cb,Class 10 - Monthly MCQ Exam - February,2025-03-02 11:38:45.870000 UTC,10.0
+623a6f07fb492fa5df1cd1cb,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 14:07:59.099000 UTC,11.25
+623a6f07fb492fa5df1cd1cb,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 15:48:53.822000 UTC,6.25
+623a6f07fb492fa5df1cd1cb,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:45:42.819000 UTC,16.25
+623a6f07fb492fa5df1cd1cb,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:14:58.371000 UTC,5.0
+623a6f69fb492fa5df1ce709,Monthly Exam 1 (MCQ),2025-02-01 14:03:20.141000 UTC,0.0
+623a6f69fb492fa5df1ce709,Class 10 - Monthly MCQ Exam - February,2025-03-01 17:57:31.530000 UTC,11.25
+623a7025fb492fa5df1d0ebc,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:40:35.968000 UTC,17.5
+623a7025fb492fa5df1d0ebc,Monthly Exam 1 (MCQ),2025-02-02 06:34:35.525000 UTC,27.5
+623a7025fb492fa5df1d0ebc,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:58:50.003000 UTC,27.5
+623a7025fb492fa5df1d0ebc,Class 10 - Monthly MCQ Exam - February,2025-03-02 13:20:49.532000 UTC,25.0
+623a7025fb492fa5df1d0ebc,সাপ্তাহিক পরীক্ষা - ১,2025-03-24 09:19:35.434000 UTC,1.0
+623a70fafb492fa5df1d3bb2,Monthly Exam 1 (MCQ),2025-02-01 13:44:01.421000 UTC,12.5
+623a70fafb492fa5df1d3bb2,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:51:17.013000 UTC,12.5
+623a70fafb492fa5df1d3bb2,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:06:12.836000 UTC,16.25
+623a70fafb492fa5df1d3bb2,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 14:40:14.659000 UTC,12.5
+623a70fafb492fa5df1d3bb2,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 13:21:13.432000 UTC,7.5
+623a70fafb492fa5df1d3bb2,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:16:17.651000 UTC,12.5
+623a70fafb492fa5df1d3bb2,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:55:44.595000 UTC,11.25
+623a710ffb492fa5df1d401d,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 09:23:29.034000 UTC,11.5
+623a710ffb492fa5df1d401d,Monthly Exam 1 (MCQ),2025-02-01 13:55:07.013000 UTC,26.25
+623a710ffb492fa5df1d401d,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 11:26:27.121000 UTC,18.75
+623a710ffb492fa5df1d401d,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 10:32:06.086000 UTC,17.25
+623a710ffb492fa5df1d401d,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 16:35:15.518000 UTC,16.25
+623a710ffb492fa5df1d401d,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:20:33.732000 UTC,27.5
+623a710ffb492fa5df1d401d,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 22:47:20.816000 UTC,19.0
+623a710ffb492fa5df1d401d,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 09:26:51.122000 UTC,20.75
+623a710ffb492fa5df1d401d,Class 10 - Weekly MCQ Exam - March 2,2025-03-23 06:32:25.490000 UTC,1.75
+623a710ffb492fa5df1d401d,Class 10 - Monthly MCQ Exam - March,2025-03-23 06:34:18.585000 UTC,20.25
+623a710ffb492fa5df1d401d,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 09:49:54.894000 UTC,24.0
+623a710ffb492fa5df1d401d,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:27:03.688000 UTC,12.5
+623a71c6fb492fa5df1d65bb,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:45.124000 UTC,7.5
+623a71c6fb492fa5df1d65bb,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 18:19:03.613000 UTC,13.75
+623a71c6fb492fa5df1d65bb,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 18:22:52.813000 UTC,13.75
+623a71c6fb492fa5df1d65bb,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 18:26:35.624000 UTC,11.25
+623a71c6fb492fa5df1d65bb,Monthly Exam 1 (MCQ),2025-02-01 12:38:17.392000 UTC,8.75
+623a71c6fb492fa5df1d65bb,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:34:06.546000 UTC,11.25
+623a71c6fb492fa5df1d65bb,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 19:24:11.989000 UTC,11.25
+623a71c6fb492fa5df1d65bb,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:30:05.212000 UTC,6.25
+623a71c6fb492fa5df1d65bb,Class 10 - Monthly MCQ Exam - February,2025-03-01 20:28:33.282000 UTC,11.25
+623a71c6fb492fa5df1d65bb,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 20:55:26.243000 UTC,8.75
+623a71c6fb492fa5df1d65bb,Class 10 - Weekly MCQ Exam - March 1,2025-03-20 05:18:29.492000 UTC,6.25
+623a71c6fb492fa5df1d65bb,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:23:16.832000 UTC,0.0
+623a71c6fb492fa5df1d65bb,Class 10 - Weekly MCQ Exam - April 1,2025-04-14 14:02:39.792000 UTC,2.75
+623a71c6fb492fa5df1d65bb,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:34:06.983000 UTC,5.0
+623a71d0fb492fa5df1d67dc,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 17:08:19.959000 UTC,11.25
+623a71d0fb492fa5df1d67dc,Class 10 - Monthly MCQ Exam - March,2025-03-23 04:59:46.622000 UTC,25.0
+623a71d0fb492fa5df1d67dc,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 06:09:56.618000 UTC,21.25
+623a71d0fb492fa5df1d67dc,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 04:28:52.674000 UTC,11.25
+623a71d0fb492fa5df1d67dc,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:26:28.464000 UTC,11.25
+623a7246fb492fa5df1d806e,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:14:31.871000 UTC,0.0
+623a7246fb492fa5df1d806e,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:05:09.091000 UTC,10.25
+623a72a2fb492fa5df1d9324,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:24:09.332000 UTC,12.5
+623a72a2fb492fa5df1d9324,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:20:00.245000 UTC,10.0
+623a72c0fb492fa5df1d993e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:09:09.605000 UTC,15.75
+623a72c0fb492fa5df1d993e,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 17:02:24.980000 UTC,15.0
+623a72ecfb492fa5df1da27e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:31:10.929000 UTC,18.75
+623a72ecfb492fa5df1da27e,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:08:19.877000 UTC,2.0
+623a7327fb492fa5df1dae44,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 14:43:35.922000 UTC,13.75
+623a7327fb492fa5df1dae44,Monthly Exam 1 (MCQ),2025-02-01 12:47:10.926000 UTC,23.75
+623a7327fb492fa5df1dae44,সাপ্তাহিক পরীক্ষা - ১,2025-02-07 12:58:09.854000 UTC,0.0
+623a7327fb492fa5df1dae44,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 15:00:38.551000 UTC,14.0
+623a7385fb492fa5df1dc1c8,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 10:45:29.662000 UTC,17.5
+623a7385fb492fa5df1dc1c8,Monthly Exam 1 (MCQ),2025-02-02 11:08:38.028000 UTC,28.75
+623a7385fb492fa5df1dc1c8,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 11:10:10.845000 UTC,25.0
+623a7385fb492fa5df1dc1c8,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 10:14:25.657000 UTC,22.5
+623a7385fb492fa5df1dc1c8,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 02:52:50.353000 UTC,23.75
+623a7385fb492fa5df1dc1c8,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 10:13:46.842000 UTC,22.5
+623a7385fb492fa5df1dc1c8,Class 10 - Monthly MCQ Exam - March,2025-03-23 11:42:31.709000 UTC,27.5
+623a7385fb492fa5df1dc1c8,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 14:58:24.099000 UTC,27.5
+623a7385fb492fa5df1dc1c8,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 02:51:59.597000 UTC,15.0
+623a7385fb492fa5df1dc1c8,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 10:44:13.262000 UTC,15.0
+623a748efb492fa5df1df7df,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 08:19:26.361000 UTC,5.0
+623a748efb492fa5df1df7df,Monthly Exam 1 (MCQ),2025-02-02 11:10:06.534000 UTC,20.0
+623a748efb492fa5df1df7df,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 12:20:07.699000 UTC,15.0
+623a748efb492fa5df1df7df,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 16:01:21.243000 UTC,18.75
+623a74effb492fa5df1e0bc8,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 13:13:31.748000 UTC,17.5
+623a74effb492fa5df1e0bc8,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 07:04:54.959000 UTC,16.25
+623a74effb492fa5df1e0bc8,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 12:20:04.752000 UTC,15.0
+623a74effb492fa5df1e0bc8,Class 10 - Monthly MCQ Exam - February,2025-03-02 08:52:58.634000 UTC,12.5
+623a74effb492fa5df1e0bc8,Class 10 - Monthly MCQ Exam - February,2025-03-02 08:52:58.663000 UTC,0.0
+623a74effb492fa5df1e0bc8,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 17:52:27.513000 UTC,15.0
+623a74effb492fa5df1e0bc8,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 20:22:15.482000 UTC,17.5
+623a74effb492fa5df1e0bc8,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 20:22:19.381000 UTC,0.0
+623a74effb492fa5df1e0bc8,Class 10 - Monthly MCQ Exam - March,2025-03-23 11:46:01.762000 UTC,0.0
+623a74effb492fa5df1e0bc8,Class 10 - Monthly MCQ Exam - March,2025-03-23 11:46:06.020000 UTC,16.25
+623a74effb492fa5df1e0bc8,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:25:55.643000 UTC,8.75
+623a74effb492fa5df1e0bc8,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 11:49:47.053000 UTC,11.25
+623a75eefb492fa5df1e3fd2,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:48:32.370000 UTC,18.75
+623a75eefb492fa5df1e3fd2,Monthly Exam 1 (MCQ),2025-02-01 12:36:48.529000 UTC,22.5
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:33:43.207000 UTC,17.5
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:38:48.181000 UTC,21.25
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:39:46.004000 UTC,17.5
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - February 1,2025-02-22 16:17:47.695000 UTC,18.75
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - February 1,2025-02-22 16:24:13.573000 UTC,21.25
+623a75eefb492fa5df1e3fd2,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:19:06.725000 UTC,25.0
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:18:30.392000 UTC,22.5
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 14:43:39.341000 UTC,18.75
+623a75eefb492fa5df1e3fd2,Class 10 - Monthly MCQ Exam - March,2025-03-22 16:13:07.655000 UTC,23.75
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:56:25.077000 UTC,23.75
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 16:27:21.952000 UTC,8.75
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 13:13:33.116000 UTC,0.0
+623a75eefb492fa5df1e3fd2,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:16:28.734000 UTC,13.75
+623a7666fb492fa5df1e5873,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:31:07.025000 UTC,15.0
+623a7666fb492fa5df1e5873,Monthly Exam 1 (MCQ),2025-02-01 12:36:33.399000 UTC,17.5
+623a7666fb492fa5df1e5873,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:31:09.955000 UTC,0.0
+623a7666fb492fa5df1e5873,Class 10 - Monthly MCQ Exam - March,2025-03-23 13:32:29.391000 UTC,12.5
+623a7666fb492fa5df1e5873,Class 10 - Monthly MCQ Exam - March,2025-03-23 13:44:26.037000 UTC,24.0
+623a7666fb492fa5df1e5873,Class 10 - Monthly MCQ Exam - March,2025-04-12 07:58:29.629000 UTC,20.0
+623a7666fb492fa5df1e5873,Class 10 - Monthly MCQ Exam - March,2025-04-24 02:53:08.752000 UTC,2.25
+623a7666fb492fa5df1e5873,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:00:22.452000 UTC,2.5
+623a7666fb492fa5df1e5873,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 14:14:05.497000 UTC,8.75
+623a7670fb492fa5df1e5a75,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:30:50.229000 UTC,12.5
+623a7670fb492fa5df1e5a75,Monthly Exam 1 (MCQ),2025-02-01 12:36:22.028000 UTC,20.0
+623a7670fb492fa5df1e5a75,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 12:17:23.233000 UTC,3.75
+623a7670fb492fa5df1e5a75,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 09:42:49.066000 UTC,23.75
+623a7861fb492fa5df1ebe12,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:40:01.125000 UTC,11.25
+623a7861fb492fa5df1ebe12,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 15:49:16.110000 UTC,15.0
+623a7861fb492fa5df1ebe12,সাপ্তাহিক পরীক্ষা - ১,2025-01-31 06:05:52.270000 UTC,15.0
+623a7861fb492fa5df1ebe12,Monthly Exam 1 (MCQ),2025-02-01 12:43:06.227000 UTC,25.0
+623a7861fb492fa5df1ebe12,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:38:54.458000 UTC,18.75
+623a7861fb492fa5df1ebe12,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:48:47.545000 UTC,20.0
+623a7a14fb492fa5df1f148e,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 14:27:54.770000 UTC,6.25
+623a7a14fb492fa5df1f148e,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 14:33:35.972000 UTC,-0.25
+623a7a6afb492fa5df1f25e9,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:31.217000 UTC,4.25
+623a7a6afb492fa5df1f25e9,সাপ্তাহিক পরীক্ষা - ১,2025-01-31 18:34:29.818000 UTC,0.0
+623a7a6afb492fa5df1f25e9,সাপ্তাহিক পরীক্ষা - ১,2025-02-03 09:07:09.599000 UTC,8.75
+623a7a6afb492fa5df1f25e9,Monthly Exam 1 (MCQ),2025-02-06 15:48:56.815000 UTC,13.25
+623a7a6afb492fa5df1f25e9,Monthly Exam 1 (MCQ),2025-02-06 16:19:26.607000 UTC,0.0
+623a7a6afb492fa5df1f25e9,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:59:11.052000 UTC,7.5
+623a7a6afb492fa5df1f25e9,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 11:49:59.829000 UTC,6.75
+623a7b23fb492fa5df1f4b0c,Monthly Exam 1 (MCQ),2025-02-01 16:31:30.232000 UTC,10.0
+623a7b9efb492fa5df1f6373,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:41:02.689000 UTC,6.25
+623a7b9efb492fa5df1f6373,Monthly Exam 1 (MCQ),2025-02-01 12:36:59.916000 UTC,13.75
+623a7b9efb492fa5df1f6373,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:50:31.009000 UTC,17.5
+623a7b9efb492fa5df1f6373,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 13:26:41.379000 UTC,15.0
+623a7b9efb492fa5df1f6373,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:49:22.058000 UTC,5.0
+623a7b9efb492fa5df1f6373,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:55:05.365000 UTC,22.5
+623a7b9efb492fa5df1f6373,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:40:23.700000 UTC,18.75
+623a7b9efb492fa5df1f6373,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:47:32.272000 UTC,17.5
+623a7b9efb492fa5df1f6373,Class 10 - Monthly MCQ Exam - March,2025-03-23 12:26:22.115000 UTC,11.25
+623a7b9efb492fa5df1f6373,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 10:24:11.048000 UTC,15.0
+623a7b9efb492fa5df1f6373,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 10:24:13.592000 UTC,0.0
+623a7b9efb492fa5df1f6373,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 15:32:19.923000 UTC,6.25
+623a7b9efb492fa5df1f6373,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 11:09:50.957000 UTC,11.25
+623a7c7efb492fa5df1f8f7c,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 04:24:23.729000 UTC,12.0
+623a7c7efb492fa5df1f8f7c,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 11:17:21.939000 UTC,13.75
+623a7c7efb492fa5df1f8f7c,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 11:23:19.153000 UTC,3.75
+623a7c7efb492fa5df1f8f7c,Monthly Exam 1 (MCQ),2025-02-01 13:14:37.135000 UTC,18.75
+623a7c7efb492fa5df1f8f7c,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 03:30:52.244000 UTC,0.0
+623a7c7efb492fa5df1f8f7c,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 04:12:24.438000 UTC,18.75
+623a7eeafb492fa5df2008db,সাপ্তাহিক পরীক্ষা - ১,2025-02-26 02:14:03.744000 UTC,16.25
+623a7eeafb492fa5df2008db,Monthly Exam 1 (MCQ),2025-02-26 13:27:02.755000 UTC,20.0
+623a7eeafb492fa5df2008db,সাপ্তাহিক পরীক্ষা - ১,2025-02-27 05:35:10.204000 UTC,15.0
+623a7eeafb492fa5df2008db,Class 10 - Weekly MCQ Exam - February 2,2025-02-27 05:42:36.711000 UTC,0.0
+623a7eeafb492fa5df2008db,Class 10 - Weekly MCQ Exam - February 3,2025-03-01 12:44:53.255000 UTC,12.5
+623a7eeafb492fa5df2008db,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:56:50.474000 UTC,22.5
+623a7eeafb492fa5df2008db,Class 10 - Weekly MCQ Exam - February 1,2025-03-08 05:40:32.248000 UTC,13.75
+623a7eeafb492fa5df2008db,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:38:56.517000 UTC,18.75
+623a7eeafb492fa5df2008db,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:36:13.133000 UTC,8.75
+623a7eeafb492fa5df2008db,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:37:00.550000 UTC,18.75
+623a7efffb492fa5df200d0b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:37:19.364000 UTC,13.75
+623a8004fb492fa5df203f96,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:50:32.108000 UTC,18.75
+623a80cbfb492fa5df20664d,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:20:35.666000 UTC,6.25
+623a8278fb492fa5df20b953,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:35:45.168000 UTC,17.5
+623a8278fb492fa5df20b953,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:53:04.588000 UTC,0.0
+623a8286fb492fa5df20bc1d,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 12:19:08.581000 UTC,11.25
+623a8286fb492fa5df20bc1d,Class 10 - Monthly MCQ Exam - February,2025-03-01 15:25:47.423000 UTC,20.0
+623a8286fb492fa5df20bc1d,Class 10 - Monthly MCQ Exam - February,2025-04-07 12:57:46.079000 UTC,-0.25
+623a8286fb492fa5df20bc1d,Class 10 - Monthly MCQ Exam - February,2025-04-07 12:59:11.077000 UTC,10.0
+623a846afb492fa5df2118a2,Monthly Exam 1 (MCQ),2025-02-02 11:12:28.036000 UTC,21.5
+623a846afb492fa5df2118a2,সাপ্তাহিক পরীক্ষা - ১,2025-02-02 11:26:09.167000 UTC,13.25
+623a846afb492fa5df2118a2,সাপ্তাহিক পরীক্ষা - ১,2025-02-02 11:31:00.139000 UTC,3.75
+623a84f3fb492fa5df2132bc,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:34:16.064000 UTC,13.75
+623a84f3fb492fa5df2132bc,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 06:52:11.307000 UTC,17.5
+623a84f3fb492fa5df2132bc,Monthly Exam 1 (MCQ),2025-02-01 12:42:36.927000 UTC,19.0
+623a84f3fb492fa5df2132bc,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 09:04:26.320000 UTC,12.5
+623a84f3fb492fa5df2132bc,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 09:34:09.951000 UTC,22.5
+623a84f3fb492fa5df2132bc,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 04:53:17.155000 UTC,10.0
+623a84f3fb492fa5df2132bc,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:02:13.227000 UTC,23.75
+623a84f3fb492fa5df2132bc,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 05:45:34.648000 UTC,17.5
+623a84f3fb492fa5df2132bc,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:42:15.631000 UTC,13.75
+623a84f3fb492fa5df2132bc,Class 10 - Monthly MCQ Exam - March,2025-03-22 16:26:13.408000 UTC,23.75
+623a84f3fb492fa5df2132bc,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 07:40:39.428000 UTC,13.75
+623a84f3fb492fa5df2132bc,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 07:28:41.801000 UTC,10.0
+623a84f3fb492fa5df2132bc,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 17:56:15.909000 UTC,11.25
+623a8675fb492fa5df217c5b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:11.998000 UTC,10.0
+623a8675fb492fa5df217c5b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:22.934000 UTC,0.0
+623a8675fb492fa5df217c5b,Monthly Exam 1 (MCQ),2025-02-02 10:23:27.330000 UTC,23.75
+623a8675fb492fa5df217c5b,সাপ্তাহিক পরীক্ষা - ১,2025-02-07 15:45:14.421000 UTC,-0.25
+623a8675fb492fa5df217c5b,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 11:14:00.520000 UTC,18.75
+623a8675fb492fa5df217c5b,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:45:53.048000 UTC,19.5
+623a8675fb492fa5df217c5b,Class 10 - Monthly MCQ Exam - February,2025-03-02 12:37:40.639000 UTC,21.5
+623a8675fb492fa5df217c5b,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 16:03:44.451000 UTC,21.75
+623a8675fb492fa5df217c5b,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 07:55:28.641000 UTC,17.75
+623a8675fb492fa5df217c5b,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:52:41.881000 UTC,19.25
+623a8675fb492fa5df217c5b,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:18:15.120000 UTC,21.5
+623a8675fb492fa5df217c5b,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:53:18.486000 UTC,12.5
+623a8675fb492fa5df217c5b,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 03:12:23.309000 UTC,12.75
+623a8694fb492fa5df21823e,Monthly Exam 1 (MCQ),2025-02-01 14:01:24.262000 UTC,21.25
+623a8694fb492fa5df21823e,Class 10 - Weekly MCQ Exam - February 1,2025-02-10 02:23:25.644000 UTC,18.75
+623a8694fb492fa5df21823e,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:58:01.644000 UTC,8.75
+623a8694fb492fa5df21823e,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 10:26:29.054000 UTC,10.0
+623a8694fb492fa5df21823e,Class 10 - Monthly MCQ Exam - March,2025-03-22 18:15:46.626000 UTC,6.25
+623a8787fb492fa5df21b014,Class 10 - Monthly MCQ Exam - March,2025-03-24 07:26:26.912000 UTC,22.5
+623a8787fb492fa5df21b014,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 16:25:16.160000 UTC,0.0
+623a884efb492fa5df21d5e7,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:27:56.829000 UTC,15.0
+623a88eafb492fa5df21f2c8,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 10:41:16.669000 UTC,18.75
+623a88eafb492fa5df21f2c8,Monthly Exam 1 (MCQ),2025-02-01 13:50:30.163000 UTC,21.25
+623a88eafb492fa5df21f2c8,Class 10 - Monthly MCQ Exam - March,2025-03-22 15:16:49.001000 UTC,23.75
+623a88eafb492fa5df21f2c8,Class 10 - Monthly MCQ Exam - February,2025-03-22 15:33:37.690000 UTC,22.5
+623a89dffb492fa5df222059,Monthly Exam 1 (MCQ),2025-02-02 00:47:53.689000 UTC,15.0
+623a89dffb492fa5df222059,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:49:15.899000 UTC,15.0
+623a8a95fb492fa5df224248,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:46:24.151000 UTC,17.5
+623a8a95fb492fa5df224248,Monthly Exam 1 (MCQ),2025-02-01 13:18:53.125000 UTC,25.25
+623a8a95fb492fa5df224248,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:40:10.520000 UTC,21.5
+623a8a95fb492fa5df224248,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 03:51:09.185000 UTC,25.0
+623a8a95fb492fa5df224248,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 23:57:40.385000 UTC,20.0
+623a8a95fb492fa5df224248,Class 10 - Monthly MCQ Exam - February,2025-03-02 04:03:24.029000 UTC,28.75
+623a8a95fb492fa5df224248,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 05:07:56.631000 UTC,21.25
+623a8a95fb492fa5df224248,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 05:20:25.681000 UTC,23.75
+623a8a95fb492fa5df224248,Class 10 - Monthly MCQ Exam - March,2025-03-23 05:29:59.961000 UTC,25.0
+623a8a95fb492fa5df224248,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 11:29:59.981000 UTC,25.0
+623a8a95fb492fa5df224248,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:49:00.349000 UTC,13.75
+623a8a9bfb492fa5df224394,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 03:19:38.660000 UTC,17.5
+623a8a9bfb492fa5df224394,Monthly Exam 1 (MCQ),2025-02-02 09:24:30.518000 UTC,26.25
+623a8a9bfb492fa5df224394,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 09:08:22.341000 UTC,21.25
+623a8a9bfb492fa5df224394,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 09:15:16.692000 UTC,19.0
+623a8b31fb492fa5df225f95,Monthly Exam 1 (MCQ),2025-02-21 15:33:10.447000 UTC,8.25
+623a8b31fb492fa5df225f95,সাপ্তাহিক পরীক্ষা - ১,2025-04-02 04:29:09.195000 UTC,16.25
+623a8c36fb492fa5df228faa,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:17:50.370000 UTC,5.0
+623a8c36fb492fa5df228faa,Monthly Exam 1 (MCQ),2025-02-02 06:53:42.068000 UTC,12.5
+623a8c9dfb492fa5df22a281,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 16:34:10.628000 UTC,16.25
+623a8c9dfb492fa5df22a281,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 12:04:58.686000 UTC,0.0
+623a8c9dfb492fa5df22a281,Monthly Exam 1 (MCQ),2025-02-02 10:21:45.408000 UTC,11.25
+623a8d34fb492fa5df22be24,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:06:59.114000 UTC,26.25
+623a8d34fb492fa5df22be24,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 23:48:07.534000 UTC,13.75
+623a8d34fb492fa5df22be24,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 07:41:22.463000 UTC,12.5
+623a8ea6fb492fa5df2300d1,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:49:45.890000 UTC,7.5
+623a8ea6fb492fa5df2300d1,Monthly Exam 1 (MCQ),2025-02-01 15:12:24.213000 UTC,18.75
+623a8ea6fb492fa5df2300d1,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 06:14:13.242000 UTC,17.5
+623a8ea6fb492fa5df2300d1,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 05:58:13.589000 UTC,18.75
+623a8ea6fb492fa5df2300d1,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 14:44:38.890000 UTC,17.5
+623a8ea6fb492fa5df2300d1,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:04:33.639000 UTC,18.75
+623a8ea6fb492fa5df2300d1,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 14:23:48.700000 UTC,16.25
+623a8ea6fb492fa5df2300d1,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 05:28:58.139000 UTC,5.0
+623a8ea6fb492fa5df2300d1,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:48:24.229000 UTC,11.25
+623a8ec2fb492fa5df230611,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 22:10:10.726000 UTC,16.25
+623a8ec2fb492fa5df230611,Monthly Exam 1 (MCQ),2025-02-02 02:43:23.455000 UTC,26.25
+623a8ec2fb492fa5df230611,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:55:41.107000 UTC,16.25
+623a8ec2fb492fa5df230611,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 08:51:42.351000 UTC,21.0
+623a9117fb492fa5df237351,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:49:56.016000 UTC,16.25
+623a9117fb492fa5df237351,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:20:49.820000 UTC,0.0
+623a9117fb492fa5df237351,Monthly Exam 1 (MCQ),2025-02-02 11:55:20.328000 UTC,28.75
+623a9117fb492fa5df237351,Monthly Exam 1 (MCQ),2025-02-03 01:38:32.568000 UTC,0.0
+623a9117fb492fa5df237351,Monthly Exam 1 (MCQ),2025-02-09 09:47:48.752000 UTC,0.0
+623a9117fb492fa5df237351,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 12:42:47.554000 UTC,22.5
+623a9117fb492fa5df237351,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 13:22:22.150000 UTC,25.25
+623a9117fb492fa5df237351,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 13:42:14.703000 UTC,25.0
+623a9117fb492fa5df237351,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 08:41:53.844000 UTC,15.25
+623a9117fb492fa5df237351,Class 10 - Weekly MCQ Exam - February 3,2025-03-08 09:09:58.845000 UTC,16.5
+623a9117fb492fa5df237351,Class 10 - Weekly MCQ Exam - February 3,2025-03-08 09:10:07.536000 UTC,0.0
+623a9117fb492fa5df237351,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 23:40:13.808000 UTC,22.5
+623a9117fb492fa5df237351,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 01:09:16.039000 UTC,22.5
+623a9117fb492fa5df237351,Class 10 - Monthly MCQ Exam - February,2025-03-22 08:31:06.042000 UTC,25.0
+623a9117fb492fa5df237351,Class 10 - Monthly MCQ Exam - March,2025-03-23 12:03:14.185000 UTC,21.25
+623a9117fb492fa5df237351,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 00:18:40.605000 UTC,21.25
+623a9117fb492fa5df237351,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 01:42:29.759000 UTC,10.5
+623a925efb492fa5df23ae5a,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 02:58:34.538000 UTC,16.75
+623a925efb492fa5df23ae5a,সাপ্তাহিক পরীক্ষা - ১,2025-01-31 00:44:19.009000 UTC,16.25
+623a925efb492fa5df23ae5a,সাপ্তাহিক পরীক্ষা - ১,2025-01-31 01:13:21.226000 UTC,17.75
+623a925efb492fa5df23ae5a,Monthly Exam 1 (MCQ),2025-02-02 09:51:22.459000 UTC,25.0
+623a925efb492fa5df23ae5a,Monthly Exam 1 (MCQ),2025-02-04 14:11:11.658000 UTC,24.0
+623a925efb492fa5df23ae5a,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 10:21:10.948000 UTC,16.25
+623a925efb492fa5df23ae5a,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 03:40:10.554000 UTC,17.75
+623a925efb492fa5df23ae5a,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 10:09:19.060000 UTC,16.25
+623a925efb492fa5df23ae5a,Class 10 - Monthly MCQ Exam - February,2025-03-02 06:10:31.641000 UTC,0.0
+623a925efb492fa5df23ae5a,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 10:57:51.834000 UTC,14.0
+623a925efb492fa5df23ae5a,Class 10 - Weekly MCQ Exam - March 1,2025-03-11 02:29:58.209000 UTC,0.0
+623a925efb492fa5df23ae5a,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 14:01:32.741000 UTC,12.5
+623a925efb492fa5df23ae5a,Class 10 - Monthly MCQ Exam - March,2025-04-13 09:16:36.416000 UTC,0.0
+623a925efb492fa5df23ae5a,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 11:08:27.779000 UTC,11.25
+623a925efb492fa5df23ae5a,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 11:55:40.620000 UTC,11.25
+623a9324fb492fa5df23d212,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:44:05.398000 UTC,16.0
+623a9324fb492fa5df23d212,Monthly Exam 1 (MCQ),2025-02-01 13:09:49.422000 UTC,22.5
+623a9324fb492fa5df23d212,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 15:08:02.011000 UTC,0.0
+623a9324fb492fa5df23d212,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:36:50.527000 UTC,16.75
+623a9324fb492fa5df23d212,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:11:18.542000 UTC,18.25
+623a9324fb492fa5df23d212,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:47:46.963000 UTC,15.0
+623a9324fb492fa5df23d212,Class 10 - Monthly MCQ Exam - February,2025-03-02 03:58:37.319000 UTC,25.5
+623a9324fb492fa5df23d212,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 14:57:11.552000 UTC,15.75
+623a9324fb492fa5df23d212,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 13:06:14.048000 UTC,11.5
+623a9324fb492fa5df23d212,Class 10 - Monthly MCQ Exam - March,2025-03-23 06:28:23.542000 UTC,18.5
+623a9324fb492fa5df23d212,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:45:18.310000 UTC,14.25
+623a9324fb492fa5df23d212,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:54:07.921000 UTC,11.5
+623a9324fb492fa5df23d212,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:24:24.385000 UTC,8.5
+623a941afb492fa5df23fdf8,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:48:53.141000 UTC,13.75
+623a941afb492fa5df23fdf8,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:24:56.377000 UTC,15.0
+623a941afb492fa5df23fdf8,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 05:32:38.705000 UTC,15.0
+623a941afb492fa5df23fdf8,Class 10 - Monthly MCQ Exam - March,2025-03-22 15:26:24.415000 UTC,0.0
+623a941afb492fa5df23fdf8,Class 10 - Monthly MCQ Exam - March,2025-03-23 12:58:44.163000 UTC,0.0
+623a941afb492fa5df23fdf8,Class 10 - Monthly MCQ Exam - March,2025-03-23 13:30:14.698000 UTC,22.5
+623a941afb492fa5df23fdf8,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 11:17:50.433000 UTC,21.5
+623a941afb492fa5df23fdf8,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 12:00:12.354000 UTC,10.0
+623a941afb492fa5df23fdf8,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:48:16.881000 UTC,0.0
+623a950cfb492fa5df2428b0,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:51:57.949000 UTC,15.0
+623a950cfb492fa5df2428b0,Monthly Exam 1 (MCQ),2025-02-01 12:37:23.931000 UTC,22.5
+623a9531fb492fa5df242f5c,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:39:48.619000 UTC,18.75
+623a9531fb492fa5df242f5c,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 14:13:36.611000 UTC,16.25
+623a9531fb492fa5df242f5c,Monthly Exam 1 (MCQ),2025-02-01 12:36:56.330000 UTC,20.25
+623a9531fb492fa5df242f5c,Monthly Exam 1 (MCQ),2025-02-05 16:01:36.198000 UTC,18.75
+623a9531fb492fa5df242f5c,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:41:09.888000 UTC,22.0
+623a9531fb492fa5df242f5c,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:39:48.989000 UTC,17.5
+623a9531fb492fa5df242f5c,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:41:19.441000 UTC,24.0
+623a9531fb492fa5df242f5c,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:56:35.148000 UTC,15.75
+623a9531fb492fa5df242f5c,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 16:16:37.495000 UTC,17.25
+623a9531fb492fa5df242f5c,Class 10 - Monthly MCQ Exam - March,2025-03-22 16:42:30.916000 UTC,17.75
+623a9531fb492fa5df242f5c,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:46:33.689000 UTC,14.5
+623a9531fb492fa5df242f5c,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 01:57:21.374000 UTC,9.25
+623a9684fb492fa5df246ad3,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 16:11:34.649000 UTC,14.25
+623a97dcfb492fa5df24a781,Monthly Exam 1 (MCQ),2025-02-01 13:40:31.677000 UTC,13.75
+623a97dcfb492fa5df24a781,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 12:25:22.756000 UTC,-1.25
+623a97dcfb492fa5df24a781,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 07:24:26.275000 UTC,17.5
+623a97dcfb492fa5df24a781,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 15:46:12.563000 UTC,15.0
+623a97dcfb492fa5df24a781,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:55:55.633000 UTC,13.75
+623a98cffb492fa5df24d300,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:33:52.754000 UTC,16.25
+623a98cffb492fa5df24d300,Monthly Exam 1 (MCQ),2025-02-02 05:42:59.428000 UTC,18.0
+623a98cffb492fa5df24d300,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 14:18:41.747000 UTC,16.25
+623a98cffb492fa5df24d300,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:48:00.792000 UTC,8.75
+623a9930fb492fa5df24e40b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:36:16.451000 UTC,11.25
+623a9930fb492fa5df24e40b,সাপ্তাহিক পরীক্ষা - ১,2025-02-19 16:02:46.890000 UTC,12.5
+623a9930fb492fa5df24e40b,Class 10 - Weekly MCQ Exam - February 2,2025-02-19 16:07:56.442000 UTC,5.0
+623a9930fb492fa5df24e40b,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 12:01:05.661000 UTC,7.5
+623a9930fb492fa5df24e40b,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:58:07.019000 UTC,22.5
+623a9930fb492fa5df24e40b,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 17:30:39.632000 UTC,8.75
+623a9930fb492fa5df24e40b,Class 10 - Monthly MCQ Exam - March,2025-03-23 10:59:53.509000 UTC,5.0
+623a9930fb492fa5df24e40b,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 05:07:16.744000 UTC,13.0
+623a9930fb492fa5df24e40b,সাপ্তাহিক পরীক্ষা - ১,2025-04-21 19:40:04.800000 UTC,13.75
+623a9930fb492fa5df24e40b,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 06:14:28.452000 UTC,12.5
+623a9945fb492fa5df24e7e6,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 15:55:58.123000 UTC,15.0
+623a9945fb492fa5df24e7e6,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:40:38.350000 UTC,7.5
+623a9945fb492fa5df24e7e6,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:36:56.745000 UTC,6.25
+623a997ffb492fa5df24f25c,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:45:52.415000 UTC,20.0
+623a997ffb492fa5df24f25c,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:39:07.200000 UTC,15.0
+623a997ffb492fa5df24f25c,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:45:57.023000 UTC,17.5
+623a997ffb492fa5df24f25c,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:07:14.916000 UTC,16.25
+623a997ffb492fa5df24f25c,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:14:14.631000 UTC,16.25
+623a997ffb492fa5df24f25c,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 14:14:48.741000 UTC,13.75
+623a997ffb492fa5df24f25c,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:36:32.696000 UTC,12.5
+623a99c6fb492fa5df24fee3,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:39:28.861000 UTC,15.0
+623a9af1fb492fa5df2532de,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:40:03.027000 UTC,15.25
+623a9af1fb492fa5df2532de,Monthly Exam 1 (MCQ),2025-02-01 12:35:59.314000 UTC,26.25
+623a9af1fb492fa5df2532de,সাপ্তাহিক পরীক্ষা - ১,2025-02-08 12:16:51.754000 UTC,1.0
+623a9af1fb492fa5df2532de,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:32:10.920000 UTC,17.5
+623a9af1fb492fa5df2532de,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:06:40.789000 UTC,19.75
+623a9af1fb492fa5df2532de,Class 10 - Weekly MCQ Exam - February 2,2025-03-15 09:01:56.366000 UTC,0.0
+623a9b10fb492fa5df25382d,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 09:57:07.420000 UTC,9.25
+623a9be9fb492fa5df255d46,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 16:39:02.747000 UTC,13.75
+623a9be9fb492fa5df255d46,Monthly Exam 1 (MCQ),2025-02-01 12:36:42.526000 UTC,22.5
+623a9be9fb492fa5df255d46,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:32:29.157000 UTC,20.0
+623a9be9fb492fa5df255d46,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:40:45.020000 UTC,15.0
+623a9be9fb492fa5df255d46,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:37:32.891000 UTC,20.0
+623a9be9fb492fa5df255d46,Class 10 - Monthly MCQ Exam - February,2025-03-01 15:08:00.735000 UTC,17.5
+623a9be9fb492fa5df255d46,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:46:30.634000 UTC,14.0
+623a9be9fb492fa5df255d46,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 13:15:44.967000 UTC,21.25
+623a9be9fb492fa5df255d46,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:35:06.933000 UTC,13.75
+623a9be9fb492fa5df255d46,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 17:23:38.092000 UTC,12.5
+623a9c83fb492fa5df2577ed,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 16:05:21.370000 UTC,25.0
+623a9c83fb492fa5df2577ed,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 17:29:58.592000 UTC,10.0
+623a9cdcfb492fa5df258784,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 05:48:08.405000 UTC,17.5
+623a9cdcfb492fa5df258784,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:55:52.953000 UTC,22.5
+623a9cdcfb492fa5df258784,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 17:42:25.436000 UTC,17.5
+623a9cdcfb492fa5df258784,Class 10 - Monthly MCQ Exam - February,2025-03-01 17:00:59.476000 UTC,22.5
+623a9cdcfb492fa5df258784,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 17:40:24.638000 UTC,22.5
+623a9d5efb492fa5df259e0e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:34:45.675000 UTC,10.0
+623a9d5efb492fa5df259e0e,Monthly Exam 1 (MCQ),2025-02-01 12:34:36.219000 UTC,20.0
+623a9d5efb492fa5df259e0e,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:53:47.382000 UTC,16.25
+623a9d5efb492fa5df259e0e,Class 10 - Weekly MCQ Exam - February 1,2025-03-23 06:13:30.112000 UTC,18.75
+623a9d5efb492fa5df259e0e,Class 10 - Weekly MCQ Exam - March 2,2025-03-23 06:26:26.988000 UTC,21.25
+623a9d5efb492fa5df259e0e,Class 10 - Monthly MCQ Exam - March,2025-03-23 06:43:35.819000 UTC,25.0
+623a9db6fb492fa5df25ad86,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:07.023000 UTC,10.0
+623a9db6fb492fa5df25ad86,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:25.418000 UTC,0.0
+623a9db6fb492fa5df25ad86,Monthly Exam 1 (MCQ),2025-02-01 12:35:18.319000 UTC,6.25
+623a9db6fb492fa5df25ad86,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:38:38.375000 UTC,5.0
+623a9db6fb492fa5df25ad86,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:39:21.113000 UTC,7.5
+623a9db6fb492fa5df25ad86,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:32:07.016000 UTC,3.75
+623a9e9bfb492fa5df25d524,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:07:21.239000 UTC,12.5
+623a9e9bfb492fa5df25d524,Monthly Exam 1 (MCQ),2025-03-17 14:43:32.211000 UTC,3.75
+623a9fc8fb492fa5df260923,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 11:51:51.033000 UTC,16.25
+623a9fc8fb492fa5df260923,Monthly Exam 1 (MCQ),2025-02-02 09:49:27.529000 UTC,25.25
+623a9fc8fb492fa5df260923,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 16:13:58.048000 UTC,2.5
+623a9fc8fb492fa5df260923,Class 10 - Monthly MCQ Exam - February,2025-03-01 15:51:40.122000 UTC,21.25
+623a9fc8fb492fa5df260923,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 17:15:35.583000 UTC,13.75
+623a9fc8fb492fa5df260923,Class 10 - Monthly MCQ Exam - March,2025-03-23 05:25:47.414000 UTC,25.0
+623a9fc8fb492fa5df260923,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:57:16.403000 UTC,20.0
+623a9fc8fb492fa5df260923,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 16:53:09.442000 UTC,11.25
+623aa026fb492fa5df26193f,সাপ্তাহিক পরীক্ষা - ১,2025-02-16 14:54:42.678000 UTC,10.0
+623aa026fb492fa5df26193f,Class 10 - Weekly MCQ Exam - February 1,2025-02-16 15:01:25.187000 UTC,11.25
+623aa02ffb492fa5df261aa5,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 18:18:07.975000 UTC,0.0
+623aa02ffb492fa5df261aa5,Monthly Exam 1 (MCQ),2025-02-01 13:59:59.893000 UTC,0.0
+623aa02ffb492fa5df261aa5,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:11:02.694000 UTC,0.0
+623aa02ffb492fa5df261aa5,সাপ্তাহিক পরীক্ষা - ১,2025-04-21 18:49:36.045000 UTC,10.0
+623aa068fb492fa5df26247d,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:39.499000 UTC,17.5
+623aa068fb492fa5df26247d,Monthly Exam 1 (MCQ),2025-02-01 12:56:13.885000 UTC,13.75
+623aa068fb492fa5df26247d,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:38:51.009000 UTC,20.0
+623aa068fb492fa5df26247d,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:39:58.094000 UTC,13.75
+623aa068fb492fa5df26247d,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:20:50.573000 UTC,8.75
+623aa068fb492fa5df26247d,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:44:22.277000 UTC,11.25
+623aa068fb492fa5df26247d,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:03:14.657000 UTC,15.0
+623aa068fb492fa5df26247d,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:57:12.221000 UTC,16.25
+623aa068fb492fa5df26247d,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:55:44.081000 UTC,15.0
+623aa068fb492fa5df26247d,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:06:48.901000 UTC,3.75
+623aa068fb492fa5df26247d,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:11:19.394000 UTC,15.0
+623aa07afb492fa5df262776,Monthly Exam 1 (MCQ),2025-02-01 16:40:34.659000 UTC,13.25
+623aa07afb492fa5df262776,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:39:28.510000 UTC,14.5
+623aa07afb492fa5df262776,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:41:22.675000 UTC,11.75
+623aa09afb492fa5df262d0e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:44:53.922000 UTC,11.25
+623aa09afb492fa5df262d0e,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:56:52.877000 UTC,0.0
+623aa09afb492fa5df262d0e,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 11:44:57.720000 UTC,12.5
+623aa09afb492fa5df262d0e,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 07:10:47.012000 UTC,13.75
+623aa09afb492fa5df262d0e,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 07:14:18.102000 UTC,12.5
+623aa09afb492fa5df262d0e,Monthly Exam 1 (MCQ),2025-02-01 13:06:36.598000 UTC,23.75
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:00:36.147000 UTC,16.25
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:41:24.625000 UTC,13.75
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 04:28:51.357000 UTC,8.75
+623aa09afb492fa5df262d0e,Class 10 - Monthly MCQ Exam - February,2025-03-02 03:11:14.673000 UTC,16.25
+623aa09afb492fa5df262d0e,Class 10 - Monthly MCQ Exam - February,2025-03-03 03:03:41.678000 UTC,22.5
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - February 3,2025-03-06 05:15:19.604000 UTC,17.5
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - March 1,2025-03-14 14:46:00.018000 UTC,22.5
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 06:54:51.190000 UTC,20.0
+623aa09afb492fa5df262d0e,Class 10 - Monthly MCQ Exam - March,2025-03-22 17:13:06.638000 UTC,20.0
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:45:04.341000 UTC,17.5
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - April 1,2025-04-14 13:09:32.875000 UTC,22.5
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 17:39:33.971000 UTC,10.0
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - February 1,2025-04-19 17:52:34.800000 UTC,17.5
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:25:18.327000 UTC,13.75
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 16:14:49.884000 UTC,10.75
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 16:19:08.767000 UTC,13.75
+623aa09afb492fa5df262d0e,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 16:22:22.050000 UTC,15.0
+623aa09cfb492fa5df262d86,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 16:38:31.633000 UTC,0.0
+623aa09cfb492fa5df262d86,Monthly Exam 1 (MCQ),2025-02-01 12:59:33.783000 UTC,15.5
+623aa09cfb492fa5df262d86,সাপ্তাহিক পরীক্ষা - ১,2025-02-02 09:31:09.508000 UTC,8.75
+623aa09cfb492fa5df262d86,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:58:09.670000 UTC,20.0
+623aa09cfb492fa5df262d86,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:59:41.280000 UTC,19.0
+623aa09cfb492fa5df262d86,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:57:54.248000 UTC,13.75
+623aa09cfb492fa5df262d86,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:15:03.256000 UTC,20.75
+623aa09cfb492fa5df262d86,Class 10 - Weekly MCQ Exam - March 1,2025-03-18 18:43:13.308000 UTC,20.75
+623aa09cfb492fa5df262d86,Class 10 - Weekly MCQ Exam - March 1,2025-03-21 13:07:18.779000 UTC,21.5
+623aa09cfb492fa5df262d86,Class 10 - Monthly MCQ Exam - March,2025-03-22 18:17:03.525000 UTC,21.5
+623aa09cfb492fa5df262d86,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:03:40.875000 UTC,23.0
+623aa09cfb492fa5df262d86,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:33:25.141000 UTC,10.0
+623aa09cfb492fa5df262d86,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:42:00.098000 UTC,11.25
+623aa0a9fb492fa5df262f9f,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 06:49:02.201000 UTC,5.0
+623aa0a9fb492fa5df262f9f,Monthly Exam 1 (MCQ),2025-02-01 12:41:01.322000 UTC,7.5
+623aa0a9fb492fa5df262f9f,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:42:30.590000 UTC,8.75
+623aa0a9fb492fa5df262f9f,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 15:04:17.160000 UTC,7.5
+623aa0a9fb492fa5df262f9f,Class 10 - Monthly MCQ Exam - February,2025-03-02 04:38:32.623000 UTC,15.0
+623aa0a9fb492fa5df262f9f,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 05:21:03.464000 UTC,8.75
+623aa0a9fb492fa5df262f9f,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 10:02:56.610000 UTC,6.25
+623aa0a9fb492fa5df262f9f,Class 10 - Monthly MCQ Exam - March,2025-03-22 16:22:24.140000 UTC,3.75
+623aa0bcfb492fa5df263319,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 08:31:21.435000 UTC,20.0
+623aa0bcfb492fa5df263319,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 19:47:57.272000 UTC,17.5
+623aa0bcfb492fa5df263319,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 07:47:53.789000 UTC,15.0
+623aa0bcfb492fa5df263319,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 09:01:39.898000 UTC,13.75
+623aa0ecfb492fa5df263b2b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:42.528000 UTC,3.0
+623aa0ecfb492fa5df263b2b,Monthly Exam 1 (MCQ),2025-02-01 13:39:49.023000 UTC,11.25
+623aa0ecfb492fa5df263b2b,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:15:11.439000 UTC,12.5
+623aa0ecfb492fa5df263b2b,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:43:52.814000 UTC,-1.25
+623aa0ecfb492fa5df263b2b,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 16:00:59.052000 UTC,6.25
+623aa191fb492fa5df265769,Monthly Exam 1 (MCQ),2025-02-02 12:30:12.430000 UTC,0.0
+623aa191fb492fa5df265769,Monthly Exam 1 (MCQ),2025-02-02 12:32:54.817000 UTC,15.0
+623aa1a5fb492fa5df265a96,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 12:58:03.613000 UTC,11.25
+623aa1a5fb492fa5df265a96,Monthly Exam 1 (MCQ),2025-02-01 13:20:59.814000 UTC,18.75
+623aa1a5fb492fa5df265a96,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:46:29.553000 UTC,13.75
+623aa1a5fb492fa5df265a96,Class 10 - Monthly MCQ Exam - February,2025-03-01 15:38:12.449000 UTC,20.0
+623aa212fb492fa5df266d33,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:37:27.257000 UTC,6.25
+623aa212fb492fa5df266d33,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 14:06:08.587000 UTC,8.75
+623aa212fb492fa5df266d33,Monthly Exam 1 (MCQ),2025-02-01 15:35:55.874000 UTC,21.25
+623aa212fb492fa5df266d33,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 15:35:10.491000 UTC,0.0
+623aa212fb492fa5df266d33,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 15:35:27.782000 UTC,14.25
+623aa212fb492fa5df266d33,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 16:20:11.660000 UTC,7.25
+623aa212fb492fa5df266d33,Class 10 - Monthly MCQ Exam - March,2025-03-22 17:04:15.737000 UTC,19.75
+623aa212fb492fa5df266d33,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 16:39:05.386000 UTC,18.75
+623aa212fb492fa5df266d33,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:54:38.133000 UTC,8.0
+623aa336fb492fa5df269e65,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:58:24.186000 UTC,-0.25
+623aa336fb492fa5df269e65,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:49:15.947000 UTC,8.75
+623aa465fb492fa5df26d16f,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 07:41:53.528000 UTC,13.75
+623aa465fb492fa5df26d16f,Monthly Exam 1 (MCQ),2025-02-02 09:35:32.110000 UTC,15.0
+623aa465fb492fa5df26d16f,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 04:01:53.806000 UTC,10.0
+623aa465fb492fa5df26d16f,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 07:08:40.283000 UTC,6.0
+623aa4acfb492fa5df26dd62,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:23:40.004000 UTC,6.25
+623aa4acfb492fa5df26dd62,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:31:34.458000 UTC,0.0
+623aa4ddfb492fa5df26e546,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 09:05:01.428000 UTC,11.25
+623aa4ddfb492fa5df26e546,Monthly Exam 1 (MCQ),2025-02-06 08:17:54.746000 UTC,18.75
+623aa4ddfb492fa5df26e546,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:11:50.703000 UTC,16.25
+623aa54ffb492fa5df26f883,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 17:13:28.082000 UTC,9.25
+623aa54ffb492fa5df26f883,সাপ্তাহিক পরীক্ষা - ১,2025-03-16 04:16:53.195000 UTC,0.0
+623aa54ffb492fa5df26f883,Class 10 - Weekly MCQ Exam - March 1,2025-04-03 11:28:55.667000 UTC,0.0
+623aa54ffb492fa5df26f883,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 21:54:35.581000 UTC,0.0
+623aa54ffb492fa5df26f883,Class 10 - Weekly MCQ Exam - April 1,2025-04-14 15:17:44.482000 UTC,18.75
+623aa54ffb492fa5df26f883,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 04:38:33.995000 UTC,15.0
+623aa5e9fb492fa5df271253,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:36:26.462000 UTC,17.5
+623aa5e9fb492fa5df271253,Monthly Exam 1 (MCQ),2025-02-01 12:36:11.482000 UTC,8.75
+623aa5e9fb492fa5df271253,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:06:05.441000 UTC,0.0
+623aa5e9fb492fa5df271253,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:42:53.245000 UTC,20.0
+623aa5e9fb492fa5df271253,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:41:51.854000 UTC,25.0
+623aa5e9fb492fa5df271253,Class 10 - Weekly MCQ Exam - February 1,2025-03-02 15:15:04.368000 UTC,8.75
+623aa5e9fb492fa5df271253,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:44:22.240000 UTC,12.5
+623aa5e9fb492fa5df271253,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 14:33:07.767000 UTC,18.75
+623aa5e9fb492fa5df271253,Class 10 - Monthly MCQ Exam - March,2025-03-22 15:08:23.485000 UTC,23.75
+623aa5e9fb492fa5df271253,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:11:48.129000 UTC,2.5
+623aa5e9fb492fa5df271253,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:52:34.456000 UTC,6.25
+623aa5ecfb492fa5df2712e4,Class 10 - Weekly MCQ Exam - February 1,2025-04-29 13:44:52.785000 UTC,12.5
+623aa692fb492fa5df272e4b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:30:20.312000 UTC,16.25
+623aa692fb492fa5df272e4b,Monthly Exam 1 (MCQ),2025-02-01 12:36:25.820000 UTC,23.75
+623aa797fb492fa5df2759dd,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 15:55:01.908000 UTC,18.75
+623aa797fb492fa5df2759dd,Monthly Exam 1 (MCQ),2025-02-01 13:41:00.234000 UTC,25.0
+623aa797fb492fa5df2759dd,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:10:01.261000 UTC,21.25
+623aa797fb492fa5df2759dd,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:54:59.191000 UTC,22.5
+623aa797fb492fa5df2759dd,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 17:52:03.154000 UTC,15.0
+623aa797fb492fa5df2759dd,Class 10 - Monthly MCQ Exam - February,2025-03-02 10:12:05.734000 UTC,25.0
+623aa797fb492fa5df2759dd,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 15:09:43.448000 UTC,25.0
+623aa797fb492fa5df2759dd,Class 10 - Monthly MCQ Exam - March,2025-03-22 16:39:00.357000 UTC,22.5
+623aa797fb492fa5df2759dd,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:28:58.278000 UTC,13.75
+623aa7c1fb492fa5df2760bd,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 10:07:01.341000 UTC,5.0
+623aa7c1fb492fa5df2760bd,Monthly Exam 1 (MCQ),2025-02-02 05:26:01.613000 UTC,24.0
+623aa7c1fb492fa5df2760bd,Class 10 - Weekly MCQ Exam - February 1,2025-02-17 09:05:33.302000 UTC,11.25
+623aa83ffb492fa5df2775ed,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:43.851000 UTC,12.5
+623aa83ffb492fa5df2775ed,Monthly Exam 1 (MCQ),2025-02-02 07:01:05.586000 UTC,21.25
+623aa83ffb492fa5df2775ed,Class 10 - Weekly MCQ Exam - February 1,2025-02-11 09:44:16.041000 UTC,15.0
+623aa83ffb492fa5df2775ed,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 15:20:05.985000 UTC,13.25
+623aa83ffb492fa5df2775ed,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:08:08.249000 UTC,0.0
+623aa874fb492fa5df277ec2,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:04:03.903000 UTC,17.5
+623aa928fb492fa5df279cb4,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 06:55:21.494000 UTC,8.75
+623aa928fb492fa5df279cb4,সাপ্তাহিক পরীক্ষা - ১,2025-02-01 07:16:24.569000 UTC,15.0
+623aa928fb492fa5df279cb4,Monthly Exam 1 (MCQ),2025-02-01 14:37:49.178000 UTC,13.75
+623aa928fb492fa5df279cb4,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:22:09.787000 UTC,10.0
+623aaa81fb492fa5df27d599,Class 10 - Monthly MCQ Exam - February,2025-03-02 09:41:49.516000 UTC,-1.25
+623aaa81fb492fa5df27d599,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 07:56:55.659000 UTC,10.0
+623aaa81fb492fa5df27d599,Class 10 - Monthly MCQ Exam - March,2025-03-23 08:09:36.198000 UTC,6.25
+623aaa81fb492fa5df27d599,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 11:10:39.471000 UTC,2.5
+623aac4ffb492fa5df2821e1,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:55:27.633000 UTC,6.25
+623aac85fb492fa5df282af8,Monthly Exam 1 (MCQ),2025-03-05 13:02:11.796000 UTC,22.5
+623aac8dfb492fa5df282c3d,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:03:58.559000 UTC,0.0
+623aac8dfb492fa5df282c3d,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 10:41:11.190000 UTC,13.75
+623aac8dfb492fa5df282c3d,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 13:49:30.538000 UTC,22.5
+623aac8dfb492fa5df282c3d,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 13:58:37.711000 UTC,22.5
+623aac8dfb492fa5df282c3d,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 14:03:44.380000 UTC,21.25
+623aac8dfb492fa5df282c3d,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 14:06:26.034000 UTC,23.75
+623aac8dfb492fa5df282c3d,সাপ্তাহিক পরীক্ষা - ১,2025-03-17 08:04:04.898000 UTC,0.0
+623aac8dfb492fa5df282c3d,সাপ্তাহিক পরীক্ষা - ১,2025-03-17 08:08:03.596000 UTC,13.75
+623aac8dfb492fa5df282c3d,Class 10 - Weekly MCQ Exam - February 3,2025-03-17 13:20:42.342000 UTC,-1.0
+623aac8dfb492fa5df282c3d,Class 10 - Weekly MCQ Exam - February 2,2025-03-17 13:22:11.214000 UTC,1.25
+623aac8dfb492fa5df282c3d,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 03:01:29.463000 UTC,11.25
+623aad43fb492fa5df284aa3,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:17:27.222000 UTC,17.5
+623aada0fb492fa5df285999,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 16:03:50.498000 UTC,13.75
+623aada9fb492fa5df285b20,Monthly Exam 1 (MCQ),2025-02-01 12:37:43.350000 UTC,17.5
+623aada9fb492fa5df285b20,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:40:31.978000 UTC,12.5
+623aada9fb492fa5df285b20,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 16:44:06.663000 UTC,22.5
+623aada9fb492fa5df285b20,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 17:36:07.965000 UTC,12.5
+623aae0cfb492fa5df286b6f,সাপ্তাহিক পরীক্ষা - ১,2025-02-10 15:35:33.542000 UTC,14.75
+623aae0cfb492fa5df286b6f,Monthly Exam 1 (MCQ),2025-02-26 14:22:47.833000 UTC,8.5
+623aae0cfb492fa5df286b6f,Monthly Exam 1 (MCQ),2025-02-26 14:28:36.547000 UTC,12.0
+623aae0cfb492fa5df286b6f,Class 10 - Monthly MCQ Exam - February,2025-03-01 21:21:49.242000 UTC,6.0
+623aae0cfb492fa5df286b6f,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 16:10:19.452000 UTC,15.0
+623aae0cfb492fa5df286b6f,Class 10 - Weekly MCQ Exam - February 3,2025-03-14 04:43:44.183000 UTC,4.25
+623aae0cfb492fa5df286b6f,Class 10 - Monthly MCQ Exam - February,2025-03-15 10:15:12.751000 UTC,3.75
+623aae0cfb492fa5df286b6f,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 13:33:02.884000 UTC,16.75
+623aae0cfb492fa5df286b6f,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:33:54.347000 UTC,19.0
+623aae3efb492fa5df28735a,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:30:43.566000 UTC,6.25
+623aae3efb492fa5df28735a,Monthly Exam 1 (MCQ),2025-02-01 13:16:05.566000 UTC,8.75
+623aae3efb492fa5df28735a,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:48:16.433000 UTC,12.5
+623aae3efb492fa5df28735a,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 15:30:55.327000 UTC,11.25
+623aae3efb492fa5df28735a,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:41:02.550000 UTC,6.25
+623aae3efb492fa5df28735a,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:55:41.828000 UTC,7.5
+623aae3efb492fa5df28735a,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:38:12.937000 UTC,16.25
+623aae3efb492fa5df28735a,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 16:07:15.197000 UTC,7.5
+623aae3efb492fa5df28735a,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:29:17.706000 UTC,10.0
+623aae3efb492fa5df28735a,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 14:31:21.167000 UTC,0.0
+623aae3efb492fa5df28735a,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:46:31.336000 UTC,3.75
+623aae3efb492fa5df28735a,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:15:50.179000 UTC,5.0
+623ab03bfb492fa5df28c569,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:28.415000 UTC,12.5
+623ab03bfb492fa5df28c569,Monthly Exam 1 (MCQ),2025-02-01 12:37:39.717000 UTC,2.0
+623ab03bfb492fa5df28c569,Monthly Exam 1 (MCQ),2025-02-07 14:48:17.053000 UTC,0.0
+623ab03bfb492fa5df28c569,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:49:06.788000 UTC,3.75
+623ab03bfb492fa5df28c569,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:35:21.782000 UTC,17.5
+623ab03bfb492fa5df28c569,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:37:54.807000 UTC,8.75
+623ab03bfb492fa5df28c569,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:49:52.933000 UTC,13.75
+623ab03bfb492fa5df28c569,Class 10 - Monthly MCQ Exam - March,2025-03-22 14:08:42.568000 UTC,11.25
+623ab03bfb492fa5df28c569,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:41:46.870000 UTC,0.0
+623ab03bfb492fa5df28c569,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:50:02.812000 UTC,3.75
+623ab177fb492fa5df28f850,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 14:49:23.632000 UTC,15.0
+623ab177fb492fa5df28f850,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:43:18.337000 UTC,17.0
+623ab1ddfb492fa5df2908d3,Monthly Exam 1 (MCQ),2025-02-01 12:49:29.841000 UTC,0.0
+623ab1ddfb492fa5df2908d3,Monthly Exam 1 (MCQ),2025-02-08 13:38:43.551000 UTC,10.0
+623ab1ddfb492fa5df2908d3,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:31:53.825000 UTC,12.5
+623ab1ddfb492fa5df2908d3,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:36:14.124000 UTC,0.0
+623ab1ddfb492fa5df2908d3,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:33:53.547000 UTC,5.0
+623ab1ddfb492fa5df2908d3,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:42:23.080000 UTC,12.5
+623ab1ddfb492fa5df2908d3,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 08:47:38.748000 UTC,16.25
+623ab1ddfb492fa5df2908d3,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 08:43:26.474000 UTC,13.75
+623ab1ddfb492fa5df2908d3,Class 10 - Monthly MCQ Exam - March,2025-03-23 09:21:37.385000 UTC,22.5
+623ab1ddfb492fa5df2908d3,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:10:32.352000 UTC,10.0
+623ab1ddfb492fa5df2908d3,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:41:02.656000 UTC,7.5
+623ab1ddfb492fa5df2908d3,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 04:47:51.148000 UTC,11.25
+623ab24bfb492fa5df291ac4,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:03:21.232000 UTC,16.25
+623ab24bfb492fa5df291ac4,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:31:29.584000 UTC,15.0
+623ab2ccfb492fa5df292fb3,সাপ্তাহিক পরীক্ষা - ১,2025-02-04 14:14:16.719000 UTC,3.75
+623ab2ccfb492fa5df292fb3,সাপ্তাহিক পরীক্ষা - ১,2025-02-04 14:20:37.778000 UTC,15.0
+623ab2ccfb492fa5df292fb3,সাপ্তাহিক পরীক্ষা - ১,2025-02-04 14:27:16.351000 UTC,15.0
+623ab2ccfb492fa5df292fb3,সাপ্তাহিক পরীক্ষা - ১,2025-02-04 14:31:39.899000 UTC,17.5
+623ab2ccfb492fa5df292fb3,Monthly Exam 1 (MCQ),2025-02-04 14:42:16.454000 UTC,21.25
+623ab2ccfb492fa5df292fb3,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 15:38:11.886000 UTC,16.25
+623ab2d8fb492fa5df2931b1,Monthly Exam 1 (MCQ),2025-02-01 12:52:02.737000 UTC,25.0
+623ab2d8fb492fa5df2931b1,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:03:35.418000 UTC,18.75
+623ab2d8fb492fa5df2931b1,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:09:03.550000 UTC,20.0
+623ab2d8fb492fa5df2931b1,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:12:34.141000 UTC,15.0
+623ab2d8fb492fa5df2931b1,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:47:21.131000 UTC,18.75
+623ab2d8fb492fa5df2931b1,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:44:09.750000 UTC,7.5
+623ab2d8fb492fa5df2931b1,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:51:05.627000 UTC,15.0
+623ab2e5fb492fa5df2933cc,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:06:08.757000 UTC,10.5
+623ab34ffb492fa5df2944b6,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:32:42.065000 UTC,23.75
+623ab34ffb492fa5df2944b6,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:33:07.661000 UTC,0.0
+623ab34ffb492fa5df2944b6,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:35:04.198000 UTC,6.25
+623ab34ffb492fa5df2944b6,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:53:12.582000 UTC,8.75
+623ab3e3fb492fa5df295ca1,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 12:06:25.089000 UTC,0.0
+623ab3e3fb492fa5df295ca1,Monthly Exam 1 (MCQ),2025-02-01 13:43:04.923000 UTC,16.25
+623ab3e3fb492fa5df295ca1,Monthly Exam 1 (MCQ),2025-02-02 12:56:58.784000 UTC,20.0
+623ab3e3fb492fa5df295ca1,Monthly Exam 1 (MCQ),2025-02-02 13:05:31.753000 UTC,27.5
+623ab3e3fb492fa5df295ca1,Monthly Exam 1 (MCQ),2025-02-02 13:11:20.824000 UTC,18.75
+623ab3e3fb492fa5df295ca1,সাপ্তাহিক পরীক্ষা - ১,2025-02-04 13:07:00.262000 UTC,15.0
+623ab3e3fb492fa5df295ca1,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:34:04.738000 UTC,17.5
+623ab3e3fb492fa5df295ca1,Monthly Exam 1 (MCQ),2025-02-09 14:12:45.700000 UTC,22.5
+623ab3e3fb492fa5df295ca1,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:07:08.046000 UTC,17.5
+623ab3e3fb492fa5df295ca1,Class 10 - Weekly MCQ Exam - February 2,2025-02-17 14:28:28.084000 UTC,18.75
+623ab3e3fb492fa5df295ca1,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 15:52:06.653000 UTC,11.25
+623ab3e3fb492fa5df295ca1,Class 10 - Monthly MCQ Exam - February,2025-03-02 10:14:43.231000 UTC,18.75
+623ab3e3fb492fa5df295ca1,Class 10 - Monthly MCQ Exam - February,2025-03-06 10:52:13.525000 UTC,17.5
+623ab3e3fb492fa5df295ca1,Class 10 - Weekly MCQ Exam - March 1,2025-03-17 09:05:41.301000 UTC,0.0
+623ab3e3fb492fa5df295ca1,Class 10 - Monthly MCQ Exam - March,2025-03-23 09:20:53.455000 UTC,26.25
+623ab3e3fb492fa5df295ca1,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 16:03:06.288000 UTC,0.0
+623ab3e3fb492fa5df295ca1,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:43:24.162000 UTC,0.0
+623ab3e3fb492fa5df295ca1,Class 10 - Weekly MCQ Exam - April 1,2025-04-19 12:46:34.544000 UTC,0.0
+623ab3e3fb492fa5df295ca1,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:59:44.321000 UTC,13.75
+623ab411fb492fa5df2963fe,Monthly Exam 1 (MCQ),2025-02-01 13:41:48.477000 UTC,0.0
+623ab411fb492fa5df2963fe,Monthly Exam 1 (MCQ),2025-02-06 19:10:50.630000 UTC,0.0
+623ab411fb492fa5df2963fe,Class 10 - Monthly MCQ Exam - February,2025-03-01 16:07:04.249000 UTC,8.75
+623ab411fb492fa5df2963fe,Monthly Exam 1 (MCQ),2025-03-02 10:09:44.942000 UTC,10.25
+623ab411fb492fa5df2963fe,Class 10 - Weekly MCQ Exam - February 1,2025-03-14 10:31:32.091000 UTC,16.25
+623ab411fb492fa5df2963fe,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 14:44:33.642000 UTC,0.0
+623ab411fb492fa5df2963fe,Class 10 - Weekly MCQ Exam - March 2,2025-03-20 10:42:43.642000 UTC,0.0
+623ab411fb492fa5df2963fe,Class 10 - Weekly MCQ Exam - March 2,2025-04-10 19:10:31.529000 UTC,0.0
+623ab44cfb492fa5df296d6d,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:21:32.292000 UTC,11.5
+623ab44cfb492fa5df296d6d,Class 10 - Weekly MCQ Exam - February 1,2025-03-09 11:37:27.823000 UTC,0.0
+623ab44efb492fa5df296daf,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:54:16.571000 UTC,15.0
+623ab44efb492fa5df296daf,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:02:57.118000 UTC,12.5
+623ab493fb492fa5df2978dc,Monthly Exam 1 (MCQ),2025-02-01 12:56:43.015000 UTC,18.5
+623ab493fb492fa5df2978dc,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:38:35.214000 UTC,18.5
+623ab493fb492fa5df2978dc,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:48:05.823000 UTC,0.0
+623ab493fb492fa5df2978dc,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:36:37.241000 UTC,15.0
+623ab4b2fb492fa5df297ddc,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:36:31.852000 UTC,15.0
+623ab4b2fb492fa5df297ddc,Monthly Exam 1 (MCQ),2025-02-01 12:35:43.013000 UTC,22.5
+623ab51afb492fa5df298ed5,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:05:59.729000 UTC,13.75
+623ab51afb492fa5df298ed5,Monthly Exam 1 (MCQ),2025-02-01 13:12:46.520000 UTC,22.5
+623ab51afb492fa5df298ed5,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 05:08:49.015000 UTC,20.0
+623ab51afb492fa5df298ed5,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 16:02:13.758000 UTC,16.25
+623ab51afb492fa5df298ed5,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 11:09:33.754000 UTC,22.5
+623ab51afb492fa5df298ed5,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:43:16.829000 UTC,20.0
+623ab51afb492fa5df298ed5,Class 10 - Monthly MCQ Exam - March,2025-03-23 04:34:07.669000 UTC,25.0
+623ab51afb492fa5df298ed5,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:34:07.236000 UTC,12.5
+623ab51afb492fa5df298ed5,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:03:28.530000 UTC,8.75
+623ab587fb492fa5df29a038,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:22:33.826000 UTC,15.0
+623ab587fb492fa5df29a038,Monthly Exam 1 (MCQ),2025-02-01 12:41:13.499000 UTC,16.25
+623ab587fb492fa5df29a038,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:30:25.623000 UTC,17.5
+623ab587fb492fa5df29a038,Class 10 - Weekly MCQ Exam - February 1,2025-02-13 03:20:15.657000 UTC,18.75
+623ab587fb492fa5df29a038,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 15:30:16.174000 UTC,16.25
+623ab59afb492fa5df29a357,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:27:54.710000 UTC,0.0
+623ab59afb492fa5df29a357,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:28:00.016000 UTC,15.0
+623ab59afb492fa5df29a357,Monthly Exam 1 (MCQ),2025-02-01 13:54:34.193000 UTC,0.0
+623ab59afb492fa5df29a357,Monthly Exam 1 (MCQ),2025-02-04 14:12:06.607000 UTC,13.75
+623ab72dfb492fa5df29e41b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:54:17.900000 UTC,13.75
+623ab72dfb492fa5df29e41b,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:05:03.742000 UTC,26.25
+623ab72dfb492fa5df29e41b,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:05:06.910000 UTC,0.0
+623ab72dfb492fa5df29e41b,Monthly Exam 1 (MCQ),2025-02-15 14:35:13.140000 UTC,27.5
+623ab72dfb492fa5df29e41b,Class 10 - Weekly MCQ Exam - February 1,2025-02-15 14:58:15.542000 UTC,23.75
+623ab72dfb492fa5df29e41b,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 14:18:31.002000 UTC,25.0
+623ab752fb492fa5df29ea1b,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:37:09.485000 UTC,3.75
+623ab752fb492fa5df29ea1b,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:57:14.513000 UTC,6.75
+623ab752fb492fa5df29ea1b,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:07:31.633000 UTC,13.5
+623ab752fb492fa5df29ea1b,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:46:33.805000 UTC,15.75
+623ab752fb492fa5df29ea1b,Class 10 - Monthly MCQ Exam - March,2025-03-22 23:51:31.486000 UTC,21.75
+623ab752fb492fa5df29ea1b,Class 10 - Monthly MCQ Exam - March,2025-03-26 00:13:35.855000 UTC,15.75
+623ab752fb492fa5df29ea1b,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 16:02:24.348000 UTC,7.0
+623ab752fb492fa5df29ea1b,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:48:00.802000 UTC,8.0
+623ab7bdfb492fa5df29facc,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:52:54.359000 UTC,15.0
+623ab7bdfb492fa5df29facc,Monthly Exam 1 (MCQ),2025-02-01 13:15:15.137000 UTC,21.25
+623ab813fb492fa5df2a0867,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:02:09.658000 UTC,12.75
+623ab813fb492fa5df2a0867,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:49:31.663000 UTC,0.0
+623ab813fb492fa5df2a0867,Monthly Exam 1 (MCQ),2025-02-01 12:37:46.223000 UTC,8.75
+623ab813fb492fa5df2a0867,Class 10 - Weekly MCQ Exam - February 1,2025-02-11 10:21:42.247000 UTC,8.75
+623ab813fb492fa5df2a0867,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 16:01:40.104000 UTC,8.75
+623ab813fb492fa5df2a0867,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 17:20:43.054000 UTC,11.25
+623ab872fb492fa5df2a1778,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:50:14.392000 UTC,13.75
+623ab872fb492fa5df2a1778,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:54:47.776000 UTC,0.0
+623ab88bfb492fa5df2a1b70,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:24.534000 UTC,18.75
+623ab88bfb492fa5df2a1b70,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 05:32:49.296000 UTC,0.0
+623ab88bfb492fa5df2a1b70,Monthly Exam 1 (MCQ),2025-02-01 13:51:02.181000 UTC,25.0
+623ab88bfb492fa5df2a1b70,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:31:22.445000 UTC,16.25
+623ab88bfb492fa5df2a1b70,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:40:07.072000 UTC,17.5
+623ab88bfb492fa5df2a1b70,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:02:35.292000 UTC,17.5
+623ab88bfb492fa5df2a1b70,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:44:02.948000 UTC,17.5
+623ab88bfb492fa5df2a1b70,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 15:17:40.649000 UTC,20.0
+623ab88bfb492fa5df2a1b70,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 13:14:49.748000 UTC,17.5
+623ab88bfb492fa5df2a1b70,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:56:23.771000 UTC,26.25
+623ab88bfb492fa5df2a1b70,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:24:13.216000 UTC,10.0
+623ab88bfb492fa5df2a1b70,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:27:32.146000 UTC,11.25
+623ab8abfb492fa5df2a2075,Monthly Exam 1 (MCQ),2025-02-01 12:50:25.225000 UTC,17.5
+623ab8abfb492fa5df2a2075,সাপ্তাহিক পরীক্ষা - ১,2025-02-03 04:55:52.619000 UTC,8.75
+623ab8abfb492fa5df2a2075,Class 10 - Weekly MCQ Exam - February 1,2025-02-21 17:18:32.484000 UTC,12.5
+623ab8abfb492fa5df2a2075,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:20:27.784000 UTC,6.75
+623ab8abfb492fa5df2a2075,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 17:41:25.447000 UTC,17.75
+623ab8abfb492fa5df2a2075,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 05:50:24.982000 UTC,20.0
+623ab8abfb492fa5df2a2075,Class 10 - Monthly MCQ Exam - February,2025-03-17 16:54:17.949000 UTC,18.25
+623ab8abfb492fa5df2a2075,Class 10 - Weekly MCQ Exam - February 2,2025-03-17 17:07:24.476000 UTC,11.0
+623ab8abfb492fa5df2a2075,Class 10 - Monthly MCQ Exam - March,2025-03-22 15:17:18.270000 UTC,26.25
+623ab8abfb492fa5df2a2075,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 09:13:28.945000 UTC,10.0
+623ab8abfb492fa5df2a2075,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 15:19:37.500000 UTC,8.75
+623ab8bbfb492fa5df2a22f0,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:06:55.702000 UTC,11.25
+623ab8bbfb492fa5df2a22f0,Monthly Exam 1 (MCQ),2025-02-01 14:13:57.137000 UTC,18.75
+623ab8bbfb492fa5df2a22f0,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:40:17.844000 UTC,17.5
+623ab8bbfb492fa5df2a22f0,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:53:26.671000 UTC,13.75
+623ab8c4fb492fa5df2a2457,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:29:22.326000 UTC,16.25
+623ab8c4fb492fa5df2a2457,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 19:12:16.143000 UTC,10.25
+623ab8c4fb492fa5df2a2457,Class 10 - Monthly MCQ Exam - February,2025-03-02 09:26:16.232000 UTC,3.5
+623ab8d2fb492fa5df2a268e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:47:45.700000 UTC,13.75
+623ab8d2fb492fa5df2a268e,Monthly Exam 1 (MCQ),2025-02-01 12:37:34.127000 UTC,21.0
+623ab8d2fb492fa5df2a268e,Class 10 - Weekly MCQ Exam - February 1,2025-02-11 13:37:00.750000 UTC,20.0
+623ab8d2fb492fa5df2a268e,সাপ্তাহিক পরীক্ষা - ১,2025-02-12 14:09:45.450000 UTC,16.25
+623ab8d2fb492fa5df2a268e,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:38:53.574000 UTC,21.25
+623ab8d2fb492fa5df2a268e,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:02:04.403000 UTC,22.75
+623ab8d2fb492fa5df2a268e,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:25:00.484000 UTC,17.5
+623ab8d2fb492fa5df2a268e,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 16:35:29.922000 UTC,7.5
+623ab8d2fb492fa5df2a268e,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 15:50:03.874000 UTC,6.25
+623ab8e4fb492fa5df2a292f,সাপ্তাহিক পরীক্ষা - ১,2025-02-05 17:07:57.395000 UTC,0.0
+623ab8e4fb492fa5df2a292f,Monthly Exam 1 (MCQ),2025-02-16 07:33:39.875000 UTC,9.75
+623ab8e4fb492fa5df2a292f,Monthly Exam 1 (MCQ),2025-02-28 17:52:36.814000 UTC,16.25
+623ab8e4fb492fa5df2a292f,Class 10 - Monthly MCQ Exam - February,2025-03-01 18:43:28.244000 UTC,9.75
+623ab8eefb492fa5df2a2ac2,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 09:53:02.947000 UTC,17.5
+623ab8eefb492fa5df2a2ac2,Monthly Exam 1 (MCQ),2025-02-01 12:54:37.222000 UTC,18.75
+623ab8eefb492fa5df2a2ac2,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:48:59.318000 UTC,20.0
+623ab8eefb492fa5df2a2ac2,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 16:06:44.590000 UTC,17.5
+623ab8eefb492fa5df2a2ac2,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:53:20.666000 UTC,16.25
+623ab8eefb492fa5df2a2ac2,Class 10 - Monthly MCQ Exam - February,2025-03-01 16:49:40.135000 UTC,18.75
+623ab8eefb492fa5df2a2ac2,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:15:12.652000 UTC,13.75
+623ab8eefb492fa5df2a2ac2,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 11:26:12.805000 UTC,21.25
+623ab8eefb492fa5df2a2ac2,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:39:55.130000 UTC,12.5
+623ab8eefb492fa5df2a2ac2,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:29:48.013000 UTC,13.75
+623ab928fb492fa5df2a340e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 15:16:49.427000 UTC,13.75
+623ab928fb492fa5df2a340e,Monthly Exam 1 (MCQ),2025-02-01 13:27:23.116000 UTC,20.0
+623ab928fb492fa5df2a340e,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:45:42.226000 UTC,21.25
+623ab928fb492fa5df2a340e,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 15:58:08.886000 UTC,25.0
+623ab928fb492fa5df2a340e,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 09:03:08.959000 UTC,16.25
+623ab928fb492fa5df2a340e,Monthly Exam 1 (MCQ),2025-03-03 05:50:13.921000 UTC,17.5
+623ab928fb492fa5df2a340e,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 15:32:05.845000 UTC,21.25
+623ab929fb492fa5df2a343c,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 10:05:45.758000 UTC,18.75
+623ab929fb492fa5df2a343c,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:45:39.830000 UTC,24.0
+623ab929fb492fa5df2a343c,Class 10 - Monthly MCQ Exam - February,2025-03-01 16:42:51.331000 UTC,23.5
+623ab929fb492fa5df2a343c,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:12:21.659000 UTC,10.5
+623ab95afb492fa5df2a3be6,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:43:14.115000 UTC,0.0
+623ab95afb492fa5df2a3be6,Class 10 - Monthly MCQ Exam - February,2025-03-01 14:25:53.936000 UTC,9.25
+623ab95afb492fa5df2a3be6,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 14:30:49.503000 UTC,10.5
+623ab95afb492fa5df2a3be6,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:33:30.366000 UTC,0.0
+623ab95cfb492fa5df2a3c2a,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:17:40.670000 UTC,0.0
+623ab95cfb492fa5df2a3c2a,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 08:41:11.302000 UTC,10.5
+623ab95cfb492fa5df2a3c2a,Monthly Exam 1 (MCQ),2025-02-01 12:35:48.115000 UTC,18.75
+623ab95cfb492fa5df2a3c2a,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 10:33:10.912000 UTC,12.5
+623ab95cfb492fa5df2a3c2a,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 15:07:58.536000 UTC,18.75
+623ab95cfb492fa5df2a3c2a,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:17:46.415000 UTC,14.25
+623ab96afb492fa5df2a3e48,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 15:01:00.818000 UTC,15.0
+623ab96afb492fa5df2a3e48,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:56:38.147000 UTC,12.5
+623ab96afb492fa5df2a3e48,Class 10 - Monthly MCQ Exam - February,2025-03-01 14:05:31.877000 UTC,16.25
+623ab96afb492fa5df2a3e48,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 14:48:20.378000 UTC,8.75
+623ab9cffb492fa5df2a4e08,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:38:49.918000 UTC,13.75
+623ab9f2fb492fa5df2a539f,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 12:34:55.813000 UTC,18.75
+623ab9f2fb492fa5df2a539f,Monthly Exam 1 (MCQ),2025-02-01 14:41:04.480000 UTC,28.75
+623ab9f2fb492fa5df2a539f,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 11:41:49.103000 UTC,25.25
+623ab9f2fb492fa5df2a539f,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:37:32.982000 UTC,15.25
+623ab9f2fb492fa5df2a539f,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:57:49.832000 UTC,26.5
+623ab9f2fb492fa5df2a539f,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 06:48:29.203000 UTC,14.5
+623ab9f2fb492fa5df2a539f,Class 10 - Monthly MCQ Exam - March,2025-03-23 06:06:06.872000 UTC,25.75
+623aba2cfb492fa5df2a5c9f,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 05:19:56.824000 UTC,6.25
+623aba2cfb492fa5df2a5c9f,Monthly Exam 1 (MCQ),2025-02-01 14:43:06.721000 UTC,16.25
+623aba2cfb492fa5df2a5c9f,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 09:20:26.542000 UTC,18.75
+623aba2cfb492fa5df2a5c9f,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 14:54:28.160000 UTC,0.0
+623aba2cfb492fa5df2a5c9f,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:19:55.132000 UTC,11.25
+623aba31fb492fa5df2a5d79,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:01.055000 UTC,12.5
+623aba31fb492fa5df2a5d79,Class 10 - Weekly MCQ Exam - February 1,2025-02-12 14:06:51.009000 UTC,7.5
+623aba31fb492fa5df2a5d79,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:55:07.175000 UTC,0.0
+623aba31fb492fa5df2a5d79,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-21 13:58:42.118000 UTC,0.0
+623abacbfb492fa5df2a75a8,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:38:23.660000 UTC,17.5
+623abacbfb492fa5df2a75a8,Monthly Exam 1 (MCQ),2025-02-01 12:36:49.412000 UTC,18.75
+623abacbfb492fa5df2a75a8,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 16:02:22.999000 UTC,23.0
+623abb50fb492fa5df2a8a8c,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:22.115000 UTC,19.0
+623abb50fb492fa5df2a8a8c,Monthly Exam 1 (MCQ),2025-02-01 12:40:03.396000 UTC,26.25
+623abb50fb492fa5df2a8a8c,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:37:04.760000 UTC,16.25
+623abbadfb492fa5df2a98e7,Monthly Exam 1 (MCQ),2025-02-01 13:07:39.437000 UTC,20.0
+623abbadfb492fa5df2a98e7,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 15:42:04.674000 UTC,15.0
+623abbadfb492fa5df2a98e7,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:29:51.877000 UTC,18.75
+623abbadfb492fa5df2a98e7,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:50:00.585000 UTC,27.5
+623abbadfb492fa5df2a98e7,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:51:08.582000 UTC,12.5
+623abbadfb492fa5df2a98e7,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:44:05.603000 UTC,10.0
+623abbdbfb492fa5df2aa029,Monthly Exam 1 (MCQ),2025-02-02 07:35:21.284000 UTC,5.75
+623abc17fb492fa5df2aa99d,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:47:35.300000 UTC,15.0
+623abc17fb492fa5df2aa99d,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:37:09.463000 UTC,11.25
+623abc17fb492fa5df2aa99d,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:42:46.328000 UTC,12.5
+623abc17fb492fa5df2aa99d,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 16:56:49.931000 UTC,15.0
+623abc17fb492fa5df2aa99d,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 17:01:01.879000 UTC,15.0
+623abc17fb492fa5df2aa99d,Monthly Exam 1 (MCQ),2025-02-01 12:35:52.894000 UTC,26.25
+623abc17fb492fa5df2aa99d,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:44:30.601000 UTC,17.5
+623abc17fb492fa5df2aa99d,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:22:36.997000 UTC,23.75
+623abc17fb492fa5df2aa99d,Class 10 - Monthly MCQ Exam - February,2025-03-01 16:21:29.040000 UTC,22.5
+623abc17fb492fa5df2aa99d,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 15:25:26.008000 UTC,23.75
+623abc17fb492fa5df2aa99d,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 16:22:01.702000 UTC,21.25
+623abc17fb492fa5df2aa99d,Class 10 - Monthly MCQ Exam - March,2025-03-22 15:51:48.325000 UTC,23.75
+623abc69fb492fa5df2ab667,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:06:00.854000 UTC,18.75
+623abc73fb492fa5df2ab7e3,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:55:14.229000 UTC,7.5
+623abc75fb492fa5df2ab84a,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:13:18.006000 UTC,18.75
+623abc75fb492fa5df2ab84a,সাপ্তাহিক পরীক্ষা - ১,2025-02-08 15:30:14.591000 UTC,11.25
+623abc75fb492fa5df2ab84a,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:55:48.285000 UTC,21.25
+623abc75fb492fa5df2ab84a,Monthly Exam 1 (MCQ),2025-02-17 14:04:58.187000 UTC,18.75
+623abc75fb492fa5df2ab84a,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:48:41.259000 UTC,16.25
+623abc75fb492fa5df2ab84a,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:45:48.870000 UTC,21.25
+623abc75fb492fa5df2ab84a,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:32:11.451000 UTC,3.75
+623abc84fb492fa5df2aba9b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:55:53.898000 UTC,10.0
+623abc84fb492fa5df2aba9b,সাপ্তাহিক পরীক্ষা - ১,2025-02-17 14:05:54.795000 UTC,0.0
+623abc84fb492fa5df2aba9b,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:42:03.677000 UTC,10.0
+623abc84fb492fa5df2aba9b,সাপ্তাহিক পরীক্ষা - ১,2025-04-24 17:51:06.246000 UTC,0.0
+623abca6fb492fa5df2abfee,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:51:27.337000 UTC,23.75
+623abccdfb492fa5df2ac61d,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:47:52.346000 UTC,8.75
+623abccdfb492fa5df2ac61d,Monthly Exam 1 (MCQ),2025-02-01 12:42:33.730000 UTC,13.75
+623abccdfb492fa5df2ac61d,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:51:22.772000 UTC,12.5
+623abccdfb492fa5df2ac61d,Class 10 - Weekly MCQ Exam - April 1,2025-04-14 12:06:39.982000 UTC,0.0
+623abd09fb492fa5df2acf82,Monthly Exam 1 (MCQ),2025-02-02 13:21:55.841000 UTC,17.5
+623abd09fb492fa5df2acf82,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 06:48:42.840000 UTC,21.25
+623abd09fb492fa5df2acf82,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:33:07.055000 UTC,20.0
+623abd09fb492fa5df2acf82,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:52:44.750000 UTC,6.25
+623abe8bfb492fa5df2b0c09,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:09:37.827000 UTC,13.75
+623abe8bfb492fa5df2b0c09,Monthly Exam 1 (MCQ),2025-02-01 17:25:05.385000 UTC,20.0
+623abf33fb492fa5df2b259d,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:36:49.339000 UTC,8.75
+623abf33fb492fa5df2b259d,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:37:04.474000 UTC,8.75
+623abf33fb492fa5df2b259d,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:32:59.977000 UTC,0.0
+623abf33fb492fa5df2b259d,Class 10 - Monthly MCQ Exam - March,2025-03-22 12:33:20.294000 UTC,10.0
+623abf33fb492fa5df2b259d,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:34:10.871000 UTC,2.5
+623abf33fb492fa5df2b259d,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:37:47.138000 UTC,3.75
+623abf33fb492fa5df2b259d,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:32:54.112000 UTC,5.0
+623abf38fb492fa5df2b2664,Monthly Exam 1 (MCQ),2025-02-06 11:16:20.397000 UTC,9.25
+623ac061fb492fa5df2b5443,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:39:41.298000 UTC,18.75
+623ac061fb492fa5df2b5443,Monthly Exam 1 (MCQ),2025-02-01 13:39:01.412000 UTC,25.0
+623ac061fb492fa5df2b5443,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:52:18.746000 UTC,16.25
+623ac061fb492fa5df2b5443,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:46:47.763000 UTC,18.75
+623ac061fb492fa5df2b5443,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 08:39:28.032000 UTC,16.25
+623ac061fb492fa5df2b5443,Class 10 - Weekly MCQ Exam - February 3,2025-03-15 06:12:19.587000 UTC,-2.5
+623ac061fb492fa5df2b5443,Class 10 - Weekly MCQ Exam - February 3,2025-03-15 06:18:24.909000 UTC,0.0
+623ac061fb492fa5df2b5443,Class 10 - Weekly MCQ Exam - February 3,2025-04-14 08:40:28.062000 UTC,0.0
+623ac061fb492fa5df2b5443,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:56:08.976000 UTC,5.5
+623ac268fb492fa5df2ba3fb,Monthly Exam 1 (MCQ),2025-02-02 12:52:55.136000 UTC,27.5
+623ac3a3fb492fa5df2bd3fc,Monthly Exam 1 (MCQ),2025-02-01 12:39:15.998000 UTC,12.5
+623ac3a3fb492fa5df2bd3fc,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:31:48.315000 UTC,5.0
+623ac3a3fb492fa5df2bd3fc,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:59:17.468000 UTC,10.0
+623ac3a3fb492fa5df2bd3fc,Class 10 - Monthly MCQ Exam - February,2025-03-01 14:43:32.979000 UTC,17.5
+623ac404fb492fa5df2be2dc,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:27:10.210000 UTC,7.5
+623ac404fb492fa5df2be2dc,Monthly Exam 1 (MCQ),2025-02-06 12:43:05.057000 UTC,11.25
+623ac40ffb492fa5df2be482,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 14:41:49.422000 UTC,15.0
+623ac40ffb492fa5df2be482,Monthly Exam 1 (MCQ),2025-02-02 07:31:18.273000 UTC,10.0
+623ac40ffb492fa5df2be482,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 11:50:35.678000 UTC,0.0
+623ac40ffb492fa5df2be482,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 11:50:38.890000 UTC,0.0
+623ac40ffb492fa5df2be482,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 17:08:47.049000 UTC,7.5
+623ac4fbfb492fa5df2c088a,Monthly Exam 1 (MCQ),2025-02-02 09:32:14.219000 UTC,15.0
+623ac536fb492fa5df2c1193,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:15.015000 UTC,16.25
+623ac536fb492fa5df2c1193,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:31:50.529000 UTC,15.0
+623ac536fb492fa5df2c1193,Monthly Exam 1 (MCQ),2025-02-01 19:12:11.536000 UTC,25.0
+623ac536fb492fa5df2c1193,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 12:25:46.760000 UTC,5.0
+623ac582fb492fa5df2c1d17,Monthly Exam 1 (MCQ),2025-02-01 14:19:09.916000 UTC,18.75
+623ac5abfb492fa5df2c2367,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:33:52.666000 UTC,18.75
+623ac5abfb492fa5df2c2367,Monthly Exam 1 (MCQ),2025-02-01 12:41:47.987000 UTC,26.25
+623ac5abfb492fa5df2c2367,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:00:52.632000 UTC,18.75
+623ac5abfb492fa5df2c2367,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 03:50:40.342000 UTC,26.25
+623ac5abfb492fa5df2c2367,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 17:11:03.350000 UTC,16.75
+623ac5abfb492fa5df2c2367,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 12:50:11.658000 UTC,28.75
+623ac5abfb492fa5df2c2367,Class 10 - Weekly MCQ Exam - March 2,2025-04-13 13:08:52.925000 UTC,15.0
+623ac5fffb492fa5df2c300a,সাপ্তাহিক পরীক্ষা - ১,2025-04-15 07:49:26.392000 UTC,11.25
+623ac604fb492fa5df2c30de,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 15:24:19.000000 UTC,0.0
+623ac604fb492fa5df2c30de,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 16:06:57.423000 UTC,6.25
+623ac604fb492fa5df2c30de,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 16:41:49.579000 UTC,8.75
+623ac604fb492fa5df2c30de,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 13:13:50.363000 UTC,13.75
+623ac604fb492fa5df2c30de,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 13:24:35.090000 UTC,13.75
+623ac604fb492fa5df2c30de,Monthly Exam 1 (MCQ),2025-02-01 12:42:46.395000 UTC,26.25
+623ac604fb492fa5df2c30de,Monthly Exam 1 (MCQ),2025-02-09 12:13:54.561000 UTC,18.75
+623ac604fb492fa5df2c30de,Class 10 - Weekly MCQ Exam - February 1,2025-02-10 02:13:16.042000 UTC,6.5
+623ac604fb492fa5df2c30de,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:46:23.589000 UTC,10.0
+623ac604fb492fa5df2c30de,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:46:01.862000 UTC,21.25
+623ac604fb492fa5df2c30de,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 09:35:31.421000 UTC,16.25
+623ac604fb492fa5df2c30de,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 04:49:49.879000 UTC,18.75
+623ac604fb492fa5df2c30de,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:36:50.139000 UTC,23.75
+623ac604fb492fa5df2c30de,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:38:45.830000 UTC,13.75
+623ac604fb492fa5df2c30de,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:34:05.847000 UTC,12.5
+623ac694fb492fa5df2c46e3,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:38:02.638000 UTC,16.25
+623ac694fb492fa5df2c46e3,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:57:44.832000 UTC,20.0
+623ac694fb492fa5df2c46e3,সাপ্তাহিক পরীক্ষা - ১,2025-02-04 14:09:16.301000 UTC,4.75
+623ac694fb492fa5df2c46e3,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:58:10.360000 UTC,10.0
+623ac6fffb492fa5df2c5701,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:07:30.791000 UTC,8.75
+623ac6fffb492fa5df2c5701,Monthly Exam 1 (MCQ),2025-02-02 07:09:45.980000 UTC,8.75
+623ac6fffb492fa5df2c5701,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 11:36:02.053000 UTC,16.75
+623ac775fb492fa5df2c693d,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:36:26.509000 UTC,15.0
+623ac775fb492fa5df2c693d,Monthly Exam 1 (MCQ),2025-02-01 15:34:44.164000 UTC,5.0
+623ac775fb492fa5df2c693d,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 15:42:57.730000 UTC,8.75
+623ac775fb492fa5df2c693d,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 11:38:55.639000 UTC,1.25
+623ac77bfb492fa5df2c6a13,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 14:00:41.784000 UTC,25.0
+623ac77bfb492fa5df2c6a13,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:36:22.885000 UTC,8.75
+623ac77bfb492fa5df2c6a13,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:28:35.719000 UTC,13.75
+623ac8e1fb492fa5df2ca08e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:16:37.204000 UTC,20.0
+623ac8e1fb492fa5df2ca08e,Monthly Exam 1 (MCQ),2025-02-01 12:38:02.491000 UTC,27.5
+623ac8e1fb492fa5df2ca08e,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 10:06:34.220000 UTC,20.0
+623ac8e1fb492fa5df2ca08e,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:11:15.971000 UTC,27.5
+623ac8e1fb492fa5df2ca08e,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 17:07:37.379000 UTC,20.0
+623ac8e1fb492fa5df2ca08e,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 10:09:17.477000 UTC,18.75
+623ac8e1fb492fa5df2ca08e,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 12:40:36.479000 UTC,0.0
+623ac942fb492fa5df2caf3e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:06:19.533000 UTC,10.0
+623ac942fb492fa5df2caf3e,Monthly Exam 1 (MCQ),2025-02-01 12:37:16.707000 UTC,20.0
+623ac942fb492fa5df2caf3e,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 04:56:43.643000 UTC,18.75
+623ac942fb492fa5df2caf3e,Class 10 - Weekly MCQ Exam - February 1,2025-02-10 13:34:54.446000 UTC,20.0
+623ac942fb492fa5df2caf3e,Class 10 - Weekly MCQ Exam - February 1,2025-02-10 13:40:13.060000 UTC,21.25
+623ac942fb492fa5df2caf3e,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 05:19:55.151000 UTC,25.0
+623ac942fb492fa5df2caf3e,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 05:01:14.473000 UTC,21.25
+623ac942fb492fa5df2caf3e,Class 10 - Monthly MCQ Exam - February,2025-03-02 05:07:46.178000 UTC,22.5
+623ac942fb492fa5df2caf3e,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 06:01:00.419000 UTC,22.5
+623ac942fb492fa5df2caf3e,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:59:36.640000 UTC,22.5
+623ac942fb492fa5df2caf3e,Class 10 - Monthly MCQ Exam - March,2025-03-23 05:11:26.093000 UTC,26.25
+623ac942fb492fa5df2caf3e,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:49:20.814000 UTC,27.5
+623ac942fb492fa5df2caf3e,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 05:56:44.377000 UTC,11.25
+623ac942fb492fa5df2caf3e,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 14:52:36.003000 UTC,15.0
+623ac953fb492fa5df2cb1d9,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 15:08:49.105000 UTC,16.25
+623ac953fb492fa5df2cb1d9,Monthly Exam 1 (MCQ),2025-02-02 11:10:08.341000 UTC,23.75
+623ac953fb492fa5df2cb1d9,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 04:46:17.050000 UTC,20.0
+623ac953fb492fa5df2cb1d9,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:03:03.523000 UTC,23.75
+623ac953fb492fa5df2cb1d9,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 15:10:57.023000 UTC,20.0
+623ac953fb492fa5df2cb1d9,Class 10 - Monthly MCQ Exam - February,2025-03-02 05:29:10.020000 UTC,21.25
+623ac953fb492fa5df2cb1d9,Class 10 - Monthly MCQ Exam - February,2025-03-02 05:29:19.531000 UTC,0.0
+623ac953fb492fa5df2cb1d9,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 19:15:08.262000 UTC,20.0
+623ac953fb492fa5df2cb1d9,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 20:23:38.596000 UTC,16.25
+623ac953fb492fa5df2cb1d9,Class 10 - Monthly MCQ Exam - March,2025-03-23 10:02:32.019000 UTC,17.5
+623ac953fb492fa5df2cb1d9,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 03:31:39.997000 UTC,26.25
+623ac953fb492fa5df2cb1d9,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-20 04:37:34.482000 UTC,8.75
+623ac953fb492fa5df2cb1d9,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 12:59:23.024000 UTC,11.25
+623aca29fb492fa5df2cd1ff,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 03:39:26.830000 UTC,20.0
+623aca29fb492fa5df2cd1ff,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 11:29:41.673000 UTC,11.25
+623aca29fb492fa5df2cd1ff,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-27 11:53:01.240000 UTC,8.75
+623acb7cfb492fa5df2d04f4,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 04:53:35.303000 UTC,16.25
+623acb7cfb492fa5df2d04f4,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 13:17:06.331000 UTC,18.75
+623acb7cfb492fa5df2d04f4,সাপ্তাহিক পরীক্ষা - ১,2025-01-30 13:47:04.286000 UTC,17.5
+623acb7cfb492fa5df2d04f4,Monthly Exam 1 (MCQ),2025-02-02 02:10:38.062000 UTC,15.0
+623acb7cfb492fa5df2d04f4,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 01:32:12.419000 UTC,16.25
+623acb7cfb492fa5df2d04f4,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 01:24:17.509000 UTC,18.75
+623acb7cfb492fa5df2d04f4,Class 10 - Monthly MCQ Exam - February,2025-03-02 03:57:37.241000 UTC,20.75
+623acb7cfb492fa5df2d04f4,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:23:49.818000 UTC,20.25
+623acb7cfb492fa5df2d04f4,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 15:40:43.084000 UTC,12.0
+623acb7cfb492fa5df2d04f4,Class 10 - Monthly MCQ Exam - March,2025-03-23 07:01:34.521000 UTC,4.5
+623acb7cfb492fa5df2d04f4,Class 10 - Weekly MCQ Exam - April 1,2025-04-14 12:04:36.327000 UTC,11.0
+623acba8fb492fa5df2d0ba7,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:51:49.295000 UTC,15.0
+623acba8fb492fa5df2d0ba7,Monthly Exam 1 (MCQ),2025-02-01 13:07:21.325000 UTC,23.75
+623acba8fb492fa5df2d0ba7,Class 10 - Weekly MCQ Exam - February 1,2025-02-10 05:42:22.001000 UTC,20.0
+623acba8fb492fa5df2d0ba7,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:42:37.101000 UTC,10.0
+623acba8fb492fa5df2d0ba7,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:38:58.012000 UTC,13.75
+623acba8fb492fa5df2d0ba7,Class 10 - Monthly MCQ Exam - February,2025-03-01 16:23:16.746000 UTC,16.25
+623acba8fb492fa5df2d0ba7,Class 10 - Monthly MCQ Exam - February,2025-03-16 12:55:19.093000 UTC,14.0
+623acba8fb492fa5df2d0ba7,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 14:01:47.571000 UTC,9.75
+623acba8fb492fa5df2d0ba7,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:32:59.986000 UTC,0.0
+623acba8fb492fa5df2d0ba7,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:33:07.372000 UTC,0.0
+623acba8fb492fa5df2d0ba7,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:33:11.866000 UTC,8.75
+623acbf7fb492fa5df2d17a1,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:46:01.452000 UTC,6.25
+623acbf7fb492fa5df2d17a1,Monthly Exam 1 (MCQ),2025-02-01 13:07:05.724000 UTC,15.0
+623acbf7fb492fa5df2d17a1,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 04:16:41.447000 UTC,20.0
+623acc94fb492fa5df2d2fb1,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 08:20:10.877000 UTC,17.5
+623acc94fb492fa5df2d2fb1,Monthly Exam 1 (MCQ),2025-02-02 12:13:57.528000 UTC,23.75
+623acc94fb492fa5df2d2fb1,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 12:01:40.948000 UTC,18.75
+623acc94fb492fa5df2d2fb1,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 12:21:07.739000 UTC,21.25
+623acc94fb492fa5df2d2fb1,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 08:00:18.514000 UTC,15.0
+623acc94fb492fa5df2d2fb1,Class 10 - Monthly MCQ Exam - February,2025-03-02 03:13:14.241000 UTC,25.0
+623acc94fb492fa5df2d2fb1,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:44:59.747000 UTC,21.25
+623acc94fb492fa5df2d2fb1,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 06:01:35.809000 UTC,0.0
+623accbbfb492fa5df2d354c,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:06:53.564000 UTC,0.25
+623accbbfb492fa5df2d354c,Monthly Exam 1 (MCQ),2025-02-01 13:09:48.121000 UTC,22.5
+623accbbfb492fa5df2d354c,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:39:22.876000 UTC,10.0
+623acccdfb492fa5df2d382b,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:39:14.458000 UTC,0.0
+623acccdfb492fa5df2d382b,সাপ্তাহিক পরীক্ষা - ১,2025-01-28 12:11:57.810000 UTC,0.0
+623acccdfb492fa5df2d382b,Monthly Exam 1 (MCQ),2025-02-01 14:05:10.917000 UTC,25.0
+623acccdfb492fa5df2d382b,Monthly Exam 1 (MCQ),2025-02-07 17:07:51.408000 UTC,0.0
+623acccdfb492fa5df2d382b,Monthly Exam 1 (MCQ),2025-02-08 10:33:13.337000 UTC,0.0
+623acccdfb492fa5df2d382b,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 03:48:24.659000 UTC,21.25
+623acccdfb492fa5df2d382b,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 06:57:38.553000 UTC,0.0
+623acccdfb492fa5df2d382b,Class 10 - Weekly MCQ Exam - February 2,2025-02-17 09:10:55.535000 UTC,26.25
+623acccdfb492fa5df2d382b,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:01:07.039000 UTC,13.75
+623acd24fb492fa5df2d4517,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 18:18:44.403000 UTC,8.75
+623acd24fb492fa5df2d4517,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:39:50.824000 UTC,10.0
+623acd24fb492fa5df2d4517,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:45:36.970000 UTC,11.25
+623acd24fb492fa5df2d4517,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:49:02.923000 UTC,17.5
+623acd24fb492fa5df2d4517,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 17:22:03.225000 UTC,12.5
+623acd24fb492fa5df2d4517,Monthly Exam 1 (MCQ),2025-02-01 12:56:59.594000 UTC,13.75
+623acd24fb492fa5df2d4517,Monthly Exam 1 (MCQ),2025-02-02 14:10:04.117000 UTC,11.25
+623acd24fb492fa5df2d4517,Monthly Exam 1 (MCQ),2025-02-02 14:19:20.572000 UTC,20.0
+623acd24fb492fa5df2d4517,Monthly Exam 1 (MCQ),2025-02-02 14:25:40.072000 UTC,21.25
+623acd24fb492fa5df2d4517,Monthly Exam 1 (MCQ),2025-02-02 14:30:57.009000 UTC,28.75
+623acd24fb492fa5df2d4517,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 16:24:38.344000 UTC,25.0
+623acd24fb492fa5df2d4517,Class 10 - Weekly MCQ Exam - February 1,2025-02-10 12:41:34.905000 UTC,20.0
+623acd24fb492fa5df2d4517,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:56:58.790000 UTC,21.25
+623acd24fb492fa5df2d4517,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 11:55:11.364000 UTC,22.5
+623acd24fb492fa5df2d4517,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:17:14.073000 UTC,15.0
+623acd24fb492fa5df2d4517,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 15:08:10.450000 UTC,23.75
+623acd24fb492fa5df2d4517,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 12:34:18.166000 UTC,15.0
+623acd24fb492fa5df2d4517,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 16:00:48.691000 UTC,23.75
+623acd24fb492fa5df2d4517,Class 10 - Monthly MCQ Exam - March,2025-03-22 14:01:54.557000 UTC,28.75
+623acd24fb492fa5df2d4517,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:45:50.120000 UTC,25.0
+623acd24fb492fa5df2d4517,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:41:06.383000 UTC,13.75
+623acd6dfb492fa5df2d501f,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 09:18:14.961000 UTC,12.5
+623acd6dfb492fa5df2d501f,Monthly Exam 1 (MCQ),2025-02-07 08:48:21.137000 UTC,3.25
+623acd6dfb492fa5df2d501f,Monthly Exam 1 (MCQ),2025-02-10 09:25:21.541000 UTC,0.0
+623acd8dfb492fa5df2d54bb,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 15:55:09.404000 UTC,0.0
+623acd8dfb492fa5df2d54bb,Monthly Exam 1 (MCQ),2025-02-02 08:24:46.672000 UTC,9.0
+623acd8dfb492fa5df2d54bb,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 12:44:12.546000 UTC,10.0
+623acd8dfb492fa5df2d54bb,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:59:15.208000 UTC,13.75
+623acd8dfb492fa5df2d54bb,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:55:23.970000 UTC,27.5
+623acd8dfb492fa5df2d54bb,Class 10 - Weekly MCQ Exam - March 1,2025-03-11 10:17:38.952000 UTC,21.25
+623acd8dfb492fa5df2d54bb,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 11:47:50.280000 UTC,0.0
+623acd8dfb492fa5df2d54bb,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 17:49:44.792000 UTC,13.75
+623acdacfb492fa5df2d5960,সাপ্তাহিক পরীক্ষা - ১,2025-02-20 06:38:47.831000 UTC,11.0
+623acdacfb492fa5df2d5960,Class 10 - Weekly MCQ Exam - February 1,2025-02-25 17:44:03.345000 UTC,13.75
+623acdacfb492fa5df2d5960,Class 10 - Weekly MCQ Exam - February 2,2025-02-25 17:58:51.152000 UTC,9.25
+623acdacfb492fa5df2d5960,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 12:41:49.135000 UTC,0.0
+623acdacfb492fa5df2d5960,Monthly Exam 1 (MCQ),2025-04-12 04:50:19.684000 UTC,16.25
+623acdacfb492fa5df2d5960,Class 10 - Weekly MCQ Exam - April 1,2025-04-18 07:01:52.831000 UTC,10.75
+623acdbffb492fa5df2d5c51,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:34:24.769000 UTC,8.75
+623acdbffb492fa5df2d5c51,Monthly Exam 1 (MCQ),2025-02-01 14:34:21.309000 UTC,21.25
+623acdbffb492fa5df2d5c51,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 07:06:52.002000 UTC,20.0
+623ace10fb492fa5df2d6837,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:05:56.525000 UTC,12.5
+623ace10fb492fa5df2d6837,Monthly Exam 1 (MCQ),2025-02-01 15:44:38.019000 UTC,21.25
+623ace10fb492fa5df2d6837,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 00:22:57.464000 UTC,11.25
+623ace64fb492fa5df2d7493,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:24:33.935000 UTC,0.0
+623ace64fb492fa5df2d7493,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 06:50:16.210000 UTC,7.0
+623ace64fb492fa5df2d7493,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:07:42.623000 UTC,3.25
+623ace64fb492fa5df2d7493,Class 10 - Monthly MCQ Exam - February,2025-03-02 08:54:02.029000 UTC,0.5
+623acf03fb492fa5df2d8ca8,Monthly Exam 1 (MCQ),2025-02-01 12:35:57.881000 UTC,13.75
+623acf03fb492fa5df2d8ca8,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:43:20.952000 UTC,15.0
+623acf03fb492fa5df2d8ca8,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:40:56.045000 UTC,15.75
+623acf03fb492fa5df2d8ca8,Class 10 - Monthly MCQ Exam - February,2025-03-01 15:47:35.927000 UTC,15.5
+623acf03fb492fa5df2d8ca8,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 14:25:43.633000 UTC,19.0
+623acf03fb492fa5df2d8ca8,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:53:28.619000 UTC,14.0
+623acf03fb492fa5df2d8ca8,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 12:37:57.648000 UTC,22.5
+623acf03fb492fa5df2d8ca8,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 12:46:57.318000 UTC,10.25
+623acf03fb492fa5df2d8ca8,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:07:21.675000 UTC,11.5
+623acf1dfb492fa5df2d9059,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 10:49:36.424000 UTC,5.0
+623acf1dfb492fa5df2d9059,Monthly Exam 1 (MCQ),2025-02-01 14:11:47.482000 UTC,15.0
+623acf1dfb492fa5df2d9059,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 16:38:17.821000 UTC,13.75
+623acf3cfb492fa5df2d950c,Monthly Exam 1 (MCQ),2025-02-01 15:36:27.281000 UTC,0.0
+623acf3cfb492fa5df2d950c,Monthly Exam 1 (MCQ),2025-02-01 15:36:33.293000 UTC,13.75
+623acf3cfb492fa5df2d950c,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 06:51:52.103000 UTC,16.25
+623acf3cfb492fa5df2d950c,Class 10 - Weekly MCQ Exam - February 2,2025-02-16 14:22:33.338000 UTC,15.75
+623acf3cfb492fa5df2d950c,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:58:35.748000 UTC,15.0
+623acf3cfb492fa5df2d950c,Class 10 - Weekly MCQ Exam - March 1,2025-03-09 05:42:56.715000 UTC,12.5
+623acf7dfb492fa5df2d9ee7,Monthly Exam 1 (MCQ),2025-02-02 10:48:41.121000 UTC,13.75
+623acf7dfb492fa5df2d9ee7,Monthly Exam 1 (MCQ),2025-02-04 11:52:14.162000 UTC,7.75
+623acf7dfb492fa5df2d9ee7,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:34:00.546000 UTC,11.0
+623acf7dfb492fa5df2d9ee7,সাপ্তাহিক পরীক্ষা - ১,2025-02-13 13:23:24.644000 UTC,10.0
+623acf7dfb492fa5df2d9ee7,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 14:39:01.855000 UTC,11.5
+623acf7dfb492fa5df2d9ee7,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 14:42:36.749000 UTC,10.5
+623ad09bfb492fa5df2dc9d4,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:30:55.625000 UTC,11.25
+623ad09bfb492fa5df2dc9d4,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 11:50:22.689000 UTC,7.5
+623ad09bfb492fa5df2dc9d4,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 11:56:00.474000 UTC,7.5
+623ad09bfb492fa5df2dc9d4,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 12:02:00.911000 UTC,12.5
+623ad09bfb492fa5df2dc9d4,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 12:04:52.607000 UTC,12.5
+623ad09bfb492fa5df2dc9d4,Monthly Exam 1 (MCQ),2025-02-01 12:48:32.827000 UTC,12.75
+623ad09bfb492fa5df2dc9d4,Monthly Exam 1 (MCQ),2025-02-04 16:18:27.000000 UTC,16.25
+623ad09bfb492fa5df2dc9d4,Monthly Exam 1 (MCQ),2025-02-04 16:32:37.050000 UTC,25.75
+623ad09bfb492fa5df2dc9d4,Monthly Exam 1 (MCQ),2025-02-04 16:46:52.325000 UTC,26.5
+623ad09bfb492fa5df2dc9d4,Monthly Exam 1 (MCQ),2025-02-04 16:56:23.141000 UTC,26.75
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 1,2025-02-09 10:42:32.708000 UTC,21.5
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 1,2025-02-13 09:40:54.832000 UTC,0.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 1,2025-02-15 11:52:46.885000 UTC,19.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 1,2025-02-15 11:59:02.480000 UTC,22.5
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 1,2025-02-15 12:05:51.642000 UTC,18.75
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:54:46.853000 UTC,18.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 2,2025-02-20 12:02:36.935000 UTC,20.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 2,2025-02-20 12:16:20.734000 UTC,26.25
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:43:52.557000 UTC,10.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 2,2025-02-22 13:13:09.113000 UTC,22.75
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 2,2025-02-22 13:42:44.819000 UTC,21.25
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 3,2025-02-23 14:08:41.939000 UTC,14.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 3,2025-02-26 09:21:44.531000 UTC,21.5
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 3,2025-02-26 09:32:11.520000 UTC,22.5
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - February 3,2025-03-01 11:59:09.077000 UTC,23.75
+623ad09bfb492fa5df2dc9d4,Class 10 - Monthly MCQ Exam - February,2025-03-01 12:42:26.156000 UTC,17.5
+623ad09bfb492fa5df2dc9d4,Class 10 - Monthly MCQ Exam - February,2025-03-02 13:48:54.210000 UTC,25.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Monthly MCQ Exam - February,2025-03-02 14:09:37.006000 UTC,28.75
+623ad09bfb492fa5df2dc9d4,Class 10 - Monthly MCQ Exam - February,2025-03-03 08:39:48.433000 UTC,27.5
+623ad09bfb492fa5df2dc9d4,Class 10 - Monthly MCQ Exam - February,2025-03-03 13:20:00.628000 UTC,30.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 16:48:07.131000 UTC,13.25
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - March 1,2025-03-10 08:21:49.354000 UTC,15.25
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - March 1,2025-03-10 08:31:27.460000 UTC,21.25
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - March 1,2025-03-13 12:39:14.384000 UTC,20.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - March 1,2025-03-13 12:50:29.377000 UTC,18.75
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 14:28:12.989000 UTC,13.75
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 13:44:33.404000 UTC,21.25
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - March 2,2025-03-17 08:53:37.577000 UTC,21.25
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - March 2,2025-03-17 14:03:23.679000 UTC,17.5
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - March 2,2025-03-17 14:09:15.829000 UTC,20.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:14:04.310000 UTC,25.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Monthly MCQ Exam - March,2025-03-26 15:35:23.492000 UTC,22.5
+623ad09bfb492fa5df2dc9d4,Class 10 - Monthly MCQ Exam - March,2025-03-26 15:55:07.412000 UTC,20.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Monthly MCQ Exam - March,2025-04-03 10:08:27.901000 UTC,25.0
+623ad09bfb492fa5df2dc9d4,Class 10 - Monthly MCQ Exam - March,2025-04-03 10:29:48.722000 UTC,26.25
+623ad09bfb492fa5df2dc9d4,Class 10 - Weekly MCQ Exam - April 1,2025-04-20 04:52:14.723000 UTC,7.5
+623ad1befb492fa5df2df54d,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 04:02:51.979000 UTC,10.0
+623ad1befb492fa5df2df54d,সাপ্তাহিক পরীক্ষা - ১,2025-01-27 04:15:26.427000 UTC,13.75
+623ad1befb492fa5df2df54d,Monthly Exam 1 (MCQ),2025-02-01 15:30:50.132000 UTC,25.5
+623ad1befb492fa5df2df54d,Class 10 - Weekly MCQ Exam - February 1,2025-02-11 15:17:32.522000 UTC,22.5
+623ad1befb492fa5df2df54d,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 12:41:38.090000 UTC,26.25
+623ad1befb492fa5df2df54d,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 13:03:45.347000 UTC,25.0
+623ad1befb492fa5df2df54d,Class 10 - Monthly MCQ Exam - February,2025-03-01 13:10:29.367000 UTC,27.5
+623ad1befb492fa5df2df54d,Monthly Exam 1 (MCQ),2025-03-04 04:31:13.494000 UTC,-0.5
+623ad1befb492fa5df2df54d,Class 10 - Weekly MCQ Exam - March 1,2025-03-08 13:33:23.435000 UTC,22.5
+623ad1befb492fa5df2df54d,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 16:52:34.716000 UTC,18.75
+623ad1befb492fa5df2df54d,Class 10 - Monthly MCQ Exam - March,2025-03-22 13:43:53.334000 UTC,23.75
+623ad1befb492fa5df2df54d,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:53:42.171000 UTC,26.25
+623ad1befb492fa5df2df54d,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 14:04:11.976000 UTC,12.5
+623ad1befb492fa5df2df54d,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-27 00:34:01.947000 UTC,13.75
+623ad372fb492fa5df2e361d,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:35:25.619000 UTC,6.25
+623ad372fb492fa5df2e361d,Monthly Exam 1 (MCQ),2025-02-01 12:35:07.325000 UTC,1.25
+623ad372fb492fa5df2e361d,Class 10 - Weekly MCQ Exam - February 3,2025-02-24 09:04:05.270000 UTC,1.25
+623ad372fb492fa5df2e361d,Class 10 - Weekly MCQ Exam - March 2,2025-03-16 08:39:40.431000 UTC,16.25
+623ad444fb492fa5df2e54b2,Monthly Exam 1 (MCQ),2025-02-01 12:38:33.731000 UTC,1.0
+623ad444fb492fa5df2e54b2,Class 10 - Weekly MCQ Exam - February 1,2025-02-08 14:34:49.154000 UTC,15.0
+623ad444fb492fa5df2e54b2,Class 10 - Weekly MCQ Exam - February 2,2025-02-15 13:27:19.244000 UTC,11.25
+623ad444fb492fa5df2e54b2,Class 10 - Weekly MCQ Exam - February 3,2025-02-22 12:53:52.156000 UTC,10.0
+623ad444fb492fa5df2e54b2,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 12:58:12.849000 UTC,17.5
+623ad444fb492fa5df2e54b2,Monthly Exam 1 (MCQ),2025-03-16 10:05:23.492000 UTC,12.5
+623ad444fb492fa5df2e54b2,Class 10 - Monthly MCQ Exam - February,2025-03-16 10:15:57.429000 UTC,8.75
+623ad444fb492fa5df2e54b2,Class 10 - Monthly MCQ Exam - March,2025-03-23 09:37:40.630000 UTC,23.75
+623ad444fb492fa5df2e54b2,Class 10 - Weekly MCQ Exam - April 1,2025-04-12 13:06:38.524000 UTC,16.25
+623ad512fb492fa5df2e727e,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 13:52:11.732000 UTC,13.0
+623ad512fb492fa5df2e727e,Class 10 - Monthly MCQ Exam - March,2025-03-23 05:20:43.964000 UTC,18.25
+623ad512fb492fa5df2e727e,Class 10 - Weekly MCQ Exam - April 1,2025-04-13 09:45:15.080000 UTC,15.25
+623ad513fb492fa5df2e72c7,Class 10 - Monthly MCQ Exam - February,2025-04-22 13:18:21.700000 UTC,6.75
+623ad513fb492fa5df2e72c7,সাপ্তাহিক পরীক্ষা - ১,2025-04-26 14:24:27.044000 UTC,0.0
+623ad5a9fb492fa5df2e88aa,সাপ্তাহিক পরীক্ষা - ১,2025-01-25 12:55:26.876000 UTC,8.75
+623ad5a9fb492fa5df2e88aa,Monthly Exam 1 (MCQ),2025-02-01 14:26:24.022000 UTC,13.75
+623ad5a9fb492fa5df2e88aa,Class 10 - Weekly MCQ Exam - February 1,2025-04-08 12:54:29.117000 UTC,6.25
+623ad5a9fb492fa5df2e88aa,Class 10 - Weekly MCQ Exam - February 2,2025-04-08 13:11:08.642000 UTC,5.25
+623ad5a9fb492fa5df2e88aa,Class 10 - Weekly MCQ Exam - February 3,2025-04-08 13:13:56.847000 UTC,0.0
+623ad5a9fb492fa5df2e88aa,Class 10 - Weekly MCQ Exam - April 1,2025-04-14 07:58:39.065000 UTC,12.5
+623ad5a9fb492fa5df2e88aa,Class 10 - Weekly MCQ Exam - April Week 2,2025-04-19 13:04:38.163000 UTC,8.75
+623ad5a9fb492fa5df2e88aa,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 13:37:43.107000 UTC,5.25
+623ad5effb492fa5df2e929c,সাপ্তাহিক পরীক্ষা - ১,2025-01-26 12:01:40.910000 UTC,8.5
+623ad5effb492fa5df2e92ab,সাপ্তাহিক পরীক্ষা - ১,2025-01-29 17:57:53.114000 UTC,15.0
+623ad5effb492fa5df2e92ab,Monthly Exam 1 (MCQ),2025-02-01 14:35:43.199000 UTC,16.25
+623ad5effb492fa5df2e92ab,Class 10 - Weekly MCQ Exam - February 1,2025-02-17 01:24:13.995000 UTC,0.0
+623ad5effb492fa5df2e92ab,Class 10 - Weekly MCQ Exam - March 2,2025-03-15 17:22:28.969000 UTC,14.5
+623ad5effb492fa5df2e92ab,Class 10 - Monthly MCQ Exam - March,2025-03-23 10:25:35.645000 UTC,18.75
+623ad5effb492fa5df2e92ab,Class 10 - Weekly MCQ Exam - April Week 3,2025-04-26 23:38:56.376000 UTC,0.0
