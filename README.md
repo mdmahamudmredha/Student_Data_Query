@@ -167,4 +167,45 @@ LIMIT 5;
 | 4   | 623a42b2fb492fa5df11c4b7   | 21             |
 | 5   | 623acd24fb492fa5df2d4517   | 21             |
 
+---
+
+## Question and Solve
+
+```sql
+-- Question 1: Actual Mark Calculation
+-- Calculates the actual mark obtained by each student in each exam session
+-- Formula: (total_correct_answers * each_ques_mark) - (total_false_answers * per_ques_negative_marking)
+
+SELECT
+  es.user_id,
+  e.exam_name,
+  es.user_exam_starts_at,
+  (es.total_correct_answers * e.each_ques_mark) - 
+  (es.total_false_answers * e.per_ques_negative_marking) AS actual_mark
+FROM
+  practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions AS es
+JOIN
+  practiceproject-464611.JuniorBIAnalyst10MinSchool.exams AS e
+ON
+  es.exam_id = e.exam_id
+ORDER BY
+  es.user_id,
+  es.user_exam_starts_at;
+```
+
+ **Output:**
+| Row | user_id                     | exam_name                                      | user_exam_starts_at               | actual_mark |
+|-----|-----------------------------|-----------------------------------------------|-----------------------------------|-------------|
+| 1   | 623a318cfb492fa5df0c2456   | সাপ্তাহিক পরীক্ষা - ১                         | 2025-01-25 12:30:59.666000 UTC    | 15.0        |
+| 2   | 623a318cfb492fa5df0c2456   | Monthly Exam 1 (MCQ)                          | 2025-02-02 10:10:20.022000 UTC    | 18.75       |
+| 3   | 623a318cfb492fa5df0c2456   | Class 10 - Weekly MCQ Exam - February 1       | 2025-02-08 15:02:34.054000 UTC    | 11.25       |
+| 4   | 623a318cfb492fa5df0c2456   | Monthly Exam 1 (MCQ)                          | 2025-02-10 16:16:13.987000 UTC    | 0.0         |
+| 5   | 623a318cfb492fa5df0c2456   | Class 10 - Weekly MCQ Exam - February 2       | 2025-02-16 10:48:33.639000 UTC    | 18.75       |
+
+See Full Dataset [Click Here](https://www.google.com/search?q=data.csv)।
+
+
+
+
+
 
