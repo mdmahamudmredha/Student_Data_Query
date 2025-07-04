@@ -203,6 +203,42 @@ ORDER BY
 | 5   | 623a318cfb492fa5df0c2456   | Class 10 - Weekly MCQ Exam - February 2       | 2025-02-16 10:48:33.639000 UTC    | 18.75       |
 
 See Full Dataset [Click Here](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/SQL%20Query/Actual%20Mark%20Calculation%20-%202.csv)
+---
+
+```sql
+-- Question 2: Pass/Fail Classification
+-- Adds a result_status column indicating whether the student passed or failed based on actual mark and pass mark
+
+SELECT
+  es.user_id AS auth_user_id,
+  e.exam_name,
+  (es.total_correct_answers * e.each_ques_mark) - 
+  (es.total_false_answers * e.per_ques_negative_marking) AS actual_mark,
+  e.pass_mark,
+  CASE 
+    WHEN (es.total_correct_answers * e.each_ques_mark) - 
+         (es.total_false_answers * e.per_ques_negative_marking) >= e.pass_mark
+    THEN 'Pass'
+    ELSE 'Fail'
+  END AS result_status
+FROM
+  practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions AS es
+JOIN
+  practiceproject-464611.JuniorBIAnalyst10MinSchool.exams AS e
+ON
+  es.exam_id = e.exam_id;
+```
+
+ **Output:**
+| Row | auth_user_id                | exam_name                                   | actual_mark | pass_mark | result_status |
+|-----|-----------------------------|--------------------------------------------|-------------|-----------|---------------|
+| 1   | 623a941afb492fa5df23fdf8  | Class 10 - Weekly MCQ Exam - April Week 3  | 0.0         | 6         | Fail          |
+| 2   | 623a5759fb492fa5df1761dc  | Class 10 - Weekly MCQ Exam - April Week 3  | 0.0         | 6         | Fail          |
+| 3   | 623a4076fb492fa5df111aae  | Class 10 - Weekly MCQ Exam - April Week 3  | 0.0         | 6         | Fail          |
+| 4   | 623ac8e1fb492fa5df2ca08e  | Class 10 - Weekly MCQ Exam - April Week 3  | 0.0         | 6         | Fail          |
+| 5   | 623ad5effb492fa5df2e92ab  | Class 10 - Weekly MCQ Exam - April Week 3  | 0.0         | 6         | Fail          |
+
+See Full Dataset [Click Here](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/SQL%20Query/Q2%20Pass%20Fail%20Classification.csv)
 
 
 
