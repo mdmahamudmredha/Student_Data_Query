@@ -6,18 +6,14 @@
 
 This section contains a collection of SQL queries used to explore and validate the `exam_sessions` and `exams` datasets in BigQuery. These include checks for duplicates, null values, data volume, performance metrics, and more.
 
----
-
-### 🔁 1. Duplicate Records Check
-
-Identifies any duplicate exam sessions based on `user_id`, `exam_id`, and `session_id`.
+###  1. Check for Duplicate Rows (All Columns)
 
 ```sql
 SELECT 
   user_id,
   exam_id,
   session_id,
-  COUNT(*) AS duplicate_count
+  COUNT(*) AS count
 FROM 
   `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`
 GROUP BY 
@@ -26,119 +22,128 @@ HAVING
   COUNT(*) > 1;
 ```
 
+ **Output:**
+
+<!-- There is no data to display. -->
+
 ---
 
-### 📦 2. Data Volume Analysis
-
-Returns total number of exam attempts recorded.
+###  2. Total Row Count
 
 ```sql
-SELECT 
-  COUNT(*) AS total_exam_attempts
-FROM 
-  `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
+SELECT COUNT(*) AS total_rows
+FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
 ```
 
+ **Output:**
+
+<!-- Row	total_rows
+     1	   1823	 -->
+
 ---
 
-### 🔍 3. Unique Values Analysis
-
-Shows distinct counts of users, exams, and sessions.
+###  3. Unique Values per Column
 
 ```sql
 SELECT 
-  COUNT(DISTINCT user_id) AS unique_students,
+  COUNT(DISTINCT user_id) AS unique_users,
   COUNT(DISTINCT exam_id) AS unique_exams,
   COUNT(DISTINCT session_id) AS unique_sessions
-FROM 
-  `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
+FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
 ```
+
+ **Output:**
+
+<!-- Insert output table or screenshot here -->
 
 ---
 
-### ⚠️ 4. Data Quality Check (Null Values)
-
-Identifies missing values in key columns.
+###  4. Missing Values Check
 
 ```sql
 SELECT
-  COUNTIF(user_id IS NULL) AS missing_user_ids,
-  COUNTIF(exam_id IS NULL) AS missing_exam_ids,
-  COUNTIF(session_id IS NULL) AS missing_session_ids,
-  COUNTIF(user_exam_starts_at IS NULL) AS missing_start_times,
-  COUNTIF(user_exam_ends_at IS NULL) AS missing_end_times
-FROM 
-  `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
+  COUNTIF(user_id IS NULL) AS null_user_id,
+  COUNTIF(exam_id IS NULL) AS null_exam_id,
+  COUNTIF(session_id IS NULL) AS null_session_id,
+  COUNTIF(user_exam_starts_at IS NULL) AS null_start_time,
+  COUNTIF(user_exam_ends_at IS NULL) AS null_end_time
+FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
 ```
+
+ **Output:**
+
+<!-- Insert output table or screenshot here -->
 
 ---
 
-### 🕒 5. Exam Timeframe Analysis
-
-Shows the date range of exam attempts.
+###  5. Min & Max Dates of Exam Attempts
 
 ```sql
 SELECT
-  MIN(user_exam_starts_at) AS first_exam_attempt,
-  MAX(user_exam_starts_at) AS last_exam_attempt
-FROM 
-  `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
+  MIN(user_exam_starts_at) AS earliest_attempt,
+  MAX(user_exam_starts_at) AS latest_attempt
+FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
 ```
+
+ **Output:**
+
+<!-- Insert output table or screenshot here -->
 
 ---
 
-### 📈 6. Performance Metrics
-
-Provides statistics on correct and incorrect answers.
+###  6. Descriptive Stats for Marks
 
 ```sql
 SELECT
-  MIN(total_correct_answers) AS worst_score,
-  MAX(total_correct_answers) AS best_score,
-  AVG(total_correct_answers) AS average_score,
-  MIN(total_false_answers) AS least_incorrect,
-  MAX(total_false_answers) AS most_incorrect,
-  AVG(total_false_answers) AS avg_incorrect
-FROM 
-  `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
+  MIN(total_correct_answers) AS min_correct,
+  MAX(total_correct_answers) AS max_correct,
+  AVG(total_correct_answers) AS avg_correct,
+
+  MIN(total_false_answers) AS min_false,
+  MAX(total_false_answers) AS max_false,
+  AVG(total_false_answers) AS avg_false
+FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
 ```
+
+ **Output:**
+
+<!-- Insert output table or screenshot here -->
 
 ---
 
-### 📊 7. Exam Popularity Analysis
-
-Shows which exams are attempted most frequently.
+###  7. Exam Attempt Frequency by Exam Name
 
 ```sql
 SELECT
   e.exam_name,
-  COUNT(*) AS attempt_count
-FROM 
-  `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions` AS es
-JOIN 
-  `practiceproject-464611.JuniorBIAnalyst10MinSchool.exams` AS e
-  ON es.exam_id = e.exam_id
-GROUP BY 
-  e.exam_name
-ORDER BY 
-  attempt_count DESC;
+  COUNT(*) AS total_attempts
+FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions` AS es
+JOIN `practiceproject-464611.JuniorBIAnalyst10MinSchool.exams` AS e
+ON es.exam_id = e.exam_id
+GROUP BY e.exam_name
+ORDER BY total_attempts DESC;
 ```
+
+ **Output:**
+
+<!-- Insert output table or screenshot here -->
 
 ---
 
-### 🏆 8. Top Students by Activity
-
-Identifies the most active students based on the number of exams attempted.
+###  8. Top 5 Students by Number of Attempts
 
 ```sql
 SELECT
   user_id,
-  COUNT(*) AS exams_taken
-FROM 
-  `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`
-GROUP BY 
-  user_id
-ORDER BY 
-  exams_taken DESC
+  COUNT(*) AS total_attempts
+FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`
+GROUP BY user_id
+ORDER BY total_attempts DESC
 LIMIT 5;
 ```
+
+ **Output:**
+
+<!-- Insert output table or screenshot here -->
+
+
