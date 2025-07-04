@@ -330,9 +330,115 @@ See Full Dataset [Click Here](https://github.com/mdmahamudmredha/Student_Data_Qu
 
 ---
 
+### Question 4: (Use LAG()): Performance Trend per Student Across Exams
 
+```sql
+/*
+Question 4: (Use LAG()): Performance Trend per Student Across Exams									
+For each student, determine how their actual mark changed from their previous exam.									
+	- Use LAG() to get the previous actual mark per student, ordered by user_exam_starts_at								
+	- Compare current and previous actual marks to label performance as:								
+	- Improved' (if current mark > previous)								
+	- Declined' (if current mark < previous) 								
+	- Same' (if current mark = previous)								
+	- NULL for the first attempt (no previous to compare)								
+	- Return columns: auth_user_id, exam_name, user_exam_starts_at, actual_mark, previous_actual_mark, performance_trend								
+*/
 
+-- Performance Trend with Percentage
+SELECT
+  es.user_id AS auth_user_id,
+  e.exam_name,
+  es.user_exam_starts_at,
 
+  --  Actual mark percentage
+  ROUND(
+    (
+      (es.total_correct_answers * e.each_ques_mark) - 
+      (es.total_false_answers * e.per_ques_negative_marking)
+    ) * 100.0 / (e.each_ques_mark * e.total_questions),
+    2
+  ) AS actual_mark_percentage,
 
+  --  Previous actual mark percentage
+  ROUND(
+    LAG(
+      (
+        (es.total_correct_answers * e.each_ques_mark) - 
+        (es.total_false_answers * e.per_ques_negative_marking)
+      ) * 100.0 / (e.each_ques_mark * e.total_questions)
+    ) OVER (
+      PARTITION BY es.user_id
+      ORDER BY es.user_exam_starts_at
+    ),
+    2
+  ) AS previous_actual_mark_percentage,
+
+  --  Performance trend using percentage comparison
+  CASE 
+    WHEN LAG(
+      (
+        (es.total_correct_answers * e.each_ques_mark) - 
+        (es.total_false_answers * e.per_ques_negative_marking)
+      ) * 100.0 / (e.each_ques_mark * e.total_questions)
+    ) OVER (
+      PARTITION BY es.user_id
+      ORDER BY es.user_exam_starts_at
+    ) IS NULL THEN NULL
+
+    WHEN (
+      (es.total_correct_answers * e.each_ques_mark) - 
+      (es.total_false_answers * e.per_ques_negative_marking)
+    ) * 100.0 / (e.each_ques_mark * e.total_questions) >
+      LAG(
+        (
+          (es.total_correct_answers * e.each_ques_mark) - 
+          (es.total_false_answers * e.per_ques_negative_marking)
+        ) * 100.0 / (e.each_ques_mark * e.total_questions)
+      ) OVER (
+        PARTITION BY es.user_id
+        ORDER BY es.user_exam_starts_at
+      ) THEN 'Improved'
+
+    WHEN (
+      (es.total_correct_answers * e.each_ques_mark) - 
+      (es.total_false_answers * e.per_ques_negative_marking)
+    ) * 100.0 / (e.each_ques_mark * e.total_questions) <
+      LAG(
+        (
+          (es.total_correct_answers * e.each_ques_mark) - 
+          (es.total_false_answers * e.per_ques_negative_marking)
+        ) * 100.0 / (e.each_ques_mark * e.total_questions)
+      ) OVER (
+        PARTITION BY es.user_id
+        ORDER BY es.user_exam_starts_at
+      ) THEN 'Declined'
+
+    ELSE 'Same'
+  END AS performance_trend
+
+FROM
+  `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions` AS es
+JOIN
+  `practiceproject-464611.JuniorBIAnalyst10MinSchool.exams` AS e
+ON
+  es.exam_id = e.exam_id
+ORDER BY
+  es.user_id,
+  es.user_exam_starts_at;
+
+```
+ **Output:**
+| Row | auth_user_id                | exam_name                                      | user_exam_starts_at               | Score (%) | Previous Score (%) | Performance Trend |
+|-----|-----------------------------|-----------------------------------------------|-----------------------------------|-----------|--------------------|-------------------|
+| 1   | 623a318cfb492fa5df0c2456   | সাপ্তাহিক পরীক্ষা - ১                         | 2025-01-25 12:30:59.666000 UTC    | 75.0      | null               | null              |
+| 2   | 623a318cfb492fa5df0c2456   | Monthly Exam 1 (MCQ)                          | 2025-02-02 10:10:20.022000 UTC    | 62.5      | 75.0               | Declined          |
+| 3   | 623a318cfb492fa5df0c2456   | Class 10 - Weekly MCQ Exam - February 1       | 2025-02-08 15:02:34.054000 UTC    | 45.0      | 62.5               | Declined          |
+| 4   | 623a318cfb492fa5df0c2456   | Monthly Exam 1 (MCQ)                          | 2025-02-10 16:16:13.987000 UTC    | 0.0       | 45.0               | Declined          |
+| 5   | 623a318cfb492fa5df0c2456   | Class 10 - Weekly MCQ Exam - February 2       | 2025-02-16 10:48:33.639000 UTC    | 62.5      | 0.0                | Improved          |
+
+See Full Dataset [Click Here](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/SQL%20Query/Q4%20Use%20LAG%20Performance%20Trend%20per%20Student%20Across%20Exams.csv)
+
+---
 
 
