@@ -1,0 +1,301 @@
+student_id,duration_sec,actual_mark,percentage_mark,cluster,cluster_name,feedback_message
+623a318cfb492fa5df0c2456,1443.6923076923076,15.192307692307692,62.88384615384616,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a318efb492fa5df0c24df,918.25,23.041666666666668,92.70833333333333,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a3243fb492fa5df0c6751,519.3333333333334,13.083333333333334,54.0,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a3313fb492fa5df0cb1a2,627.0,4.0,15.4375,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a338ffb492fa5df0cde2b,1050.1818181818182,7.181818181818182,29.180909090909093,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a343ffb492fa5df0d1d44,1205.8,8.45,31.784000000000002,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a3486fb492fa5df0d370d,939.2727272727273,6.0227272727272725,25.90909090909091,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a35c5fb492fa5df0da820,576.25,8.4375,43.75,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a360cfb492fa5df0dc049,1107.6666666666667,11.333333333333334,42.98666666666667,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a3724fb492fa5df0e2163,1267.625,3.203125,14.864375,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a3979fb492fa5df0ee826,1185.4285714285713,11.571428571428571,50.02428571428572,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a3989fb492fa5df0eed47,971.6666666666666,20.0,79.86,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a3a1efb492fa5df0f1d9e,1411.2222222222222,10.38888888888889,38.88777777777778,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a3a98fb492fa5df0f44cf,550.0,19.583333333333332,72.22,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a3b20fb492fa5df0f7063,328.0,16.25,81.25,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a3b3afb492fa5df0f7885,921.375,14.25,52.11625,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a3c81fb492fa5df0fe0dd,783.7777777777778,17.916666666666668,73.61111111111111,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a3c91fb492fa5df0fe5fc,808.3636363636364,20.272727272727273,80.96181818181819,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a3c92fb492fa5df0fe640,423.6666666666667,13.083333333333334,53.833333333333336,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a3f1bfb492fa5df10b0de,702.3333333333334,9.708333333333334,34.931666666666665,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a3fc4fb492fa5df10e509,1142.0,10.75,43.0,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a4076fb492fa5df111aae,772.0,13.55,52.934000000000005,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a41cffb492fa5df1181bd,775.1666666666666,11.125,47.67416666666667,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a41f5fb492fa5df118d02,820.5,21.25,95.0,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a42b2fb492fa5df11c4b7,683.8095238095239,6.392857142857143,27.614761904761902,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a4337fb492fa5df11ec48,705.4,11.0,44.991,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a44c3fb492fa5df126066,319.0,7.5,37.5,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a454efb492fa5df1288bb,1158.625,7.25,28.072499999999998,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a4567fb492fa5df129054,979.0,5.625,37.5,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a46ccfb492fa5df12f732,1079.2,17.75,67.668,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a46d7fb492fa5df12fa61,815.7142857142857,14.285714285714286,55.35857142857143,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a473bfb492fa5df1315ad,1037.8,20.75,81.333,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a47cbfb492fa5df133d9c,482.0,21.25,77.91499999999999,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a48d2fb492fa5df138705,515.8333333333334,8.020833333333334,32.291666666666664,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a48f5fb492fa5df1390e1,759.2222222222222,3.2222222222222223,13.518888888888888,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a48fcfb492fa5df1392d7,696.3333333333334,9.38888888888889,34.962222222222216,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a4a30fb492fa5df13e85e,923.5555555555555,16.52777777777778,64.16666666666667,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a4a56fb492fa5df13f319,1190.3333333333333,3.2083333333333335,13.541666666666666,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a4aadfb492fa5df140b79,237.25,15.3125,76.5625,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a4bedfb492fa5df14639d,1159.5,6.25,20.835,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a4c11fb492fa5df146d79,1033.4,13.5,55.75,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a4c37fb492fa5df1477c3,1144.0,9.375,31.25,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a4d1afb492fa5df14b55d,1134.2,16.35,77.084,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a4da1fb492fa5df14da68,736.0,16.25,81.25,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a4daffb492fa5df14de4a,297.1333333333333,12.65,52.74466666666667,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a4dc9fb492fa5df14e541,1231.0,11.25,58.33,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a4e07fb492fa5df14f604,568.5555555555555,14.722222222222221,56.76888888888889,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a4e17fb492fa5df14fa5b,395.6363636363636,19.5,84.59,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a4e27fb492fa5df14feb0,1333.7777777777778,12.972222222222221,51.5,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a4e50fb492fa5df1509dc,742.6153846153846,18.46153846153846,69.35307692307693,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a4e6cfb492fa5df151173,590.4,10.875,43.417,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a4e76fb492fa5df1513f2,417.5,10.75,45.208333333333336,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a4e7cfb492fa5df1515a9,321.4117647058824,7.735294117647059,29.216176470588238,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a4f0cfb492fa5df153bc4,1230.6,14.275,51.583000000000006,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a4f0ffb492fa5df153cc2,1207.5,20.0,72.91499999999999,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a4f38fb492fa5df1547ad,235.25,8.75,39.167500000000004,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a4fb2fb492fa5df156846,662.25,2.8125,11.46,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a5100fb492fa5df15c10a,853.0,11.25,45.835,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a51f3fb492fa5df160079,926.9090909090909,13.772727272727273,61.09909090909091,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a5273fb492fa5df16218e,496.2,5.05,18.916,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a5280fb492fa5df1624f7,939.8333333333334,15.625,62.57,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a52b1fb492fa5df1631fe,1045.2,15.5,64.334,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a52bafb492fa5df163464,358.42857142857144,1.5714285714285714,8.690000000000001,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a54f8fb492fa5df16c814,558.25,8.125,34.0625,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a5501fb492fa5df16ca79,1197.4,12.75,47.418,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a56affb492fa5df173709,515.3333333333334,21.666666666666668,86.66666666666667,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a574ffb492fa5df175f7d,1192.2307692307693,5.25,23.237692307692306,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a5759fb492fa5df1761dc,1272.0,13.9375,51.980000000000004,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a5825fb492fa5df17957d,1544.5,17.75,65.26333333333334,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a58bbfb492fa5df17bb36,1191.3333333333333,14.166666666666666,57.64000000000001,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a58e1fb492fa5df17c4a8,1192.4545454545455,12.045454545454545,51.25,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a5ab2fb492fa5df1836b5,598.0,17.666666666666668,74.30666666666667,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a5b71fb492fa5df18650d,1061.0,16.25,61.46,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a5e1efb492fa5df190b33,482.8,8.55,37.266,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a5e57fb492fa5df1918bc,168.75,18.125,67.5,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a5fb3fb492fa5df196b63,746.0,16.875,61.25,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a5fc0fb492fa5df196e94,805.6,11.45,48.874,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a5fddfb492fa5df197558,315.5,15.0,62.5,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a5fe0fb492fa5df197620,269.0,6.75,33.75,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a608cfb492fa5df199dfd,335.42857142857144,14.464285714285714,59.76142857142857,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a60e4fb492fa5df19b274,727.5,12.5,54.165,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a614afb492fa5df19ca21,1051.3333333333333,16.458333333333332,63.333333333333336,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a6164fb492fa5df19d01a,1105.25,6.4375,25.8325,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a61f6fb492fa5df19f207,888.4,13.7,60.75,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a6229fb492fa5df19fdde,723.3333333333334,16.25,69.44333333333333,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a62a3fb492fa5df1a19f9,1375.3333333333333,14.416666666666666,62.666666666666664,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a62affb492fa5df1a1ce2,781.0,15.0,50.0,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a62b1fb492fa5df1a1d37,860.0,12.5,62.5,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a632bfb492fa5df1a38df,1505.0,5.25,17.5,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a63c8fb492fa5df1a5bb2,311.0,11.25,56.25,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a675ffb492fa5df1b28a9,279.0,11.5,76.67,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a67b6fb492fa5df1b3bcc,415.42857142857144,20.178571428571427,83.69000000000001,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a68a2fb492fa5df1b7010,1158.0,9.375,46.875,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a6992fb492fa5df1ba4f2,818.5,13.125,43.75,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a6a64fb492fa5df1bd2c2,1140.5,21.25,70.83500000000001,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a6aa0fb492fa5df1bdfa9,390.75,11.25,45.832499999999996,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a6ae8fb492fa5df1beee1,510.125,9.4375,47.105000000000004,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a6c3efb492fa5df1c3926,595.3076923076923,4.730769230769231,17.986923076923077,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a6d59fb492fa5df1c764b,734.4615384615385,16.384615384615383,65.12846153846154,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a6edbfb492fa5df1cc87f,1152.5,13.625,45.415,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a6f07fb492fa5df1cd1cb,745.625,13.0,51.8225,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a6f69fb492fa5df1ce709,1001.5,5.625,18.75,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a7025fb492fa5df1d0ebc,580.8,19.7,71.834,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a70fafb492fa5df1d3bb2,783.1428571428571,12.142857142857142,48.93,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a710ffb492fa5df1d401d,476.0,17.979166666666668,69.25,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a71c6fb492fa5df1d65bb,347.0,8.410714285714286,36.28,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a71d0fb492fa5df1d67dc,589.2,16.0,69.832,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a7246fb492fa5df1d806e,640.0,5.125,34.165,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a72a2fb492fa5df1d9324,447.5,11.25,47.915,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a72c0fb492fa5df1d993e,443.5,15.375,76.875,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a72ecfb492fa5df1da27e,1135.0,10.375,51.875,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a7327fb492fa5df1dae44,748.75,12.875,48.6475,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a7385fb492fa5df1dc1c8,301.4,22.5,92.667,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a748efb492fa5df1df7df,862.0,14.6875,53.542500000000004,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a74effb492fa5df1e0bc8,1172.8333333333333,10.833333333333334,45.278333333333336,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a75eefb492fa5df1e3fd2,808.4,18.25,73.08333333333333,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a7666fb492fa5df1e5873,713.6666666666666,11.38888888888889,44.90777777777778,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a7670fb492fa5df1e5a75,952.0,15.0,55.21,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a7861fb492fa5df1ebe12,1265.8333333333333,17.5,71.875,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a7a14fb492fa5df1f148e,718.0,3.0,15.0,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a7a6afb492fa5df1f25e9,1026.857142857143,5.785714285714286,23.095714285714287,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a7b23fb492fa5df1f4b0c,595.0,10.0,33.33,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a7b9efb492fa5df1f6373,560.9230769230769,12.307692307692308,49.32692307692308,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a7c7efb492fa5df1f8f7c,907.6666666666666,11.166666666666666,45.416666666666664,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a7eeafb492fa5df2008db,696.9,14.625,57.541999999999994,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a7efffb492fa5df200d0b,603.0,13.75,68.75,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a8004fb492fa5df203f96,237.0,18.75,75.0,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a80cbfb492fa5df20664d,219.0,6.25,31.25,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a8278fb492fa5df20b953,1253.5,8.75,29.165,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a8286fb492fa5df20bc1d,350.0,10.25,36.0425,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a846afb492fa5df2118a2,713.0,12.833333333333334,52.223333333333336,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a84f3fb492fa5df2132bc,836.9230769230769,16.076923076923077,65.80153846153846,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a8675fb492fa5df217c5b,1020.6923076923077,15.288461538461538,61.673846153846156,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a8694fb492fa5df21823e,1220.2,13.0,48.332,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a8787fb492fa5df21b014,1010.5,11.25,37.5,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a884efb492fa5df21d5e7,216.0,15.0,75.0,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a88eafb492fa5df21f2c8,566.75,21.5625,79.6875,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a89dffb492fa5df222059,1196.0,15.0,55.0,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a8a95fb492fa5df224248,630.0909090909091,22.431818181818183,86.83272727272727,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a8a9bfb492fa5df224394,546.75,21.0,80.8325,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a8b31fb492fa5df225f95,1163.0,12.25,54.375,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a8c36fb492fa5df228faa,602.5,8.75,33.335,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a8c9dfb492fa5df22a281,901.6666666666666,9.166666666666666,39.583333333333336,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a8d34fb492fa5df22be24,375.3333333333333,17.5,87.5,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a8ea6fb492fa5df2300d1,964.1111111111111,14.583333333333334,58.611111111111114,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a8ec2fb492fa5df230611,437.5,19.9375,75.9375,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a9117fb492fa5df237351,1188.7058823529412,16.029411764705884,60.974705882352936,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a925efb492fa5df23ae5a,925.8666666666667,13.266666666666667,57.483333333333334,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a9324fb492fa5df23d212,833.6923076923077,14.923076923076923,59.94923076923077,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a941afb492fa5df23fdf8,1265.3333333333333,10.86111111111111,42.13,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a950cfb492fa5df2428b0,886.0,18.75,75.0,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a9531fb492fa5df242f5c,852.3333333333334,17.666666666666668,69.125,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a9684fb492fa5df246ad3,1019.0,14.25,71.25,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a97dcfb492fa5df24a781,274.8,11.75,60.5,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a98cffb492fa5df24d300,858.25,14.8125,66.145,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a9930fb492fa5df24e40b,574.8,11.175,48.75,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a9945fb492fa5df24e7e6,456.6666666666667,9.583333333333334,47.223333333333336,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a997ffb492fa5df24f25c,679.4285714285714,15.892857142857142,62.02428571428572,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a99c6fb492fa5df24fee3,335.0,15.0,75.0,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a9af1fb492fa5df2532de,687.1666666666666,13.291666666666666,50.76333333333333,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a9b10fb492fa5df25382d,691.0,9.25,46.25,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623a9be9fb492fa5df255d46,887.0,17.025,72.808,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a9c83fb492fa5df2577ed,425.0,17.5,75.0,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a9cdcfb492fa5df258784,919.2,20.5,80.166,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623a9d5efb492fa5df259e0e,1088.6666666666667,18.541666666666668,69.02833333333334,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623a9db6fb492fa5df25ad86,537.1666666666666,5.416666666666667,23.75,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a9e9bfb492fa5df25d524,1064.0,8.125,37.5,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623a9fc8fb492fa5df260923,572.75,16.90625,65.78125,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623aa026fb492fa5df26193f,345.5,10.625,47.5,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aa02ffb492fa5df261aa5,1199.75,2.5,12.5,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623aa068fb492fa5df26247d,598.9090909090909,13.636363636363637,56.439090909090915,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aa07afb492fa5df262776,989.3333333333334,13.166666666666666,47.11333333333334,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623aa09afb492fa5df262d0e,580.695652173913,15.304347826086957,66.77608695652174,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623aa09cfb492fa5df262d86,899.3846153846154,15.826923076923077,63.22538461538462,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623aa0a9fb492fa5df262f9f,243.0,7.8125,28.958750000000002,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aa0bcfb492fa5df263319,1012.5,16.5625,60.625,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623aa0ecfb492fa5df263b2b,834.0,6.35,26.168,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623aa191fb492fa5df265769,273.5,7.5,25.0,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aa1a5fb492fa5df265a96,415.75,15.9375,60.105000000000004,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623aa212fb492fa5df266d33,735.1111111111111,11.583333333333334,44.88777777777778,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aa336fb492fa5df269e65,236.0,4.25,28.33,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aa465fb492fa5df26d16f,566.25,11.1875,45.6875,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aa4acfb492fa5df26dd62,790.0,3.125,15.625,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623aa4ddfb492fa5df26e546,779.6666666666666,15.416666666666666,57.64000000000001,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623aa54ffb492fa5df26f883,1131.3333333333333,7.166666666666667,33.25,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623aa5e9fb492fa5df271253,645.8181818181819,13.068181818181818,52.50090909090909,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aa5ecfb492fa5df2712e4,646.0,12.5,50.0,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aa692fb492fa5df272e4b,653.5,20.0,80.21000000000001,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623aa797fb492fa5df2759dd,748.2222222222222,20.97222222222222,83.00888888888889,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623aa7c1fb492fa5df2760bd,783.6666666666666,13.416666666666666,50.0,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623aa83ffb492fa5df2775ed,1063.2,12.4,47.5,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623aa874fb492fa5df277ec2,322.0,17.5,87.5,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623aa928fb492fa5df279cb4,340.0,11.875,49.4775,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aaa81fb492fa5df27d599,771.5,4.375,18.3325,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623aac4ffb492fa5df2821e1,374.0,6.25,41.67,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aac85fb492fa5df282af8,1784.0,22.5,75.0,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623aac8dfb492fa5df282c3d,567.2727272727273,11.727272727272727,47.40181818181818,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aad43fb492fa5df284aa3,729.0,17.5,87.5,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623aada0fb492fa5df285999,1076.0,13.75,45.83,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623aada9fb492fa5df285b20,594.5,16.25,60.0,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623aae0cfb492fa5df286b6f,681.4444444444445,11.11111111111111,42.43444444444444,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aae3efb492fa5df28735a,406.3333333333333,7.916666666666667,32.04833333333333,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ab03bfb492fa5df28c569,931.4,7.325,29.5,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623ab177fb492fa5df28f850,485.0,16.0,65.83500000000001,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab1ddfb492fa5df2908d3,961.75,10.104166666666666,41.527499999999996,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab24bfb492fa5df291ac4,778.5,15.625,65.625,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab2ccfb492fa5df292fb3,497.5,14.791666666666666,65.34666666666666,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab2d8fb492fa5df2931b1,431.85714285714283,17.142857142857142,72.85714285714286,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab2e5fb492fa5df2933cc,501.0,10.5,42.0,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ab34ffb492fa5df2944b6,963.25,9.6875,44.792500000000004,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab3e3fb492fa5df295ca1,669.2105263157895,13.75,50.57052631578947,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ab411fb492fa5df2963fe,1226.5,4.40625,16.0425,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623ab44cfb492fa5df296d6d,875.0,5.75,28.75,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623ab44efb492fa5df296daf,1284.0,13.75,66.66499999999999,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab493fb492fa5df2978dc,1213.5,13.0,58.917500000000004,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab4b2fb492fa5df297ddc,500.5,18.75,75.0,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab51afb492fa5df298ed5,687.3333333333334,17.916666666666668,74.76777777777778,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab587fb492fa5df29a038,864.6,16.75,65.668,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab59afb492fa5df29a357,1050.5,7.1875,30.2075,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623ab72dfb492fa5df29e41b,1071.6666666666667,19.375,73.82000000000001,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab752fb492fa5df29ea1b,1059.125,11.53125,44.769999999999996,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab7bdfb492fa5df29facc,695.0,18.125,72.91499999999999,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab813fb492fa5df2a0867,730.3333333333334,8.375,33.681666666666665,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ab872fb492fa5df2a1778,1505.5,6.875,34.375,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623ab88bfb492fa5df2a1b70,1073.0833333333333,16.458333333333332,67.32583333333334,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab8abfb492fa5df2a2075,500.54545454545456,14.318181818181818,58.189090909090915,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ab8bbfb492fa5df2a22f0,896.0,15.3125,58.644999999999996,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab8c4fb492fa5df2a2457,197.0,10.0,44.63999999999999,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ab8d2fb492fa5df2a268e,497.22222222222223,16.25,67.59222222222223,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab8e4fb492fa5df2a292f,445.5,8.9375,29.7925,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ab8eefb492fa5df2a2ac2,450.3,17.0,71.666,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab928fb492fa5df2a340e,604.2857142857143,19.285714285714285,71.13,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab929fb492fa5df2a343c,1239.0,19.1875,75.8325,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab95afb492fa5df2a3be6,918.5,4.9375,18.2075,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623ab95cfb492fa5df2a3c2a,605.0,12.458333333333334,45.833333333333336,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ab96afb492fa5df2a3e48,907.5,13.125,59.375,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ab9cffb492fa5df2a4e08,510.0,13.75,68.75,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ab9f2fb492fa5df2a539f,1065.857142857143,22.107142857142858,80.98714285714286,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623aba2cfb492fa5df2a5c9f,518.2,10.5,47.084,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623aba31fb492fa5df2a5d79,746.0,5.0,23.125,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623abacbfb492fa5df2a75a8,813.6666666666666,19.75,75.55666666666667,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623abb50fb492fa5df2a8a8c,1499.0,20.5,82.5,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623abbadfb492fa5df2a98e7,402.5,17.291666666666668,72.22333333333334,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623abbdbfb492fa5df2aa029,143.0,5.75,19.17,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623abc17fb492fa5df2aa99d,587.5,18.958333333333332,76.21583333333334,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623abc69fb492fa5df2ab667,542.0,18.75,93.75,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623abc73fb492fa5df2ab7e3,259.0,7.5,37.5,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623abc75fb492fa5df2ab84a,705.7142857142857,15.892857142857142,60.77285714285714,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623abc84fb492fa5df2aba9b,885.0,5.0,20.8325,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623abca6fb492fa5df2abfee,946.0,23.75,79.17,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623abccdfb492fa5df2ac61d,676.25,8.75,32.8125,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623abd09fb492fa5df2acf82,650.75,16.25,62.917500000000004,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623abe8bfb492fa5df2b0c09,1032.5,16.875,67.71000000000001,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623abf33fb492fa5df2b259d,786.0,5.535714285714286,24.284285714285716,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623abf38fb492fa5df2b2664,138.0,9.25,30.83,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ac061fb492fa5df2b5443,1065.3333333333333,10.88888888888889,42.824444444444445,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ac268fb492fa5df2ba3fb,968.0,27.5,91.67,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ac3a3fb492fa5df2bd3fc,1489.0,11.25,38.332499999999996,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ac404fb492fa5df2be2dc,321.0,9.375,37.5,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ac40ffb492fa5df2be482,1293.4,6.5,27.665999999999997,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623ac4fbfb492fa5df2c088a,846.0,15.0,50.0,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ac536fb492fa5df2c1193,498.25,15.3125,64.895,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ac582fb492fa5df2c1d17,1666.0,18.75,62.5,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ac5abfb492fa5df2c2367,857.7142857142857,21.5,80.94000000000001,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ac5fffb492fa5df2c300a,311.0,11.25,56.25,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ac604fb492fa5df2c30de,685.1333333333333,14.016666666666667,59.122,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ac694fb492fa5df2c46e3,737.25,12.75,61.25,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ac6fffb492fa5df2c5701,1059.3333333333333,11.416666666666666,42.916666666666664,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ac775fb492fa5df2c693d,799.25,7.5,32.71,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623ac77bfb492fa5df2c6a13,569.6666666666666,15.833333333333334,77.77666666666666,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ac8e1fb492fa5df2ca08e,513.8571428571429,19.107142857142858,74.04857142857144,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ac942fb492fa5df2caf3e,753.2142857142857,20.267857142857142,81.01214285714286,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ac953fb492fa5df2cb1d9,754.6153846153846,17.307692307692307,68.81384615384616,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623aca29fb492fa5df2cd1ff,973.6666666666666,13.333333333333334,66.66666666666667,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623acb7cfb492fa5df2d04f4,654.1818181818181,15.545454545454545,62.71272727272728,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623acba8fb492fa5df2d0ba7,802.0,11.931818181818182,46.74272727272727,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623acbf7fb492fa5df2d17a1,891.0,13.75,53.75,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623acc94fb492fa5df2d2fb1,593.0,17.8125,67.60375,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623accbbfb492fa5df2d354c,812.6666666666666,10.916666666666666,36.526666666666664,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623acccdfb492fa5df2d382b,1330.888888888889,9.583333333333334,34.53666666666666,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623acd24fb492fa5df2d4517,304.04761904761904,18.511904761904763,72.77714285714285,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623acd6dfb492fa5df2d501f,1121.3333333333333,5.25,24.44333333333333,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623acd8dfb492fa5df2d54bb,793.0,11.90625,49.167500000000004,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623acdacfb492fa5df2d5960,855.0,10.166666666666666,38.471666666666664,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623acdbffb492fa5df2d5c51,946.0,16.666666666666668,64.86,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ace10fb492fa5df2d6837,808.3333333333334,15.0,59.44333333333333,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ace64fb492fa5df2d7493,527.75,2.6875,12.4175,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623acf03fb492fa5df2d8ca8,973.4444444444445,15.25,63.611111111111114,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623acf1dfb492fa5df2d9059,561.0,11.25,43.333333333333336,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623acf3cfb492fa5df2d950c,558.5,12.208333333333334,45.555,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623acf7dfb492fa5df2d9ee7,321.0,10.75,40.998333333333335,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ad09bfb492fa5df2dc9d4,684.4130434782609,19.092391304347824,70.65369565217392,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ad1befb492fa5df2df54d,620.5714285714286,19.107142857142858,76.99428571428572,0,High Performers (Efficient), Excellent work! Keep it up and explore advanced materials.
+623ad372fb492fa5df2e361d,520.5,6.25,26.355,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ad444fb492fa5df2e54b2,1072.2222222222222,12.88888888888889,46.11222222222222,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ad512fb492fa5df2e727e,822.0,15.5,58.88666666666666,2,Slow but Steady, Good job! Now work on improving speed with time-bound tests.
+623ad513fb492fa5df2e72c7,1510.0,3.375,11.25,1,Struggling Students, You might need some help. Try review sessions and practice sets.
+623ad5a9fb492fa5df2e88aa,381.75,7.5625,33.385,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ad5effb492fa5df2e929c,191.0,8.5,42.5,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
+623ad5effb492fa5df2e92ab,865.6666666666666,10.75,41.61166666666667,3,Fast but Unstable, Try to slow down a bit and focus more on accuracy.
