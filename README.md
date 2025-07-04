@@ -53,8 +53,9 @@ FROM `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions`;
 ```
 
  **Output:**
-
-<!-- Insert output table or screenshot here -->
+| Row | unique_users | unique_exams | unique_sessions  |
+|-----|--------------|--------------|------------------|
+| 1   | 300          | 12           | 1823             |
 
 ---
 
