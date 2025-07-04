@@ -505,5 +505,11 @@ Optional:
   <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Pass%20Rate.png" width="1000"/>
 </p>
 
-###### Explanation in Video [Click Here]()
+### Extra Insight From me (Clustering)
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Cluster.png" width="1000"/>
+</p>
+
+#### Explanation in Video [Click Here]()
 
