@@ -171,6 +171,8 @@ LIMIT 5;
 
 ## Question and Solve
 
+### Question 1: Actual Mark Calculation
+
 ```sql
 -- Question 1: Actual Mark Calculation
 -- Calculates the actual mark obtained by each student in each exam session
@@ -204,6 +206,8 @@ ORDER BY
 
 See Full Dataset [Click Here](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/SQL%20Query/Actual%20Mark%20Calculation%20-%202.csv)
 ---
+
+### Question 2: Pass/Fail Classification
 
 ```sql
 -- Question 2: Pass/Fail Classification
@@ -239,6 +243,93 @@ ON
 | 5   | 623ad5effb492fa5df2e92ab  | Class 10 - Weekly MCQ Exam - April Week 3  | 0.0         | 6         | Fail          |
 
 See Full Dataset [Click Here](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/SQL%20Query/Q2%20Pass%20Fail%20Classification.csv)
+
+---
+
+### Question 3: Top Performers
+
+```sql
+/*
+Question 3: Top Performers					
+Find the top 5 students in each exam based on their actual mark.					
+	- Only include rows where rank ≤ 5				
+	- Return columns: exam_name, auth_user_id, actual_mark, rank				
+*/
+
+
+-- Step 1: Best attempt per user per exam
+WITH best_attempts AS (
+  SELECT
+    es.user_id,
+    e.exam_id,
+    e.exam_name,
+
+    -- Actual mark
+    (es.total_correct_answers * e.each_ques_mark) - 
+    (es.total_false_answers * e.per_ques_negative_marking) AS actual_mark,
+
+    -- Duration
+    TIMESTAMP_DIFF(es.user_exam_ends_at, es.user_exam_starts_at, SECOND) AS exam_duration_seconds,
+
+    -- Row number to get best attempt per user per exam
+    ROW_NUMBER() OVER (
+      PARTITION BY es.user_id, e.exam_id
+      ORDER BY 
+        (es.total_correct_answers * e.each_ques_mark) - 
+        (es.total_false_answers * e.per_ques_negative_marking) DESC,
+        TIMESTAMP_DIFF(es.user_exam_ends_at, es.user_exam_starts_at, SECOND) ASC
+    ) AS rn
+
+  FROM
+    `practiceproject-464611.JuniorBIAnalyst10MinSchool.exam_sessions` AS es
+  JOIN
+    `practiceproject-464611.JuniorBIAnalyst10MinSchool.exams` AS e
+    ON es.exam_id = e.exam_id
+),
+
+-- Step 2: Rank top 5 students per exam (using only their best attempt)
+ranked_best AS (
+  SELECT
+    exam_name,
+    user_id AS auth_user_id,
+    actual_mark,
+    exam_duration_seconds,
+    RANK() OVER (
+      PARTITION BY exam_id
+      ORDER BY actual_mark DESC, exam_duration_seconds ASC
+    ) AS rank
+  FROM best_attempts
+  WHERE rn = 1
+)
+
+-- Step 3: Final selection
+SELECT
+  exam_name,
+  auth_user_id,
+  actual_mark,
+  exam_duration_seconds,
+  rank
+FROM
+  ranked_best
+WHERE
+  rank <= 5
+ORDER BY
+  exam_name,
+  rank;
+```
+ **Output:**
+| Rank | exam_name                                   | auth_user_id                | actual_mark | exam_duration_seconds |
+|------|--------------------------------------------|-----------------------------|-------------|-----------------------|
+| 1    | Class 10 - Monthly MCQ Exam - February     | 623ad09bfb492fa5df2dc9d4   | 30.0        | 782                   |
+| 2    | Class 10 - Monthly MCQ Exam - February     | 623a3c91fb492fa5df0fe5fc   | 30.0        | 1310                  |
+| 3    | Class 10 - Monthly MCQ Exam - February     | 623a318efb492fa5df0c24df   | 30.0        | 1783                  |
+| 4    | Class 10 - Monthly MCQ Exam - February     | 623a8a95fb492fa5df224248   | 28.75       | 737                   |
+| 5    | Class 10 - Monthly MCQ Exam - February     | 623a710ffb492fa5df1d401d   | 27.5        | 500                   |
+
+See Full Dataset [Click Here](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/SQL%20Query/Q3%20Top%20Performers.csv)
+
+---
+
 
 
 
