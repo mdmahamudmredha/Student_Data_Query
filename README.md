@@ -466,13 +466,44 @@ Optional:
 
 ### 2. Stacked Bar Chart: Daily Attempts by Exam
 
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Stacked%20Bar%20chart.png" width="1000"/>
+</p>
+
+
 ### 3. Top 5 Students in Each Exam		
 
-### 4. Performance Trend Categories (Improved / Declined / Same)				
-					
-#### Optional:					
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Top%205%20Students.png" width="1000"/>
+</p>
+
+
+### 4. Performance Trend Categories (Improved / Declined / Same)
+### 6. In which exams are students most likely to decline in performance?
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Trend%20and%20Decline%20Analysis.png" width="1000"/>
+</p>
+				
 ### 5. Who improved the most in their second attempt?	
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Stacked%20Bar%20chart.png" width="1000"/>
+</p>
+
 
 ### 6. In which exams are students most likely to decline in performance?	
 
-### 7. Is there any correlation between exam date and pass rate over time?	
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Improve%20Attempts.png" width="1000"/>
+</p>
+
+
+### 7. Is there any correlation between exam date and pass rate over time?
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Pass%20Rate.png" width="1000"/>
+</p>
+
+###### Explanation in Video [Click Here]()
+
