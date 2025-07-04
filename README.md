@@ -2,7 +2,7 @@
 
 ## SQL Part
 
-### 📊 SQL Data Quality & Exploratory Analysis Queries
+### SQL Data Quality & Exploratory Analysis Queries
 
 This section contains a collection of SQL queries used to explore and validate the `exam_sessions` and `exams` datasets in BigQuery. These include checks for duplicates, null values, data volume, performance metrics, and more.
 
