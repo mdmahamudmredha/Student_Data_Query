@@ -1,5 +1,7 @@
 # Student Data Query and Visualization
 
+### Video Explanation [Link](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
+
 ## SQL Part
 
 ### SQL Data Quality & Exploratory Analysis Queries
@@ -456,7 +458,7 @@ Optional:
 	7. Is there any correlation between exam date and pass rate over time?				
 ```
 #### Power BI Dashboard [Link](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/image.png)
-#### Video Explanation [Click Here]()
+#### Video Explanation [Click Here](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
 
 ### 1. Day-wise Exam Attendance Trend
 
@@ -511,5 +513,5 @@ Optional:
   <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Cluster.png" width="1000"/>
 </p>
 
-#### Explanation in Video [Click Here]()
+#### Explanation in Video [Click Here](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
 
