@@ -513,5 +513,95 @@ Optional:
   <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Cluster.png" width="1000"/>
 </p>
 
+
+| Cluster | Student Count | Avg Duration (sec) | Avg Mark | % Mark   |
+| ------- | ------------- | ------------------ | -------- | -------- |
+| 0       | 82            | 601 (\~10 min)     | 18.17    | 74.88%   |
+| 1       | 47            | 967 (\~16 min)     | 5.59     | 23.58%   |
+| 2       | 90            | 1062 (\~18 min)    | 14.38    | 57.11%   |
+| 3       | 81            | 515 (\~8.6 min)    | 10.37    | 43.01%   |
+
+---
+
+##  1.  Cluster Naming Suggestion:
+
+| Cluster | Suggested Name                | Reasoning                              |
+| ------- | ----------------------------- | -------------------------------------- |
+| **0**   |  High Performers (Efficient)  | High % mark + average time             |
+| **1**   |  Struggling Students          | Very low % and long time → need help   |
+| **2**   |  Slow but Steady              | Medium score, but high time taken      |
+| **3**   |  Fast but Unstable            | Low-medium score, but very fast time → |
+
+---
+
+##  2. Notification/Feedback Messages per Cluster:
+
+You can use these as **email, app message, or SMS** notifications.
+
+---
+
+###  Cluster 0:  High Performers (Efficient)
+
+**Message:**
+
+>  Great job! You're performing excellently with great accuracy and efficiency. Keep up the good work and consider practicing advanced problems to challenge yourself further.
+
+**Action Suggestion:**
+
+* Give access to **advanced-level practice sets**
+* Offer to become **peer mentors** for others
+
+---
+
+###  Cluster 1:  Struggling Students
+
+**Message:**
+
+>  We’ve noticed you're facing difficulties in the exams. Don’t worry — help is available! Review previous topics and try our specially designed practice sets for improvement.
+
+**Action Suggestion:**
+
+* Assign **remedial modules**
+* Recommend **one-on-one mentoring**
+* Trigger **alert for academic team** to follow up
+
+---
+
+###  Cluster 2:  Slow but Steady
+
+**Message:**
+
+>  You're showing good effort and accuracy! With a little more time management, your performance can go even higher. Practice timed quizzes to improve speed.
+
+**Action Suggestion:**
+
+* Recommend **time-bound mock tests**
+* Provide **tips on time management during exams**
+
+---
+
+###  Cluster 3:  Fast but Unstable
+
+**Message:**
+
+>  You're completing exams quickly, but accuracy needs improvement. Focus on reading questions carefully and avoid rushing. Try our accuracy-focused practice sets.
+
+**Action Suggestion:**
+
+* Provide **accuracy-focused exercises**
+* Show **error analysis reports** of their mistakes
+
+---
+
+###  3. Company Decision-Making Based on Clusters
+
+| Cluster | What company should do                                    |
+| ------- | --------------------------------------------------------- |
+| 0       | Engage them in advanced modules, mentorship, leaderboards |
+| 1       | Send early interventions, counselor support, email alerts |
+| 2       | Provide personalized time-management workshops            |
+| 3       | Offer error-detection training, slow-down strategy        |
+
+
 #### Explanation in Video [Click Here](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
 
