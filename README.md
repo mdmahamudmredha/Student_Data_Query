@@ -457,8 +457,8 @@ Optional:
 	6. In which exams are students most likely to decline in performance?				
 	7. Is there any correlation between exam date and pass rate over time?				
 ```
-#### Power BI Dashboard [Link](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/image.png)
-#### Video Explanation [Click Here](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
+## Power BI Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiMmVhZjExNDctOTM4Mi00ZDQ1LTllMTctODZiMjQ2OTRlMjM2IiwidCI6IjgxYmI4MGFlLTcxY2ItNDk4Yi05NGJiLThhNWNjMjljNDEzZCIsImMiOjEwfQ%3D%3D)
+### Video Explanation [Click Here](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
 
 ### 1. Day-wise Exam Attendance Trend
 
