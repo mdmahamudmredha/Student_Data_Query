@@ -463,13 +463,13 @@ Optional:
 ### 1. Day-wise Exam Attendance Trend
 
 <p align="center">
-  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/image.png" width="1000"/>
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Attendance%20by%20Week%20Days%20and%20Date.png" width="1000"/>
 </p>
 
 ### 2. Stacked Bar Chart: Daily Attempts by Exam
 
 <p align="center">
-  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Stacked%20Bar%20chart.png" width="1000"/>
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Stacked%20Bar%20Chart.png" width="1000"/>
 </p>
 
 
@@ -484,27 +484,19 @@ Optional:
 ### 6. In which exams are students most likely to decline in performance?
 
 <p align="center">
-  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Trend%20and%20Decline%20Analysis.png" width="1000"/>
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Trend%20%26%20Decline%20Analysis.png" width="1000"/>
 </p>
 				
 ### 5. Who improved the most in their second attempt?	
 
 <p align="center">
-  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Stacked%20Bar%20chart.png" width="1000"/>
-</p>
-
-
-### 6. In which exams are students most likely to decline in performance?	
-
-<p align="center">
   <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Improve%20Attempts.png" width="1000"/>
 </p>
-
 
 ### 7. Is there any correlation between exam date and pass rate over time?
 
 <p align="center">
-  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Pass%20Rate.png" width="1000"/>
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Pass%20Rtae.png" width="1000"/>
 </p>
 
 ### Extra Insight From me (Clustering)
@@ -513,6 +505,13 @@ Optional:
   <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/Cluster.png" width="1000"/>
 </p>
 
+## Clustering with Machine Learning Algorithm
+
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Power%20BI%20Visualization/ML.png" width="1000"/>
+</p>
+
+**See All Steps** [Click Here](https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/Machine%20Learning%20Clustering/Student%20Clustering.ipynb)
 
 | Cluster | Student Count | Avg Duration (sec) | Avg Mark | % Mark   |
 | ------- | ------------- | ------------------ | -------- | -------- |
