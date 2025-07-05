@@ -1,5 +1,15 @@
 # Student Data Query and Visualization
 
+##  Table of Contents
+
+| Section Title                             | Link                                                   |
+|-------------------------------------------|--------------------------------------------------------|
+| Basic EDA in SQL                          | [View Queries and Output](https://github.com/mdmahamudmredha/Student_Data_Query/tree/main?tab=readme-ov-file#sql-part)                      |
+| SQL Problem Solution                      | [View Queries and Output](https://github.com/mdmahamudmredha/Student_Data_Query/tree/main?tab=readme-ov-file#question-and-solve)                  |
+| Power BI Dashboard                        | [View Queries and Output](https://github.com/mdmahamudmredha/Student_Data_Query/tree/main?tab=readme-ov-file#power-bi-dashboard-link)                  |
+| Extra Insight: Clustering with ML         | [View Queries and Output](https://github.com/mdmahamudmredha/Student_Data_Query/tree/main?tab=readme-ov-file#clustering-with-machine-learning-algorithm)     |
+
+
 ### Video Explanation [Link](https://drive.google.com/file/d/1WboLO3csXj5o_d6RC992LE1-rLUCYIzs/view?usp=sharing)
 
 ## SQL Part
