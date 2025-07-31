@@ -6,7 +6,7 @@
 |-------------------------------------------|--------------------------------------------------------|
 | Basic EDA in SQL                          | [View Queries and Output](https://github.com/mdmahamudmredha/Student_Data_Query/tree/main?tab=readme-ov-file#sql-part)                      |
 | SQL Problem Solution                      | [View Queries and Output](https://github.com/mdmahamudmredha/Student_Data_Query/tree/main?tab=readme-ov-file#question-and-solve)                  |
-| Power BI Dashboard                        | [View Queries and Output](https://github.com/mdmahamudmredha/Student_Data_Query/tree/main?tab=readme-ov-file#power-bi-dashboard-link)                  |
+| Power BI Dashboard                        | [View Queries and Output](https://github.com/mdmahamudmredha/Student_Data_Query/tree/main?tab=readme-ov-file#visualization-part)                  |
 | Extra Insight: Clustering with ML         | [View Queries and Output](https://github.com/mdmahamudmredha/Student_Data_Query/tree/main?tab=readme-ov-file#clustering-with-machine-learning-algorithm)     |
 
 
