@@ -1,5 +1,9 @@
 # Student Data Query and Visualization
 
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/Student_Data_Query/blob/main/thumb.png" width="1000"/>
+</p>
+
 ##  Table of Contents
 
 | Section Title                             | Link                                                   |
